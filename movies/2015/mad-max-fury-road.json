@@ -1,0 +1,30 @@
+{
+  "name": "Mad Max 4: Fury Road",
+  "year": 2015,
+  "runtime": 120,
+  "categories": [
+    "action",
+    "dystopian"
+  ],
+  "release-date": "2015-05-07",
+  "director": [
+    "George Miller"
+  ],
+  "writer": [
+    "George Miller",
+    "Brendan McCarthy",
+    "Nico Lathouris"
+  ],
+  "actors": [
+    "Tom Hardy",
+    "Charlize Theron",
+    "Nicholas Hoult",
+    "Hugh Keays-Byrne",
+    "Rosie Huntington-Whiteley",
+    "Riley Keough",
+    "Zoë Kravitz",
+    "Abbey Lee",
+    "Courtney Eaton"
+  ],
+  "storyline": "The film is set in a future desert wasteland where gasoline and water are scarce commodities. It follows Max Rockatansky, who joins forces with Imperator Furiosa to flee from cult leader Immortan Joe and his army in an armoured tanker truck, which leads to a lengthy road battle."
+}
