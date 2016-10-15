@@ -1,0 +1,21 @@
+{
+  "name": "Interstellar",
+  "year": 2014,
+  "runtime": 169,
+  "categories": [
+    "adventure",
+    "drama",
+    "sci-fi"
+  ],
+  "release-date": "2014-11-07",
+  "director": "Christopher Nolan",
+  "writers": [
+    "Jonathan Nolan",
+    "Christopher Nolan"
+  ],
+  "actors": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ]
+}
