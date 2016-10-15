@@ -1,0 +1,25 @@
+{
+  "name": "The Hobbit: The Desolation of Smaug",
+  "year": 2013,
+  "runtime": 161,
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2013-12-13",
+  "director": "Peter Jackson",
+  "writer": [
+    "J.R.R. Tolkien",
+    "Fran Walsh",
+    "Philippa Boyens",
+    "Peter Jackson",
+    "Guillermo del Toro"
+  ],
+  "actors": [
+    "Martin Freeman",
+    "Ian McKellen",
+    "Richard Armitage"
+  ],
+  "storyline": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."
+}
+
