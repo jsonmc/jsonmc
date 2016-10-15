@@ -1,8 +1,10 @@
 # JSON Movie Collection
 
+[![Build Status](https://travis-ci.org/jsonmc/jsonmc.svg?branch=master)](https://travis-ci.org/jsonmc/jsonmc)
+
 A comprehensive collection of movies and actors easy to use and parse in json file format segregated by release year.
 
-###A movie has the following details
+### A movie has the following details
 
 
 Movie attribute | Details
@@ -17,7 +19,7 @@ Runtime | Runtime in mins
 Storyline | Brief description of the movie
 
 
-####Example movie file
+#### Example movie file
 
 ```json
 {
@@ -43,3 +45,6 @@ Storyline | Brief description of the movie
   "storyline": "Huge advancements in scientific technology have enabled a mogul ... critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
 }
 ```
+## Contributing
+
+Check `contributing.markdown` file for further instructions.
