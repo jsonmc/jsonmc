@@ -1,6 +1,6 @@
 # JSON Movie Collection
 
-A comprehensive collection of movies and actors easy to use and parse in json file format segregated
+A comprehensive collection of movies and actors easy to use and parse in json file format segregated by release year.
 
 ###A movie has the following details
 
