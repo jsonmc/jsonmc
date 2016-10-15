@@ -1,0 +1,24 @@
+{
+  "name": "X-Men: Days of Future Past",
+  "year": 2016,
+  "runtime": 144,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2016-05-27",
+  "director": "Bryan Singer",
+  "writer": [
+    "Simon Kinberg",
+    "Bryan Singer",
+    "Michael Dougherty",
+    "Dan Harris"
+  ],
+  "actors": [
+    "James McAvoy",
+    "Michael Fassbender",
+    "Jennifer Lawrence"
+  ],
+  "storyline": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan."
+}

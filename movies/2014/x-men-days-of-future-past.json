@@ -1,0 +1,23 @@
+{
+  "name": "X-Men: Days of Future Past",
+  "year": 2014,
+  "runtime": 132,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2014-05-23",
+  "director": "Bryan Singer",
+  "writer": [
+    "Simon Kinberg",
+    "Jane Goldman",
+    "Matthew Vaughn"
+  ],
+  "actors": [
+    "Patrick Stewart",
+    "Ian McKellen",
+    "Hugh Jackman"
+  ],
+  "storyline": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants."
+}

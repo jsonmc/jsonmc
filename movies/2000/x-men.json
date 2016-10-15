@@ -1,0 +1,23 @@
+{
+  "name": "X-Men",
+  "year": 2000,
+  "runtime": 104,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2000-07-14",
+  "director": "Bryan Singer",
+  "writer": [
+    "Tom DeSanto",
+    "Bryan Singer",
+    "David Hayter"
+  ],
+  "actors": [
+    "Patrick Stewart",
+    "Hugh Jackman",
+    "Ian McKellen"
+  ],
+  "storyline": "Two mutants come to a private academy for their kind whose resident superhero team must oppose a terrorist organization with similar powers."
+}

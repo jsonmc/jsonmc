@@ -1,0 +1,22 @@
+{
+  "name": "The Wolverine",
+  "year": 2013,
+  "runtime": 126,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2013-07-26",
+  "director": "James Mangold",
+  "writer": [
+    "Mark Bomback",
+    "Scott Frank"
+  ],
+  "actors": [
+    "Hugh Jackman",
+    "Will Yun Lee",
+    "Tao Okamoto"
+  ],
+  "storyline": "When Wolverine is summoned to Japan by an old acquaintance, he is embroiled in a conflict that forces him to confront his own demons."
+}
