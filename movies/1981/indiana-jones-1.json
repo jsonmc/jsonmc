@@ -1,0 +1,20 @@
+{
+  "name": "Raiders of the Lost Ark",
+  "year": 1981,
+  "runtume": 115,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "release-date": "1981-06-12",
+  "director": "Steven Spielberg",
+  "writer": [
+       "Lawrence Kasdan",
+       "George Lucas"
+  ],
+  "actors": [
+     "Harrison Ford", 
+     "Karen Allen", 
+     "Paul Freeman"
+  ]
+}
