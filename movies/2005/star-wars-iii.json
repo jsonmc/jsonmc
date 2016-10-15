@@ -1,0 +1,18 @@
+{
+  "name": "Star Wars: Episode III - Revenge of the Sith",
+  "year": 2005,
+  "runtime": 140,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2005-05-19",
+  "director": "George Lucas",
+  "writer": "George Lucas",
+  "actors": [
+     "Ewan McGregor",
+     "Natalie Portman",
+     "Hayden Christensen"
+  ]
+}
