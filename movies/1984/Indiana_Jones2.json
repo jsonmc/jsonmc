@@ -1,0 +1,20 @@
+{
+  "name": "Indiana Jones and the Temple of Doom",
+  "year": 1984,
+  "runtume": 118,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "release-date": "1984-05-23",
+  "director": "Steven Spielberg",
+  "writer": [
+       "Willard Huyck",
+       "Gloria Katz"
+  ],
+  "actors": [
+     "Harrison Ford", 
+     "Kate Capshaw", 
+     "Jonathan Ke Quan"
+  ]
+}
