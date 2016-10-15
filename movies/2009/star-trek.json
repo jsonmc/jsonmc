@@ -1,0 +1,21 @@
+{
+  "name": "Star Trek",
+  "year": 2009,
+  "runtume": 127,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2009-05-08",
+  "director": "J.J. Abrams",
+  "writer": [
+    "Roberto Orci"
+    "Alex Kurtzman"
+  ],
+  "actors": [
+     "Chris Pine",
+     "Zachary Quinto",
+     "Simon Pegg"
+  ]
+}
