@@ -1,0 +1,24 @@
+{
+  "name": "Mission: Impossible II",
+  "year": 2000,
+  "runtime": 123,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2000-05-24",
+  "director": "John Woo",
+  "writer": [
+    "Bruce Geller",
+    "Ronald D. Moore",
+    "Brannon Braga",
+    "Robert Towne"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Dougray Scott",
+    "Thandie Newton"
+  ],
+  "storyline":"A secret agent is sent to Sydney, to find and destroy a genetically modified disease called \"Chimera\"."
+}

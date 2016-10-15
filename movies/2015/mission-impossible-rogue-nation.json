@@ -1,0 +1,23 @@
+{
+  "name": "Mission Impossible - Rogue Nation",
+  "year": 2015,
+  "runtime": 131,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2015-07-31",
+  "director": "Christopher McQuarrie",
+  "writer": [
+    "Christopher McQuarrie",
+    "Drew Pearce",
+    "Bruce Geller"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Paula Patton",
+    "Simon Pegg"
+  ],
+  "storyline":"Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF."
+}
