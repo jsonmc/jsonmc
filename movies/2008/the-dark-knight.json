@@ -1,0 +1,25 @@
+{
+  "name": "The Dark Knight",
+  "year": 2008,
+  "runtime": 152,
+  "categories": [
+    "adventure",
+    "crime",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2008-07-18",
+  "director": "Christopher Nolan",
+  "writer": [
+    "Jonathan Nolan",
+    "David S. Goyer",
+    "Christopher Nolan",
+    "Bob Kane"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "storyline":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+}

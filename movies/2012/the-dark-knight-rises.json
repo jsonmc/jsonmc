@@ -1,0 +1,23 @@
+{
+  "name": "The Dark Knight Rises",
+  "year": 2012,
+  "runtime": 164,
+  "categories": [
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2012-07-20",
+  "director": "Christopher Nolan",
+  "writer": [
+    "Jonathan Nolan",
+    "David S. Goyer",
+    "Christopher Nolan",
+    "Bob Kane"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Tom Hardy",
+    "Anne Hathway"
+  ],
+  "storyline":"Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his imposed exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane."
+}

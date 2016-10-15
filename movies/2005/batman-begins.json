@@ -1,0 +1,22 @@
+{
+  "name": "Batman Begins",
+  "year": 2005,
+  "runtime": 128,
+  "categories": [
+    "adventure",
+    "action",
+  ],
+  "release-date": "2005-06-15",
+  "director": "Christopher Nolan",
+  "writer": [
+    "Bob Kane",
+    "David S. Goyer",
+    "Christopher Nolan"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Michael Caine",
+    "Ken Watanabe"
+  ],
+  "storyline":"After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it."
+}
