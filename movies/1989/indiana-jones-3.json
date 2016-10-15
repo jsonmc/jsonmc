@@ -4,7 +4,7 @@
   "runtume": 127,
   "categories": [
     "action",
-    "adventure"
+    "adventure",
     "fantasy"
   ],
   "release-date": "1989-05-24",
@@ -14,8 +14,8 @@
        "George Lucas"
   ],
   "actors": [
-     "Harrison Ford", 
-     "Sean Connery", 
+     "Harrison Ford",
+     "Sean Connery",
      "Alison Doody"
   ]
 }
