@@ -1,0 +1,29 @@
+{
+  "name": "Doctor Strange",
+  "year": 2016,
+  "runtime": 115,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "superhero"
+  ],
+  "release-date": "2016-11-03",
+  "director": "Scott Derrickson",
+  "writer": [
+    "Jon Spaihts",
+    "Scott Derrickson",
+    "C. Robert Cargill"
+  ],
+  "actors": [
+    "Benedict Cumberbatch",
+    "Chiwetel Ejiofor",
+    "Rachel McAdams",
+    "Benedict Wong",
+    "Michael Stuhlbarg",
+    "Benjamin Bratt",
+    "Scott Adkins",
+    "Mads Mikkelsen",
+    "Tilda Swinton"
+  ]
+}
