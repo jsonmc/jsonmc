@@ -1,0 +1,21 @@
+{
+  "name": "Star Wars: Episode II - Attack of the Clones",
+  "year": 2002,
+  "runtime": 142,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2002-05-16",
+  "director": "George Lucas",
+  "writer": [
+     "George Lucas",
+     "Jonathan Hales"
+  ],
+  "actors": [
+     "Ewan McGregor",
+     "Natalie Portman",
+     "Hayden Christensen"
+  ]
+}
