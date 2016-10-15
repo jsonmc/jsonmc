@@ -1,0 +1,19 @@
+{
+  "name": "Star Wars: Episode IV - A New Hope",
+  "year": 1977,
+  "runtume": 121,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1977-05-25",
+  "director": "George Lucas",
+  "writer": "George Lucas",
+  "actors": [
+     "Mark Hamill",
+     "Harrison Ford",
+     "Carrie Fisher",
+     "Alec Guinness"
+  ]
+}
