@@ -1,0 +1,29 @@
+{
+  "name": "Thor",
+  "year": 2011,
+  "runtime": 115,
+  "categories": [
+    "adventure",
+    "action",
+    "fantasy",
+    "sci-fi",
+  ],
+  "release-date": "2011-05-06",
+  "director": "Kenneth Branagh",
+  "writer": [
+    "Ashley Miller",
+    "Zack Stentz",
+    "Don Payne",
+    "J. Michael Straczynski",
+    "Mark Protosevich",
+    "Stan Lee",
+    "Larry Lieber",
+    "Jack Kirby"
+  ],
+  "actors": [
+    "Chris Hemsworth",
+    "Anthony Hopkins",
+    "Natalie Portman"
+  ],
+  "storyline":"The warrior Thor (Hemsworth) is cast out of the fantastic realm of Asgard by his father Odin (Hopkins) for his arrogance and sent to Earth to live among humans. Falling in love with scientist Jane Foster (Portman) teaches Thor much-needed lessons, and his new-found strength comes into play as a villain from his homeland sends dark forces toward Earth."
+}
