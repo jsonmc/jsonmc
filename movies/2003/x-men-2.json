@@ -1,0 +1,25 @@
+{
+  "name": "X-Men 2",
+  "year": 2003,
+  "runtime": 134,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2003-05-02",
+  "director": "Bryan Singer",
+  "writer": [
+    "Zak Penn",
+    "David Hayter",
+    "Bryan Singer",
+    "Michael Dougherty",
+    "Dan Harris"
+  ],
+  "actors": [
+    "Patrick Stewart",
+    "Hugh Jackman",
+    "Halle Berry"
+  ],
+  "storyline": "The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces."
+}
