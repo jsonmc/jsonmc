@@ -1,0 +1,25 @@
+{
+  "name": "Iron Man 2",
+  "year": 2010,
+  "runtime": 124,
+  "categories": [
+    "adventure",
+    "action",
+    "sci-fi",
+  ],
+  "release-date": "2010-05-07",
+  "director": "Jon Favreau",
+  "writer": [
+    "Justin Theroux",
+    "Stan Lee",
+    "Don Heck",
+    "Larry Lieber",
+    "Jack Kirby"
+  ],
+  "actors": [
+    "Robert Downey Jr",
+    "Gwyneth Paltrow",
+    "Mickey Rourke"
+  ],
+  "storyline":"With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James \"Rhodey\" Rhodes at his side, must forge new alliances - and confront powerful enemies"
+}
