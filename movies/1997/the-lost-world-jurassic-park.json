@@ -1,0 +1,22 @@
+{
+  "name": "The Lost World: Jurassic Park",
+  "year": 1997,
+  "runtime": 129,
+  "categories": [
+    "adventure",
+    "action",
+    "sci-fi"
+  ],
+  "release-date": "1997-05-23",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Michael Crichton",
+    "David Koepp"
+  ],
+  "actors": [
+    "Jeff Goldblum",
+    "Julianne Moore",
+    "Pete Postlethwaite"
+  ],
+  "storyline": "Four years after the failure of Jurassic Park on Isla Nublar, John Hammond reveals to Ian Malcolm that there was another island (\"Site B\") on which dinosaurs were bred before being transported to Isla Nublar. Left alone since the disaster, the dinosaurs have flourished, and Hammond is anxious that the world see them in their \"natural\" environment before they are exploited."
+}

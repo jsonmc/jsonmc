@@ -1,0 +1,25 @@
+{
+  "name": "Jurassic World",
+  "year": 2015,
+  "runtime": 124,
+  "categories": [
+    "adventure",
+    "action",
+    "sci-fi",
+  ],
+  "release-date": "2015-06-12",
+  "director": "Colin Trevorrow",
+  "writer": [
+    "Rick Jaffa",
+    "Amanda Silver",
+    "Colin Trevorrow",
+    "Derek Connolly",
+    "Michael Crichton"
+  ],
+  "actors": [
+    "Chris Pratt",
+    "Bryce Dallas Howard",
+    "Ty Simpkins"
+  ],
+  "storyline": "22 years after the original Jurassic Park failed, the new park (also known as Jurassic World) is open for business. After years of studying genetics the scientists on the park genetically engineer a new breed of dinosaur. When everything goes horribly wrong, will our heroes make it off the island?"
+}
