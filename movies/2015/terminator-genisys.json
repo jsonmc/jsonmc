@@ -1,0 +1,30 @@
+{
+  "name": "Terminator Genisys",
+  "year": 2015,
+  "runtume": 126,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "description": "When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.",
+  "release-date": "2009-07-01",
+  "director": "Alan Taylor",
+  "writer": [
+       "Laeta Kalogridis",
+       "Patrick Lussier",
+       "James Cameron",
+       "Gale Anne Hurd"
+  ],
+  "actors": [
+     "Arnold Schwarzenegger", 
+     "Jason Clarke", 
+     "Emilia Clarke",
+     "Jai Courtney",
+     "J.K. Simmons",
+     "Dayo Okeniyi",
+     "Matt Smith",
+     "Courtney B. Vance",
+     "Byung-hun Lee"
+  ]
+}
