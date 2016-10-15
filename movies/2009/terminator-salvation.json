@@ -1,0 +1,28 @@
+{
+  "name": "Terminator Salvation",
+  "year": 2009,
+  "runtume": 115,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "description": "In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?",
+  "release-date": "2009-05-21",
+  "director": "McG",
+  "writer": [
+       "John Brancato",
+       "Michael Ferris"
+  ],
+  "actors": [
+     "Christian Bale", 
+     "Sam Worthington", 
+     "Moon Bloodgood",
+     "Helena Bonham Carter",
+     "Anton Yelchin",
+     "Jadagrace",
+     "Bryce Dallas Howard",
+     "Common",
+     "Jane Alexander"
+  ]
+}
