@@ -1,0 +1,31 @@
+{
+  "name": "How To Train Your Dragon",
+  "year": 2010,
+  "runtime": 98,
+  "categories": [
+    "animation",
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "family"
+  ],
+  "release-date": "2010-03-26",
+  "director": [
+    "Dean DeBlois",
+    "Chris Sanders"
+  ]
+  "writer": [
+    "William Davies",
+    "Dean DeBlois",
+    "Chris Sanders",
+    "Cressida Cowell",
+    "Adam F. Goldberg"
+  ],
+  "actors": [
+    "Jay Baruchel",
+    "Gerard Butler",
+    "Christopher Mintz-Plasse"
+  ],
+  "storyline":"A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed."
+}
