@@ -38,7 +38,7 @@ Always lower-case and singular.
 
 Also, Science Fiction is "sci-fi".
 
-Animation movies (such as *How to Train Your Dragon*) should have the _animation_ category.
+Animation movies (such as **How to Train Your Dragon**) should have the _animation_ category.
 
 ### Year
 
@@ -47,3 +47,15 @@ Just the integer number. No quotes.
 ### Runtime
 
 Length of the movie in minutes. Integer, no quotes.
+
+### Unreleased movies
+
+Add a key "future" with the value "true". If the movie is already released, there should be no "future" key at all.
+
+This information will be used to check if the movie release date has passed and the json file should be updated.
+
+# Tests
+
+Your commit must pass the tests to be considered.
+
+If you believe that your commit is right and the test is wrong, leave a comment on your commit so I can check it out. Commits with tests errors without comments will not be addressed.
