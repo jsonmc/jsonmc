@@ -1,0 +1,22 @@
+{
+  "name": "Superman II",
+  "year": 1981,
+  "runtime": 127,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1981-06-19",
+  "director": " Richard Lester",
+  "writer": [
+    "Joe Shuster",
+    "Jerry Siegel"
+  ],
+  "actors": [
+    "Gene Hackman",
+    "Christopher Reeve",
+    "Margot Kidder"
+  ],
+  "storyline": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth."
+}

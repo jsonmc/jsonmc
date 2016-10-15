@@ -1,0 +1,21 @@
+{
+  "name": "Man of Steel",
+  "year": 2013,
+  "runtime": 143,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2013-06-14",
+  "director": "Zack Snyder",
+  "writer": [
+    "David S. Goyer"
+  ],
+  "actors": [
+    "Henry Cavill",
+    "Amy Adams",
+    "Michael Shannon"
+  ],
+  "storyline": "Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction."
+}
