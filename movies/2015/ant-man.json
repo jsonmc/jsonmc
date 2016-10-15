@@ -1,0 +1,27 @@
+{
+  "name": "Ant-Man",
+  "year": 2015,
+  "runtime": 117,
+  "categories": [
+    "action",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2015-07-17",
+  "director": "Payton Reed",
+  "writer": [
+     "Edgar Wright",
+     "Joe Cornish",
+     "Adam McKay",
+     "Paul Rudd",
+     "Stan Lee",
+     "Jack Kirby"
+  ],
+  "actors": [
+     "Paul Rudd",
+     "Michael Douglas",
+     "Evangeline Lilly",
+     "Corey Stoll"
+  ],
+  "storyline": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world."
+}
