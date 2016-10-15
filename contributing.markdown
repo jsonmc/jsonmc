@@ -17,3 +17,7 @@ For now, all actors should reside on the /actors folder.
 ## Movies
 
 Each movie should be added to its own year folder and follow the "File Names" rule (above).
+
+### Storyline / Description
+
+Should have the "storyline" or "description" key and should only be the official one. No third-party content. Only official content, please.
