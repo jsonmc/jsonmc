@@ -1,0 +1,12 @@
+{
+  "name": "jsonmc",
+  "description": "JSON Movie Collection",
+  "author": "Sergio Moura <sergio@moura.us>",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.9.3"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint -e json movies/*/*.json actors/*.json"
+  }
+}
