@@ -1,0 +1,25 @@
+{
+  "name": "The Hobbit: The Battle of the Five Armies",
+  "year": 2014,
+  "runtime": 144,
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2014-12-17",
+  "director": "Peter Jackson",
+  "writer": [
+    "J.R.R. Tolkien",
+    "Fran Walsh",
+    "Philippa Boyens",
+    "Peter Jackson",
+    "Guillermo del Toro"
+  ],
+  "actors": [
+    "Martin Freeman",
+    "Ian McKellen",
+    "Richard Armitage"
+  ],
+  "storyline": "Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness."
+}
+
