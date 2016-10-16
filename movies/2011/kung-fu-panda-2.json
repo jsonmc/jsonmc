@@ -1,0 +1,24 @@
+{
+  "name": "Kung Fu Panda 2",
+  "year": 2011,
+  "runtime": 90,
+  "categories": [
+    "animation",
+    "action",
+    "adventure",
+    "comedy",
+    "family"
+  ],
+  "release-date": "2011-05-26",
+  "director": "Jennifer Yuh Nelson",
+  "writer": [
+    "Jonathan Aibel",
+    "Glenn Berger"
+  ],
+  "actors": [
+    "Jack Black",
+    "Jackie Chan",
+    "Angelina Jolie"
+  ],
+  "storyline": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past."
+}

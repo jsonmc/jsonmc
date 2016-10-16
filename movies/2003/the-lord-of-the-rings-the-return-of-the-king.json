@@ -1,0 +1,25 @@
+{
+  "name": "The Lord of the Rings: The Return of the King",
+  "year": 2003,
+  "runtime": 201,
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "2003-12-17",
+  "director": "Peter Jackson",
+  "writer": [
+    "J.R.R. Tolkien",
+    "Fran Walsh",
+    "Philippa Boyens",
+    "Peter Jackson"
+  ],
+  "actors": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+  ],
+  "storyline": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+}

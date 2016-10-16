@@ -1,0 +1,29 @@
+{
+  "name": "Kung Fu Panda",
+  "year": 2008,
+  "runtime": 92,
+  "categories": [
+    "animation",
+    "action",
+    "adventure",
+    "comedy",
+    "family"
+  ],
+  "release-date": "2008-06-06",
+  "director": [
+    "Mark Osborne",
+    "John Stevenson"
+  ],
+  "writer": [
+    "Jonathan Aibel",
+    "Glenn Berger",
+    "Ethan Reiff",
+    "Cyrus Voris"
+  ],
+  "actors": [
+    "Jack Black",
+    "Ian McShane",
+    "Angelina Jolie"
+  ],
+  "storyline":"The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance: However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a tyro in martial arts."
+}

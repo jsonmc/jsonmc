@@ -1,0 +1,24 @@
+{
+  "name": "Mission: Impossible",
+  "year": 1996,
+  "runtime": 110,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1996-05-22",
+  "director": "Brian De Palma",
+  "writer": [
+    "Bruce Gellerl",
+    "David Koepp",
+    "Steven Zaillian",
+    "Robert Towne"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Jon Voight",
+    "Emmanuelle Béart"
+  ],
+  "storyline":"An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization."
+}

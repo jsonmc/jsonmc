@@ -1,0 +1,23 @@
+{
+	"name": "Transformers: Revenge of the Fallen",
+	"year": 2009,
+	"runtime": 150,
+	"categories": [
+	  "action",
+	  "adventure",
+	  "sci-fi"
+	],
+	"release-date": "2009-06-24",
+	"director": "Michael Bay",
+	"writer": [
+	  "Ehren Kruger",
+	  "Roberto Orci",
+	  "Alex Kurtzman"
+	],
+	"actors": [
+	  "Shia LaBeouf",
+	  "Megan Fox",
+	  "Josh Duhamel"
+	],
+	"storyline": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war."
+}

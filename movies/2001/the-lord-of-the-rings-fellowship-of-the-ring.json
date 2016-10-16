@@ -1,0 +1,25 @@
+{
+  "name": "The Lord of the Rings: The Fellowship of the Ring",
+  "year": 2001,
+  "runtime": 178,
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "2001-12-19",
+  "director": "Peter Jackson",
+  "writer": [
+    "J.R.R. Tolkien",
+    "Fran Walsh",
+    "Philippa Boyens",
+    "Peter Jackson"
+  ],
+  "actors": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Orlando Bloom"
+  ],
+  "storyline": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron."
+}

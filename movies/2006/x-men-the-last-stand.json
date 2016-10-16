@@ -1,0 +1,22 @@
+{
+  "name": "X-Men: The Last Stand",
+  "year": 2006,
+  "runtime": 104,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2006-05-26",
+  "director": "Brett Ratner",
+  "writer": [
+    "Simon Kinberg",
+    "Zak Penn"
+  ],
+  "actors": [
+    "Patrick Stewart",
+    "Hugh Jackman",
+    "Halle Berry"
+  ],
+  "storyline": "When a cure is found to treat mutations, lines are drawn amongst the X-Men, led by Professor Charles Xavier, and the Brotherhood, a band of powerful mutants organized under Xavier's former ally, Magneto."
+}

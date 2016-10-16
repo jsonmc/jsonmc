@@ -1,0 +1,24 @@
+{
+	"name": "Transformers",
+	"year": 2007,
+	"runtime": 144,
+	"categories": [
+	  "action",
+	  "adventure",
+	  "sci-fi"
+	],
+	"release-date": "2007-07-03",
+	"director": "Michael Bay",
+	"writer": [
+	  "Roberto Orci",
+	  "Alex Kurtzman",
+	  "John Rogers"
+	],
+	"actors": [
+	  "Shia LaBeouf",
+	  "Megan Fox",
+	  "Josh Duhamel",
+	  "Tyrese Gibson"
+	],
+	"storyline": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager."
+}

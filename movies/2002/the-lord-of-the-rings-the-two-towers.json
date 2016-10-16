@@ -1,0 +1,26 @@
+{
+  "name": "The Lord of the Rings: The Two Towers",
+  "year": 2002,
+  "runtime": 179,
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "2002-12-18",
+  "director": "Peter Jackson",
+  "writer": [
+    "J.R.R. Tolkien",
+    "Fran Walsh",
+    "Philippa Boyens",
+    "Stephen Sinclair",
+    "Peter Jackson"
+  ],
+  "actors": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+  ],
+  "storyline": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+}

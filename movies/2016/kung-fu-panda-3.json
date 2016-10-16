@@ -1,0 +1,28 @@
+{
+  "name": "Kung Fu Panda 2",
+  "year": 2016,
+  "runtime": 95,
+  "categories": [
+    "animation",
+    "action",
+    "adventure",
+    "comedy",
+    "family",
+    "fantasy"
+  ],
+  "release-date": "2016-01-29",
+  "director": [
+    "Jennifer Yuh Nelson",
+    "Alessandro Carloni"
+  ],
+  "writer": [
+    "Jonathan Aibel",
+    "Glenn Berger"
+  ],
+  "actors": [
+    "Jack Black",
+    "Bryan Cranston",
+    "Dustin Hoffman"
+  ],
+  "storyline": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home."
+}

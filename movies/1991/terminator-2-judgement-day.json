@@ -1,0 +1,30 @@
+{
+  "name": "Terminator 2: Judgment Day",
+  "year": 1991,
+  "runtume": 137,
+  "categories": [
+    "action",
+    "sci-fi",
+    "thriller"
+  ],
+  "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.",
+  "release-date": "1991-07-03",
+  "director": "James Cameron",
+  "writer": [
+       "James Cameron",
+       "William Wisher Jr."
+  ],
+  "actors": [
+     "Arnold Schwarzenegger", 
+     "Edward Furlong", 
+     "Linda Hamilton",
+     "Robert Patrick",
+     "Earl Boen",
+     "Joe Morton",
+     "S. Epatha Merkerson",
+     "Castulo Guerra",
+     "Danny Cooksey",
+     "Jenette Goldstein",
+     "Xander Berkeley"
+  ]
+}

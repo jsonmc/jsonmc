@@ -1,0 +1,26 @@
+{
+  "name": "X-Men: First Class",
+  "year": 2011,
+  "runtime": 132,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2011-06-03",
+  "director": "Matthew Vaughn",
+  "writer": [
+    "Ashley Miller",
+    "Zack Stentz",
+    "Jane Goldman",
+    "Matthew Vaughn",
+    "Sheldon Turner",
+    "Bryan Singer"
+  ],
+  "actors": [
+    "James McAvoy",
+    "Michael Fassbender",
+    "Jennifer Lawrence"
+  ],
+  "storyline": "In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III."
+}
