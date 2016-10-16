@@ -1,0 +1,22 @@
+{
+  "name": "Harry Potter and the Sorcerer's Stone",
+  "year": 2001,
+  "runtime": 152,
+  "categories": [
+    "adventure",
+    "family",
+    "fantasy"
+  ],
+  "release-date": "2001-11-16",
+  "director": "Chris Columbus",
+  "writer": [
+    "J.K. Rowling",
+    "Steve Kloves"
+  ],
+  "actors": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Richard Harris"
+  ],
+  "storyline": "At Hogwarts School of Witchcraft and Wizardry, Harry embarks on the adventure of a lifetime. He learns the high-flying sport Quidditch and plays a thrilling game with living chess pieces on his way to face a Dark Wizard bent on destroying him."
+}
