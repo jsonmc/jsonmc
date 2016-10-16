@@ -1,0 +1,24 @@
+{
+  "name": "Mission Impossible III",
+  "year": 2006,
+  "runtime": 126,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2006-05-05",
+  "director": "J.J. Abrams",
+  "writer": [
+    "Bruce Geller",
+    "Alex Kurtzman",
+    "Roberto Orci",
+    "J.J. Abrams"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Philip Seymour Hoffman",
+    "Ving Rhames"
+  ],
+  "storyline":"Agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fianceé in response."
+}

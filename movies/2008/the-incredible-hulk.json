@@ -1,0 +1,21 @@
+{
+  "name": "The Incredible Hulk",
+  "year": 2008,
+  "runtime": 112,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2008-06-13",
+  "director": "Louis Leterrier",
+  "writer": [
+    "Zak Penn"
+  ],
+  "actors": [
+    "Edward Norton",
+    "Liv Tyler",
+    "Tim Roth"
+  ],
+  "storyline": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he emerges whenever he loses his temper. However, Banner then must fight a soldier who unleashes himself as a threat stronger than he."
+}

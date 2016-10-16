@@ -1,0 +1,24 @@
+{
+  "name": "Mad Max 3: Beyond Thunderdome",
+  "year": 1985,
+  "runtime": 107,
+  "categories": [
+    "action",
+    "dystopian",
+    "adventure"
+  ],
+  "release-date": "1985-07-10",
+  "director": [
+    "George Miller", 
+    "George Ogilvie"
+  ],
+  "writer": [
+    "George Miller",
+    "Terry Hayes"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Tina Turner"
+  ],
+  "storyline": "Max is exiled into the desert by the corrupt ruler of Bartertown, Aunty Entity, and there encounters an isolated cargo cult centered on a crashed Boeing 747 and its deceased captain."
+}

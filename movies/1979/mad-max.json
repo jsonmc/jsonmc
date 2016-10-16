@@ -1,0 +1,24 @@
+{
+  "name": "Mad Max",
+  "year": 1979,
+  "runtime": 93,
+  "categories": [
+    "action",
+    "dystopian"
+  ],
+  "release-date": "1979-04-12",
+  "director": "George Miller",
+  "writer": [
+    "George Miller",
+    "James McCausland"	
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Joanne Samuel",
+    "Hugh Keays-Byrne",
+    "Steve Bisley",
+    "Tim Burns",
+    "Roger Ward"
+  ],
+  "storyline": "The film presents a tale of societal collapse, murder, and vengeance set in a future Australia, in which a vengeful policeman becomes embroiled in a feud with a vicious motorcycle gang."
+}

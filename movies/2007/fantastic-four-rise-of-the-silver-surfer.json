@@ -1,0 +1,26 @@
+{
+  "name": "Fantastic 4: Rise of the Silver Surfer",
+  "year": 2007,
+  "runtime": 92,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2007-06-15",
+  "director": "Tim Story",
+  "writer": [
+    "Don Payne",
+    "Mark Frost",
+    "John Turman",
+    "Stan Lee", 
+    "Jack Kirby"
+  ],
+  "actors": [
+    "Ioan Gruffudd",
+    "Jessica Alba",
+    "Chris Evans",
+    "Michael Chiklis"
+  ],
+  "storyline": "The Fantastic Four learn that they aren't the only super-powered beings in the universe when they square off against the powerful Silver Surfer and the planet-eating Galactus."
+}

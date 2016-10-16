@@ -1,0 +1,27 @@
+{
+  "name": "Guardians of the Galaxy",
+  "year": 2014,
+  "runtime": 121,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2014-08-01",
+  "director": [
+    "James Gunn"
+  ],
+  "writer": [
+    "James Gunn",
+    "Nicole Perlman",
+    "Dan Abnett",
+    "Andy Lanning"
+  ],
+  "actors": [
+    "Chris Pratt",
+    "Zoe Saldana",
+    "Vin Diesel",
+    "Bradley Cooper"
+  ],
+  "storyline": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mission Impossible - Ghost Protocol",
+  "year": 2011,
+  "runtime": 126,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2011-12-21",
+  "director": "Brad Bird",
+  "writer": [
+    "Bruce Geller",
+    "Josh Appelbaum",
+    "André Nemec"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Paula Patton",
+    "Simon Pegg"
+  ],
+  "storyline": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name."
+}

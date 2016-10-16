@@ -1,0 +1,21 @@
+{
+  "name": "Indiana Jones and the Last Crusade",
+  "year": 1989,
+  "runtume": 127,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "1989-05-24",
+  "director": "Steven Spielberg",
+  "writer": [
+       "Jeffrey Boam",
+       "George Lucas"
+  ],
+  "actors": [
+     "Harrison Ford",
+     "Sean Connery",
+     "Alison Doody"
+  ]
+}
