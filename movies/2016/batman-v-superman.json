@@ -1,0 +1,22 @@
+{
+  "name": "Batman v Superman: Dawn of Justice",
+  "year": 2016,
+  "runtime": 151,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2016-03-25",
+  "director": "Zack Snyder",
+  "writer": [
+    "Chris Terrio",
+    "David S. Goyer"
+  ],
+  "actors": [
+    "Ben Affleck",
+    "Henry Cavill",
+    "Amy Adams"
+  ],
+  "storyline": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs."
+}

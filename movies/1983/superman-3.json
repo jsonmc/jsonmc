@@ -1,0 +1,22 @@
+{
+  "name": "Superman III",
+  "year": 1983,
+  "runtime": 125,
+  "categories": [
+    "action",
+    "comedy",
+    "sci-fi"
+  ],
+  "release-date": "1983-06-17",
+  "director": " Richard Lester",
+  "writer": [
+    "Joe Shuster",
+    "Jerry Siegel"
+  ],
+  "actors": [
+    "Christopher Reeve",
+    "Richard Pryor",
+    "Margot Kidder"
+  ],
+  "storyline": "Synthetic kryptonite laced with tobacco tar splits Superman in two: good Clark Kent and bad Man of Steel."
+}

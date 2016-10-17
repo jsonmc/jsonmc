@@ -1,0 +1,19 @@
+{
+  "name": "Superman",
+  "year": 1977,
+  "runtime": 143,
+  "categories": [
+    "action",
+    "adventure",
+    "drama"
+  ],
+  "release-date": "1978-12-15",
+  "director": "Richard Donner",
+  "writer": "Jerry Siegel",
+  "actors": [
+     "Christopher Reeve",
+     "Margot Kidde",
+     "Gene Hackman"
+  ],
+  "storyline": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero."
+}

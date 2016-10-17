@@ -1,0 +1,22 @@
+{
+  "name": "Superman Returns",
+  "year": 2006,
+  "runtime": 154,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2006-06-28",
+  "director": "Bryan Singer",
+  "writer": [
+    "Michael Dougherty",
+    "Dan Harris"
+  ],
+  "actors": [
+    "Brandon Routh",
+    "Kevin Spacey",
+    "Kate Bosworth"
+  ],
+  "storyline": "Superman reappears after a long absence, but is challenged by an old foe who uses Kryptonian technology for world domination."
+}
