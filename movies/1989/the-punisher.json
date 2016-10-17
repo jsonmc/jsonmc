@@ -1,0 +1,20 @@
+{
+	"name": "The Punisher",
+	"year": 1989,
+	"runtime": 89,
+	"categories": [
+		"action",
+		"crime",
+		"drama",
+		"thriller"
+	],
+	"release-date": "1989-10-05",
+	"director": "Mark Goldblatt",
+	"writer": "Boaz Yakin",
+	"actors": [ 
+		"Dolph Lundgren", 
+		"Louis Gossett Jr.", 
+		"Jeroen Krabbe"
+	],
+	"storyline": "When Frank Castle's family is murdered by criminals, he wages war on crime as a vigilante assassin known only as the Punisher."
+}
