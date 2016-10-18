@@ -1,0 +1,22 @@
+{
+	"name": "The Punisher",
+	"year": 2004,
+	"runtime": 124,
+	"categories": [
+		"action",
+		"crime",
+		"drama"
+	],
+	"release-date": "2004-16-04",
+	"director": "Jonathan Hensleigh",
+	"writer": [
+		"Jonathan Hensleigh", 
+		"Michael France"
+	],
+	"actors": [ 
+		"Thomas Jane", 
+		"John Travolta", 
+		"Samantha Mathis"
+	],
+	"storyline": "An undercover FBI agent becomes a vigilante assassin and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion."
+}
