@@ -1,0 +1,21 @@
+{
+  "name": "Daredevil",
+  "year": 2003,
+  "runtime": 10,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2003-02-14",
+  "director": "Mark Steven Johnson",
+  "writer": [
+    "Mark Steven Johnson"
+  ],
+  "actors": [
+    "Ben Affleck",
+    "Jennifer Garner",
+    "Michael Clarke Duncan"
+  ],
+  "storyline": "Matt Murdock learns he his other senses have heightened after adolescent blindness.  He uses his newfound skillset to fight crime in Hell's Kitchen, to protect his neighbors from the organized crime of New York City."
+}
