@@ -1,0 +1,19 @@
+{
+  "name": "La La Land",
+  "year": 2016,
+  "runtime": 128,
+  "categories": [
+    "romance",
+    "musical"
+  ],
+  "release-date": "2016-08-31",
+  "director": "Damien Chazelle",
+  "writer": [
+    "Damien Chazelle"
+  ],
+  "actors": [
+    "Ryan Gosling",
+    "Emma Stone"
+  ],
+  "storyline": "Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart."
+}
