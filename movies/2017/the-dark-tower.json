@@ -9,7 +9,12 @@
   ],
   "release-date": "2017-08-18",
   "director": "Nikolaj Arcel",
-  "writer": "Akiva Goldsman",
+  "writer": [
+    "Akiva Goldsman",
+    "Nikolaj Arcel",
+    "Jeff Pinkner",
+    "Anders Thomas Jensen"
+  ]
   "actors": [
     "Idris Elba",
     "Matthew McConaughey",
