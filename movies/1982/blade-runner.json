@@ -1,1 +1,22 @@
 
+{
+  "name": "Blade Runner",
+  "year": 1982,
+  "runtume": 117,
+  "categories": [
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "1981-06-25",
+  "director": "Ridley Scott",
+  "writer": [
+       "Hampton Fancher",
+       "David Webb Peoples",
+       "Philip K. Dick"
+  ],
+  "actors": [
+     "Harrison Ford", 
+     "Rutger Hauer", 
+     "Sean Young"
+  ]
+}
