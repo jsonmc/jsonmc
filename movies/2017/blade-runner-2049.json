@@ -1,0 +1,21 @@
+
+{
+  "name": "Blade Runner 2049",
+  "year": 2017,
+  "runtime": 163,
+  "categories": [
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "2017-10-06",
+  "director": "Denis Villeneuve",
+  "writer": [
+       "Hampton Fancher",
+       "Michael Green"
+  ],
+  "actors": [
+     "Harrison Ford", 
+     "Ryan Gosling", 
+     "Ana de Armas"
+  ]
+}
