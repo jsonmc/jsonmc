@@ -1,0 +1,23 @@
+{
+  "name": "Suicide Squad",
+  "year": 2016,
+  "runtime": 137,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2013-07-22",
+  "director": "Justin Lin",
+  "writer": [
+    "Simon Pegg",
+    "Doug Jung"
+  ],
+  "actors": [
+     "Chris Pine",
+     "Zachary Quinto",
+     "Zoe Saldana",
+     "Karl Urban",
+     "Simon Pegg"
+  ]
+}
