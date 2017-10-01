@@ -3,9 +3,9 @@
     "year": 2013,
     "runtime":130,
     "categories":[
-        "Action",
-        "Crime",
-        "Thriller"
+        "action",
+        "crime",
+        "thriller"
     ],
     "release-date":"2013-05-24",
     "director":"Justin Lin",

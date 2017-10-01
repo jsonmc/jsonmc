@@ -3,9 +3,9 @@
     "year": 2003,
     "runtime":103,
     "categories":[
-        "Action",
-        "Crime",
-        "Thriller"
+        "action",
+        "crime",
+        "thriller"
     ],
     "release-date":"2003-06-06",
     "director":"John Singleton",
