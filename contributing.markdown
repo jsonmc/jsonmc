@@ -6,6 +6,8 @@ The JSON output should be the default "pretty" json output provided by node, wit
 
 When in doubt, the output should match the `JSON.stringify(data, null, 2)` function output. `data` being the contents of the json file.
 
+When working on a issue, make a comment on the issue so that we don't have multiple people working on the same movies/actors.
+
 ## File Names
 
 All filenames should be lower-case. Spaces should be replaced by dashes ("-").
