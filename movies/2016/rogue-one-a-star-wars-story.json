@@ -1,0 +1,22 @@
+{
+  "name": "Rogue One: A Star Wars Story",
+  "year": 2016,
+  "runtime": 133,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2016-12-16",
+  "director": "Gareth Edwards",
+  "writer": [
+    "Chris Weitz",
+    "Tony Gilroy"
+  ],
+  "actors": [
+    "Felicity Jones",
+    "Diego Luna",
+    "Alan Tudyk"
+  ],
+  "storyline": "The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow."
+}
