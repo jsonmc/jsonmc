@@ -47,4 +47,4 @@ Storyline | Brief description of the movie
 ```
 ## Contributing
 
-Check [Contributing Guide](contributing.md) for further instructions.
+Check [Contributing Guide](contributing.markdown) for further instructions.
