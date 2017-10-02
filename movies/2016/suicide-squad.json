@@ -1,0 +1,20 @@
+{
+  "name": "Suicide Squad",
+  "year": 2016,
+  "runtime": 137,
+  "categories": [
+    "sci-fi",
+    "action",
+    "thriller",
+    "fantasy"
+  ],
+  "release-date": "2016-08-05",
+  "director": "David Ayer",
+  "writer": "David Ayer",
+  "actors": [
+    "Will Smith",
+    "Jared Leto",
+    "Margot Robbie"
+  ],
+  "storyline": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse."
+}
