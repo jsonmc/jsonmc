@@ -47,4 +47,5 @@ Storyline | Brief description of the movie
 ```
 ## Contributing
 
-Check `contributing.markdown` file for further instructions.
+
+Check [Contributing Guide](contributing.markdown) for further instructions.
