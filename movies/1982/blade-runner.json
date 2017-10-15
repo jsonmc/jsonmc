@@ -1,0 +1,22 @@
+{
+  "name": "Blade Runner",
+  "year": 1982,
+  "runtime": 117,
+  "categories": [
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "1982-09-09",
+  "director": " Ridley Scott",
+  "writer": [
+    "Hampton Fancher",
+    "David Peoples",
+    "Philip K. Dick"
+  ],
+  "actors": [
+    "Harrison Ford",
+    "Sean Young",
+    "Roy Batty"
+  ],
+  "storyline": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
+}

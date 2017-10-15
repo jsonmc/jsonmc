@@ -1,0 +1,26 @@
+{
+  "name": "The Dark Tower",
+  "year": 2017,
+  "runtime": 95,
+  "categories": [
+    "sci-fi",
+    "thriller",
+    "fantasy"
+  ],
+  "release-date": "2017-08-18",
+  "director": "Nikolaj Arcel",
+  "writer": [
+    "Akiva Goldsman",
+    "Nikolaj Arcel",
+    "Jeff Pinkner",
+    "Anders Thomas Jensen"
+  ],
+  "actors": [
+    "Idris Elba",
+    "Matthew McConaughey",
+    "Tom Taylor",
+    "Abbey Lee Kershaw",
+    "Katheryn Winnick"
+  ],
+  "storyline": "Roland Deschain (Idris Elba), the last Gunslinger, is locked in an eternal battle with Walter O'Dim (Matthew McConaughey), also known as the Man in Black. The Gunslinger must prevent the Man in Black from toppling the Dark Tower, the key that holds the universe together. With the fate of worlds at stake, two men collide in the ultimate battle between good and evil."
+}

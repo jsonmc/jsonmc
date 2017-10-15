@@ -1,0 +1,23 @@
+{
+  "name": "Pacific Rim",
+  "year": 2013,
+  "runtime": 132,
+  "categories": [
+    "action",
+    "sci-fi"
+  ],
+  "release-date": "2013-07-12",
+  "director": "Guillermo del Toro",
+  "writer": [
+    "Travis Beacham",
+    "Guillermo del Toro"
+  ],
+  "actors": [
+    "Charlie Hunnam",
+    "Idris Elba",
+    "Charlie Day",
+    "Ron Perlman",
+    "Rinko Kikuchi"
+    
+  ]
+}
