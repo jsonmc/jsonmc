@@ -1,0 +1,24 @@
+{
+  "name": "Spiderman",
+  "year": 2002,
+  "runtime": 121,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "release-date": "2002-05-24",
+  "director": "Sam Raimi",
+  "writer": [
+     "David Koepp",
+     "Scott RosenBerg"
+  ],
+  "actors": [
+     "Tobey Maguire",
+     "Willem Dafoe",
+     "Kirsten Dunst",
+     "James Franco",
+     "Cliff Robertson",
+     "Rosemary Harris"
+  ],
+  "storyline": "Nerdy boy gains spider-like abilities when bitten by a genetically modified sipder." 
+}
