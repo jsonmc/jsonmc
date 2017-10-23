@@ -1,0 +1,25 @@
+{
+  "name": "Spectre",
+  "year": 2015,
+  "runtime": 148,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2015-11-06",
+  "director": "Sam Mendes",
+  "writer": [
+    "John Logan",
+    "Neal Purvis",
+    "Robert Wade",
+    "Jez Butterworth"
+  ],
+  "actors": [
+    "Daniel Craig",
+    "Christoph Waltz",
+    "Léa Seydoux",
+    "Ralph Fiennes"
+  ],
+  "storyline": "A cryptic message from Bond's past, sends him on a trail to uncover a sinister organization. While M battles political forces to keep the Secret Service alive, Bond peels back the layers of deceit to reveal the terrible truth behind S.P.E.C.T.R.E."
+}
