@@ -1,0 +1,25 @@
+{
+  "name": "The Magnificent Seven",
+  "year": 2016,
+  "runtime": 132,
+  "categories": [
+    "action",
+    "adventure",
+    "western"
+  ],
+  "release-date": "2016-09-22",
+  "director": "Antoine Fuqua",
+  "writer": [
+    "Akira Kurosawa",
+    "Shinobu Hashimoto",
+    "Hideo Oguni",
+    "Nic Pizzolatto",
+    "Richard Wenk"
+  ],
+  "actors": [
+    "Denzel Washington",
+    "Chris Pratt",
+    "Ethan Hawke",
+  ],
+  "storyline": "Seven gunmen in the old west gradually come together to help a poor village against savage thieves."
+}
