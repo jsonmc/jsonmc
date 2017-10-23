@@ -1,0 +1,22 @@
+{
+  "name": "Capitao Falcao",
+  "year": 2015,
+  "runtime": 106,
+  "categories": [
+    "action",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2015-04-23",
+  "director": "Joao Leitao",
+  "writer": [
+    "Joao Leitao",
+    "Nurian Leon Bernanrdo"
+  ],
+  "actors": [
+    "Goncalo Waddington",
+    "David Chan Cordeiro",
+    "Miguel Guilherme"
+  ],
+  "storyline": "Follows Portugal's first fascist superhero: the ultra patriotic Captain Falcon!"
+}
