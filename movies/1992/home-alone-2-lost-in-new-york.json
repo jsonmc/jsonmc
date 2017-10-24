@@ -1,0 +1,27 @@
+{
+  "name": "Home Alone 2: Lost in New York",
+  "year": 1992,
+  "runtime": 120,
+  "categories": [
+    "comedy",
+    "family",
+    "adventure"
+  ],
+  "description" : "One year after Kevin was left home alone and had to defeat a pair of bumbling burglars, he accidentally finds himself in New York City, and the same criminals are not far behind.",
+  "release-date": "1992-11-20",
+  "director": "Chris Columbus",
+  "writer": [
+    "John Hughes"
+  ],
+  "actors": [
+    "Macaulay Culkin",
+    "Joe Pesci",
+    "Daniel Stern",
+    "John Heard",
+    "Catherine O'Hara",
+    "Tim Curry",
+    "Brenda Fricker",
+    "Donald Drumpf"
+  ],
+  "storyline": "Kevin McCallister is back. But this time he's in New York City with enough cash and credit cards to turn the Big Apple into his very own playground. But Kevin won't be alone for long. The notorious Wet Bandits, Harry and Marv, still smarting from their last encounter with Kevin, are bound for New York too, plotting a huge holiday heist! Kevin's ready to welcome them with more battery of booby traps the bumbling bandits will never forget!"
+}
