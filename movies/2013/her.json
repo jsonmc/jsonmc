@@ -1,0 +1,21 @@
+{
+  "name": "Her",
+  "year": 2013,
+  "runtime": 126,
+  "categories": [
+    "drama",
+    "romance",
+    "sci-fi"
+  ],
+  "release-date": "2013-10-12",
+  "director": "Spike Jonze",
+  "writer": [
+    "Spike Jonze"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Amy Adams",
+    "Scarlett Johansson"
+  ],
+  "storyline": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need."
+}
