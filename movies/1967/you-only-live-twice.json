@@ -1,0 +1,24 @@
+{
+  "name": "You Only Live Twice",
+  "year": 1967,
+  "runtime": 117,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1967-06-12",
+  "director": "Lewis Gilbert",
+  "writer": [
+    "Harold Jack Bloom",
+    "Roald Dahl",
+    "Geoffrey Jenkins",
+    "Ian Fleming"
+  ],
+  "actors": [
+     "Sean Connery",
+     "Akiko Wakabayashi",
+     "Mie Hama"
+  ],
+  "storyline" : "Agent 007 and the Japanese secret service ninja force must find and stop the true culprit of a series of spacejackings before nuclear war is provoked."
+}

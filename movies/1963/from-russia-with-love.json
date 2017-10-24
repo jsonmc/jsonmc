@@ -1,0 +1,24 @@
+{
+  "name": "From Russia with Love",
+  "year": 1963,
+  "runtime": 115,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1963-10-10",
+  "director": "Terence Young",
+  "writer": [
+    "Richard Maibaum",
+    "Johanna Harwood",
+    "Berkely Mather",
+    "Ian Fleming"
+  ],
+  "actors": [
+     "Sean Connery",
+     "Robert Shaw",
+     "Lotte Lenya"
+  ],
+  "storyline" : "James Bond willingly falls into an assassination ploy involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by SPECTRE."
+}
