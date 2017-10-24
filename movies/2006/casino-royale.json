@@ -1,0 +1,24 @@
+{
+  "name": "Casino Royale",
+  "year": 2006,
+  "runtime": 144,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2006-11-17",
+  "director": "Martin Campbell",
+  "writer": [
+    "Neal Purvis",
+    "Robert Wade",
+    "Paul Haggis"
+  ],
+  "actors": [
+    "Daniel Craig",
+    "Eva Green",
+    "Mads Mikkelsen",
+    "Judi Dench"
+  ],
+  "storyline": "Armed with a license to kill, Secret Agent James Bond sets out on his first mission as 007, and must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale, Montenegro, but things are not what they seem."
+}

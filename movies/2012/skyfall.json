@@ -1,0 +1,24 @@
+{
+  "name": "Skyfall",
+  "year": 2012,
+  "runtime": 143,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2012-11-09",
+  "director": "Sam Mendes",
+  "writer": [
+    "Neal Purvis",
+    "Robert Wade",
+    "John Logan"
+  ],
+  "actors": [
+    "Daniel Craig",
+    "Judi Dench",
+    "Javier Bardem",
+    "Ralph Fiennes"
+  ],
+  "storyline": "Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost."
+}
