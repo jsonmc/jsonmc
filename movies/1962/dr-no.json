@@ -1,0 +1,26 @@
+{
+  "name": "Dr. No",
+  "year": 1962,
+  "runtime": 110,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1962-10-05",
+  "director": "Terence Young",
+  "writer": [
+    "Richard Maibaum",
+    "Johanna Harwood",
+    "Berkely Mather",
+    "Ian Fleming"
+  ],
+  "actors": [
+     "Sean Connery",
+     "Ursula Andress",
+     "Joseph Wiseman",
+     "Jack Lord",
+     "Bernard Lee"
+  ],
+  "storyline" : "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program."
+}

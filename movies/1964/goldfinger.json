@@ -1,0 +1,25 @@
+{
+  "name": "Goldfinger",
+  "year": 1964,
+  "runtime": 110,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1964-09-17",
+  "director": "Guy Hamilton",
+  "writer": [
+    "Richard Maibaum",
+    "Paul Dehn",
+    "Johanna Harwood",
+    "Berkely Mather",
+    "Ian Fleming"
+  ],
+  "actors": [
+     "Sean Connery",
+     "Gert Fröbe",
+     "Honor Blackman"
+  ],
+  "storyline" : "Investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve."
+}

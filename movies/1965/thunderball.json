@@ -1,0 +1,25 @@
+{
+  "name": "Thunderball",
+  "year": 1965,
+  "runtime": 130,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1965-12-09",
+  "director": "Terence Young",
+  "writer": [
+    "Richard Maibaum",
+    "John Hopkins",
+    "Jack Whittingham",
+    "Kevin McClory",
+    "Ian Fleming"
+  ],
+  "actors": [
+     "Sean Connery",
+     "Claudine Auger",
+     "Adolfo Celi"
+  ],
+  "storyline" : "James Bond heads to The Bahamas to recover two nuclear warheads stolen by SPECTRE agent Emilio Largo in an international extortion scheme."
+}
