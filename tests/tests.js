@@ -8,7 +8,8 @@ fs.readdir('./movies', (err, years) => {
     fs.readdir('./movies/' + year, (err, files) => {
       files.forEach(file => {
         const fileName = './movies/' + year + '/' + file;
-        const movie = JSON.parse(fs.readFileSync(fileName, 'utf8'));
+        const movieData = fs.readFileSync(fileName, 'utf8')
+        const movie = JSON.parse(movieData);
         const expectedFileName = movie.name
           .replace(/[\'\"]/g, '')
           .replace(/([\:\.]| - )/g, ' ')
@@ -16,6 +17,11 @@ fs.readdir('./movies', (err, years) => {
           .replace(/&/, 'and')
           .replace(/\s+/g, '-')
           .toLowerCase();
+
+        if (movie.year !== parseInt(year)) {
+          console.warn(fileName + ' movie is in the wrong year folder. Found: ' + movie.year + '. Expected: ' + year);
+          errorsFound = true;
+        }
 
         if (path.parse(file).name !== expectedFileName) {
           console.warn('./movies/' + year + '/' + file + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json');
