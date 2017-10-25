@@ -3,13 +3,31 @@ var assert = require('assert');
 var path = require('path');
 
 fs.readdir('./movies', (err, years) => {
-  years.forEach(year => {
+  errorsFound = false;
+  years.sort().forEach(year => {
     fs.readdir('./movies/' + year, (err, files) => {
       files.forEach(file => {
-        let movie = JSON.parse(fs.readFileSync('./movies/' + year + '/' + file, 'utf8'));
-        assert.equal(path.parse(file).name, movie.name.replace(/\s+/g, '-').replace('.', '').replace(':', '').toLowerCase(), './movies/' + year + '/' + file + ' movie name is either wrong or file name is not according to guidelines');
-        assert.strictEqual(path.extname(file), '.json', file + ' extension is not json');
+        const fileName = './movies/' + year + '/' + file;
+        const movie = JSON.parse(fs.readFileSync(fileName, 'utf8'));
+        const expectedFileName = movie.name
+          .replace(/[\'\"]/g, '')
+          .replace(/([\:\.]| - )/g, ' ')
+          .replace(/  /g, ' ')
+          .replace(/&/, 'and')
+          .replace(/\s+/g, '-')
+          .toLowerCase();
+
+        if (path.parse(file).name !== expectedFileName) {
+          console.warn('./movies/' + year + '/' + file + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json');
+          errorsFound = true;
+        }
+        if (path.extname(file) !== '.json') {
+          console.warn(file + ' extension is not json');
+          errorsFound = true;
+        }
       });
     });
   });
+
+  assert.equal(errorsFound, false, 'Invalid files found');
 });
