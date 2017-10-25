@@ -7,7 +7,8 @@ fs.readdir('./movies', (err, years) => {
   years.sort().forEach(year => {
     fs.readdir('./movies/' + year, (err, files) => {
       files.forEach(file => {
-        const movie = JSON.parse(fs.readFileSync('./movies/' + year + '/' + file, 'utf8'));
+        const fileName = './movies/' + year + '/' + file;
+        const movie = JSON.parse(fs.readFileSync(fileName, 'utf8'));
         const expectedFileName = movie.name
           .replace(/[\'\"]/g, '')
           .replace(/([\:\.]| - )/g, ' ')
