@@ -1,0 +1,26 @@
+{
+  "name": "Never Say Never Again",
+  "year": 1983,
+  "runtime": 134,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1983-10-06",
+  "director": "Irvin Kershner",
+  "writer": [
+    "Kevin McClory",
+    "Jack Whittingham",
+    "Ian Fleming",
+    "Lorenzo Semple Jr.",
+    "Dick Clement",
+    "Ian La Frenais"
+  ],
+  "actors": [
+     "Sean Connery",
+     "Kim Basinger",
+     "Klaus Maria Brandauer"
+    ],
+  "storyline": "A SPECTRE agent has stolen two American nuclear warheads, and James Bond must find their targets before they are detonated."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Quantum of Solace",
+  "year": 2008,
+  "runtime": 106,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2008-11-14",
+  "director": "Marc Forster",
+  "writer": [
+    "Paul Haggis",
+    "Neal Purvis",
+    "Robert Wade"
+  ],
+  "actors": [
+    "Daniel Craig",
+    "Olga Kurylenko",
+    "Mathieu Amalric",
+    "Judi Dench"
+  ],
+  "storyline": "James Bond descends into mystery as he tries to stop a mysterious organization from eliminating a country's most valuable resource."
+}

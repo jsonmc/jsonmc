@@ -1,0 +1,29 @@
+{
+  "name": "Starship Troopers",
+  "year": 1997,
+  "runtime": 129,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "1997-11-07",
+  "director": "Paul Verhoeven",
+  "writer": [
+    "Edward Neumeier",
+    "Robert A. Heinlein"
+  ],
+  "actors": [
+    "Casper Van Dien",
+    "Dina Meyer",
+    "Denise Richards",
+    "Jake Busey",
+    "Neil Patrick Harris",
+    "Clancy Brown",
+    "Seth Gilliam",
+    "Patrick Muldoon",
+    "Michael Ironside"
+  ],
+  "storyline": "In the distant future, the Earth is at war with a race of giant alien insects. Little is known about the Bugs except that they are intent on the eradication of all human life. But there was a time before the war... A Mobile Infantry travels to distant alien planets to take the war to the Bugs. They are a ruthless enemy with only one mission: Survival of their species no matter what the cost..."
+}

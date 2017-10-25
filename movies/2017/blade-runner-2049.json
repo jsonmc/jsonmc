@@ -1,0 +1,25 @@
+{
+  "name": "Blade Runner 2049",
+  "year": 2017,
+  "runtime": 0,
+  "future": "true",
+  "categories": [
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "2017-10-05",
+  "director": "Denis Villeneuve",
+  "writer": [
+    "Hampton Fancher",
+    "Michael Green",
+    "Philip K. Dick"
+  ],
+  "actors": [
+    "Ryan Gosling",
+    "Harrison Ford",
+    "Robin Wright",
+    "Dave Bautista",
+    "Jared Leto"
+  ],
+  "storyline":"A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years."
+}

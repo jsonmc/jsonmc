@@ -1,0 +1,21 @@
+{
+  "name": "Dunkirk",
+  "year": 2017,
+  "runtime": 106,
+  "categories": [
+    "action",
+    "drama",
+    "history"
+  ],
+  "release-date": "2017-07-21",
+  "director": "Christopher Nolan",
+  "writer": [
+    "Christopher Nolan"
+  ],
+  "actors": [
+    "Fionn Whitehead",
+    "Barry Keoghan", 
+    "Mark Rylance"
+  ],
+  "storyline":"Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II."
+}
