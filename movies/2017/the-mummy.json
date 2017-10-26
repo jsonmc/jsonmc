@@ -1,0 +1,22 @@
+{
+  "name": "The Mummy",
+  "year": 2017,
+  "runtime": 110,
+  "categories": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "release-date": "2017-06-09",
+  "director": "Alex Kurtzman",
+  "writer": [
+    "David Koepp",
+    "Christopher McQuarrie"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Sofia Boutella",
+    "Annabelle Wallis"
+  ],
+  "storyline": "An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension."
+}
