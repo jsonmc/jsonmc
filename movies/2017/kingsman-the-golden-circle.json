@@ -1,0 +1,25 @@
+{
+  "name": "Kingsman: The Golden Circle",
+  "year": 2017,
+  "runtime": 141,
+  "categories": [
+    "adventure",
+    "action",
+    "comedy"
+  ],
+  "release-date": "2017-09-22",
+  "director": "Matthew Vaughn",
+  "writer": [
+    "Jane Goleman",
+    "Matthew Vaughn",
+    "Mark Millar",
+    "Dave Gibbons"
+  ],
+  "actors": [
+    "Colin Firth",
+    "Taron Egerton",
+    "Julianne Moore",
+    "Mark Strong"
+  ],
+  "storyline": "When their headquarters are destroyed and the world is held hostage, the Kingsman's journey leads them to the discovery of an allied spy organization in the US. These two elite secret organizations must band together to defeat a common enemy."
+}
