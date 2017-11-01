@@ -1,0 +1,23 @@
+{
+  "name": "Life of Brian",
+  "year": 1979,
+  "runtume": 94,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "1979-11-08",
+  "director": "Terry Jones",
+  "writer": [
+       "Graham Chapman",
+       "John Cleese",
+       "Eric Idle",
+       "Terry Gilliam",
+       "Terry Jones",
+       "Michael Palin"
+  ],
+  "actors": [
+     "Graham Chapman",
+     "John Cleese",
+     "Michael Palin"
+  ]
+}

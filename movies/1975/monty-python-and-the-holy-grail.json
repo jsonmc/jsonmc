@@ -1,0 +1,28 @@
+{
+  "name": "Monty Python and the Holy Grail",
+  "year": 1975,
+  "runtume": 91,
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "release-date": "1975-05-25",
+  "director": [
+    "Terry Gilliam",
+    "Terry Jones"
+  ],
+  "writer": [
+       "Graham Chapman",
+       "John Cleese",
+       "Eric Idle",
+       "Terry Gilliam",
+       "Terry Jones",
+       "Michael Palin"
+  ],
+  "actors": [
+     "Graham Chapman",
+     "John Cleese",
+     "Eric Idle"
+  ]
+}

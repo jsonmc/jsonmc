@@ -1,0 +1,23 @@
+{
+  "name": "Sherlock Holmes",
+  "year": 2009,
+  "runtime": 128,
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2009-12-26",
+  "director": "Guy Ritchie",
+  "writer": [
+    "Michael Robert Johnson",
+    "Anthony Peckham"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Jude Law",
+    "Rachel McAdams"
+  ]
+}

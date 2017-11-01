@@ -1,0 +1,23 @@
+{
+  "name": "Sherlock Holmes: A Game of Shadows",
+  "year": 2011,
+  "runtime": 129,
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2011-12-16",
+  "director": "Guy Ritchie",
+  "writer": [
+    "Michele Mulroney",
+    "Kieran Mulroney"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Jude Law",
+    "Jared Harris"
+  ]
+}
