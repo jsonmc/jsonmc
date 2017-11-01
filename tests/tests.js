@@ -11,7 +11,13 @@ years.sort().forEach(year => {
   files.forEach(file => {
     const fileName = './movies/' + year + '/' + file;
     const movieData = fs.readFileSync(fileName, 'utf8')
-    const movie = JSON.parse(movieData);
+    let movie = null;
+    try {
+      movie = JSON.parse(movieData);
+    } catch (e) {
+      console.error('Error parsing ' + fileName);
+      throw new Error('Invalid JSON file: ' + fileName);
+    }
     const expectedFileName = movie.name
       .replace(/[\'\"]/g, '')
       .replace(/([\:\.]| - )/g, ' ')
