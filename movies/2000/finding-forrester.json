@@ -2,7 +2,9 @@
   "name": "Finding Forrester",
   "year": 2000,
   "runtime": 136,
-  "categories": "drama",
+  "categories": [
+    "drama"
+  ],
   "release-date": "2000-12-20",
   "director": "Gus Van Sant",
   "writer": "Mike Rich",

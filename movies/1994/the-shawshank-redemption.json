@@ -1,0 +1,23 @@
+{
+  "name": "The Shawshank Redemption",
+  "year": 1994,
+  "runtime": 142,
+  "categories": [
+    "crime",
+    "drama"
+  ],
+  "release-date": "1993-09-10",
+  "director": "Frank Darabont",
+  "writer": [
+    "Stephen King",
+    "Frank Darabont"
+  ],
+  "actors": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton",
+    "William Sadler",
+    "Clancy Brown"
+  ],
+  "storyline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+}

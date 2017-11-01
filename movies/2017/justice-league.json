@@ -1,0 +1,22 @@
+{
+  "name": "Justice League",
+  "year": 2017,
+  "runtime": 110,
+  "categories": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "release-date": "2017-11-17",
+  "director": "Zack Snyder",
+  "writer": [
+    "Chris Terrio",
+    "Joss Whedon"
+  ],
+  "actors": [
+    "Ben Affleck",
+    "Gal Gadot",
+    "Jason Momoa"
+  ],
+  "storyline": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy."
+}

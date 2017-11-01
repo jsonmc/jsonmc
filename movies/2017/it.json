@@ -1,0 +1,23 @@
+{
+  "name": "It",
+  "year": 2017,
+  "runtime": 135,
+  "categories": [
+    "drama",
+    "horror",
+    "thriller"
+  ],
+  "release-date": "2017-09-08",
+  "director": "Andy Muschietti",
+  "writer": [
+    "Chase Palmer",
+    "Cary Fukunaga",
+    "Gary Dauberman"
+  ],
+  "actors": [
+    "Bill Skarsgård",
+    "Jaeden Lieberher",
+    "Finn Wolfhard"
+  ],
+  "storyline": "A group of bullied kids band together when a shapeshifting demon, taking the appearance of a clown, begins hunting children."
+}
