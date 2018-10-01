@@ -1,0 +1,29 @@
+{
+"name": "Jack Reacher",
+"year": 2012,
+"runtume": 130,
+"categories": [
+	"action",
+	"crime",
+	"thriller"
+],
+"description": "A homicide investigator digs deeper into a case involving a trained military sniper who shot five random victims.",
+"release-date": "2012-12-21",
+"director": "Christopher McQuarrie",
+"writer": [
+  "Lee Child",
+  "Christopher McQuarrie",
+],
+"actors": [
+  "Tom Cruise",
+  "Rosamund Pike",
+  "Richard Jenkins",
+  "David Oyelowo",
+  "Werner Herzog",
+  "Jai Courtney",
+  "Vladimir Sizov",
+  "Joseph Sikora",
+  "Michael Raymond-James",
+]
+}
+
