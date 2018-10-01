@@ -1,0 +1,21 @@
+{
+  "name": "Happy Gilmore",
+  "year": 1996,
+  "runtime": 92,
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "release-date": "1996-02-16",
+  "director": "Dennis Dugan",
+  "writer": [
+    "Tim Herlihy",
+    "Adam Sandler"
+  ],
+  "actors": [
+    "Adam Sandler",
+    "Christopher McDonald",
+    "Julie Bowen"
+  ],
+  "storyline":" A rejected hockey player puts his skills to the golf course to save his grandmother's house."
+}
