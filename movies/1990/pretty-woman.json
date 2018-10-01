@@ -1,0 +1,23 @@
+{
+  "name": "Pretty Woman",
+  "year": 1990,
+  "runtime": 119,
+  "categories": [
+    "romantic comedy",
+    "comedy"
+  ],
+  "release-date": "1990-03-23",
+  "director": "Gary Marshall",
+  "writer": [
+    "J. F. Lawton"
+  ],
+  "actors": [
+    "Richard Gere",
+    "Julia Roberts",
+    "Ralph Bellamy",
+    "Jason Alexander"
+    "Laura San Giacomo",
+    "Héctor Elizondo"
+  ],
+  "storyline": "A business executive tries to educate a vulgar prostitute, and turn her into his sophisticated companion."
+}
