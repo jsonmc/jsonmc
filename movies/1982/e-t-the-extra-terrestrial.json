@@ -1,0 +1,22 @@
+{
+  "name": "E.T. the Extra-Terrestrial",
+  "year": 1982,
+  "runtime": 121,
+  "categories": [
+    "sci-fi",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "1982-06-11",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Melissa Mathison"
+  ],
+  "actors": [
+    "Dee Wallace",
+    "Henry Thomas",
+    "Peter Coyote",
+    "Drew Barrymore"
+  ],
+  "storyline": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world."
+}
