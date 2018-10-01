@@ -1,0 +1,21 @@
+{
+    "name": "Sharknado",
+    "year": 2013,
+    "runtime":86,
+    "categories":[
+        "action",
+        "adventure",
+        "comedy"
+    ],
+    "release-date":"2013-07-11",
+    "director":"Anthony C. Ferrante",
+    "writer":[
+        "Thunder Levin"
+    ],
+    "actors":[
+        "Ian Ziering",
+        "Tara Reid",
+        "John Heard",
+    ],
+    "storyline":"When a freak hurricane swamps Los Angeles, nature's deadliest killer rules sea, land, and air as thousands of sharks terrorize the waterlogged populace."
+}
