@@ -1,0 +1,38 @@
+{
+  "name": "Deadpool 2",
+  "year": 2018,
+  "runtime": 119,
+  "categories": ["action", "adventure", "comedy"],
+  "release-date": "2018-05-01",
+  "director": "David Leitch",
+  "writer": [
+    "Rhett Reese",
+    "Paul Wernick",
+    "Ryan Reynolds",
+    "Jack Kirby",
+    "Stan Lee",
+    "Rob Liefeld",
+    "Louise Simonson",
+    "Len Wein",
+    "Chris Claremont",
+    "Dave Cockrum",
+    "Bob Layton",
+    "Fabian Nicieza",
+    "Jackson Guice",
+    "Klaus Janson",
+    "Rick Leonardi"
+  ],
+  "actors": [
+    "Ryan Reynolds",
+    "Josh Brolin",
+    "Morena Baccarin",
+    "Julian Dennison",
+    "Zazie Beetz",
+    "T.J. Miller",
+    "Leslie Uggams",
+    "Karan Soni",
+    "Brianna Hildebrand",
+    "Jack Kesy"
+  ],
+  "storyline": "After losing the love of his life, 4th wall-breaking mercenary Wade Wilson aka Deadpool (Ryan Reynolds) must protect Russel (Julian Dennison) must assemble a team of mutants and protect Russel from Cable (Josh Brolin), a no-nonsense, dangerous cyborg from the future and Deadpool must learn the most important lesson of all, to be part of a family again."
+}
