@@ -1,0 +1,19 @@
+{
+  "name": "Lucy",
+  "year": 2014,
+  "runtime": 90,
+  "categories": [
+    "action",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "1993-07-25",
+  "director": "Luc Besson",
+  "writer": "Luc Besson",
+  "actors": [
+    "Scarlett Johansson",
+    " Morgan Freeman",
+    "Min-sik Choi"
+  ],
+  "storyline": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic."
+}
