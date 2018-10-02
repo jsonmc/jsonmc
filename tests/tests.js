@@ -19,7 +19,7 @@ years.sort().forEach(year => {
       throw new Error('Invalid JSON file: ' + fileName);
     }
     const expectedFileName = movie.name
-      .replace(/[\'\"]/g, '')
+      .replace(/[\'\"\,\?]/g, '')
       .replace(/([\:\.]| - )/g, ' ')
       .replace(/  /g, ' ')
       .replace(/&/, 'and')
