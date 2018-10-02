@@ -18,7 +18,7 @@ Movie attribute | Details
 Release date | YYYY-MM-DD release date
 Categories | Action, adventure, comedy, animation, family, fantasy, sci-fi
 Director | Directors of the movie
-Writers | Screeplay and story writers
+Writers | Screenplay and story writers
 Actors | Main casts of the movie
 Year | Movie released year
 Runtime | Runtime in mins
