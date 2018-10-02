@@ -1,0 +1,27 @@
+{
+  "name": "Alien",
+  "year": 1979,
+  "runtime": 116,
+  "categories": [
+    "horror",
+    "sci-fi"
+  ],
+  "release-date": "1979-05-25",
+  "director": "Ridley Scott",
+  "writer": [
+    "Dan O'Bannon",
+    "Ronald Shusett"
+  ],
+  "actors": [
+    "Tom Skerritt",
+    "Sigourney Weaver",
+    "Veronica Cartwright",
+    "Harry Dean Stanton",
+    "John Hurt",
+    "Ian Holm",
+    "Yaphet Kotto",
+    "Bolaji Badejo",
+    "Helen Horton"
+  ],
+  "storyline": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun."
+}
