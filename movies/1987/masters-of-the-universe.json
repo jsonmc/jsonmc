@@ -1,0 +1,23 @@
+{
+  "name": "Masters of the Universe",
+  "year": 1987,
+  "runtime": 106,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "1987-08-07",
+  "director": "Gary Goddard",
+  "writer": [
+    "David Odell"
+  ],
+  "actors": [
+    "Dolph Lundgren",
+    "Frank Langella",
+    "Meg Foster",
+	"Billy Barty",
+	"Courteney Cox"
+  ],
+  "storyline": "The heroic warrior He-Man battles against the evil lord Skeletor and his armies of darkness for control of Castle Grayskull."
+}
