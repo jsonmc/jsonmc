@@ -6,6 +6,8 @@ const years = fs.readdirSync('./movies')
 const actors = fs.readdirSync('./actors')
 
 let errorsFound = false;
+
+const movie_errors = [];
 years.sort().forEach(year => {
   const files = fs.readdirSync('./movies/' + year);
 
@@ -17,7 +19,7 @@ years.sort().forEach(year => {
       movie = JSON.parse(movieData);
     } catch (e) {
       console.error('Error parsing ' + fileName);
-      throw new Error('Invalid JSON file: ' + fileName);
+      movie_errors.push('Invalid JSON file: ' + fileName);
     }
     const expectedFileName = movie.name
       .replace(/[\'\"\,\?]/g, '')
@@ -29,21 +31,31 @@ years.sort().forEach(year => {
 
     if (movie.year !== parseInt(year)) {
       errorsFound = true;
-      console.warn(fileName + ' movie is in the wrong year folder. Found: ' + movie.year + '. Expected: ' + year);
+      const errorMessage = fileName + ' movie is in the wrong year folder. Found: ' + movie.year + '. Expected: ' + year;
+      movie_errors.push(errorMessage);
     }
 
     if (path.parse(file).name !== expectedFileName) {
       errorsFound = true;
-      console.warn('./movies/' + year + '/' + file + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json');
+      const errorMessage = './movies/' + year + '/' + file + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
+      movie_errors.push(errorMessage);
     }
 
     if (path.extname(file) !== '.json') {
       errorsFound = true;
-      console.warn(file + ' extension is not json');
+      const errorMessage = file + ' extension is not json';
+      movie_errors.push(errorMessage);
     }
   });
 });
 
+if (movie_errors.length > 0) {
+  const errorMessage = movie_errors.join('\n');
+  console.error(errorMessage);
+  throw errorMessage;
+}
+
+console.log('movies test: no errors found.');
 
 actors.forEach(file => {
   const fileName = './actors/' + file
