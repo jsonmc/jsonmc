@@ -10,9 +10,8 @@
   ],
   "release-date": "1987-10-09",
   "director": "Rob Reiner",
-  "writer": [
+  "writer":
     "William Goldman",
-  ],
   "actors": [
     "Cary Elwes",
     "Mandy Patinkin",
@@ -28,7 +27,7 @@
     "Carol Kane",
     "Billy Crystal",
     "Anne Dyson",
-    "Margery Mason",
+    "Margery Mason"
   ],
   "storyline": "While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride."
 }
