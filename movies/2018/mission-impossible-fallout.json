@@ -1,0 +1,22 @@
+{
+  "name": "Mission Impossible Fallout",
+  "year": 2018,
+  "runtime": 147,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2018-07-27",
+  "director": "Christopher McQuarrie",
+  "writer": [
+    "Christopher McQuarrie",
+    "Bruce Geller"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Henry Cavill",
+    "Ving Rhames"
+  ],
+  "storyline": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong."
+}
