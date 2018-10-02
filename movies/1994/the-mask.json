@@ -1,0 +1,23 @@
+{
+  "name": "The Mask",
+  "year": 1994,
+  "runtime": 101,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "1994-07-29",
+  "director": "Charles Russell",
+  "writer": [
+    "Mike Werb"
+  ],
+  "actors": [
+    "Jim Carrey",
+    "Peter Riegert",
+    "Peter Greene",
+    "Amy Yasbeck",
+    "Richard Jeni",
+    "Cameron Diaz"
+  ],
+  "storyline": "The story of Stanley Ipkiss, an unfortunate bank clerk who finds a magical mask that transforms him into a green-faced superhero."
+}
