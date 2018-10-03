@@ -2,6 +2,7 @@
     "name": "Venom",
     "year": 2018,
     "runtime": 112,
+    "future": true,
     "categories": [
       "horror",
       "action",
@@ -24,5 +25,6 @@
       "Michelle Williams",
       "Marcella Bragio"
     ],
-    "storyline":"When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego 'Venom' to save his life."
+    "storyline":"When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego 'Venom' to save his life.",
+    "imdb-link": "https://www.imdb.com/title/tt1270797"
   }

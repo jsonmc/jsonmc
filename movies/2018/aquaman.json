@@ -2,6 +2,7 @@
   "name": "Aquaman",
   "year": 2018,
   "runtime": 140,
+  "future": true,
   "categories": [
     "fantasy",
     "science-fiction"
@@ -20,5 +21,6 @@
     "Patrick Wilson",
     "Willem Dafoe"
   ],
-  "storyline":"Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world."
+  "storyline":"Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.",
+  "imdb-link": "https://www.imdb.com/title/tt1477834"
 }
