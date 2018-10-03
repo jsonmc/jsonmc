@@ -1,0 +1,25 @@
+{
+  "name": "Zootopia",
+  "year": 2016,
+  "runtime": 108,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2016-03-04",
+  "director": [
+    "Byron Howard",
+    "Rich Moore"
+  ],
+  "writer": [
+    "Byron Howard",
+    "Rich Moore"
+  ],
+  "actors": [
+    "Ginnifer Goodwin",
+    "Jason Bateman",
+    "Idris Elba"
+  ],
+  "storyline": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy."
+}

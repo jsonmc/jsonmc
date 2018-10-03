@@ -1,0 +1,24 @@
+{
+  "name": "Aquaman",
+  "year": 2018,
+  "runtime": 140,
+  "categories": [
+    "fantasy",
+    "science-fiction"
+  ],
+  "release-date": "2018-12-14",
+  "director": "James Wan",
+  "writer": [
+    "Paul Norris",
+    "Mort Weisinger"
+  ],
+  "actors": [
+    "Jason Momoa",
+    "Amber Heard",
+    "Nicole Kidman",
+    "Dolph Lundgren",
+    "Patrick Wilson",
+    "Willem Dafoe"
+  ],
+  "storyline":"Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world."
+}

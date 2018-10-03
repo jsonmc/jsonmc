@@ -1,0 +1,32 @@
+{
+  "name": "The Princess Bride",
+  "year": 1987,
+  "runtime": 98,
+  "categories": [
+    "adventure",
+    "family",
+    "fantasy",
+    "romance"
+  ],
+  "release-date": "1987-10-09",
+  "director": "Rob Reiner",
+  "writer": "William Goldman",
+  "actors": [
+    "Cary Elwes",
+    "Mandy Patinkin",
+    "Chris Sarandon",
+    "Christopher Guest",
+    "Wallace Shawn",
+    "André the Giant",
+    "Fred Savage",
+    "Robin Wright",
+    "Peter Falk",
+    "Peter Cook",
+    "Mel Smith",
+    "Carol Kane",
+    "Billy Crystal",
+    "Anne Dyson",
+    "Margery Mason"
+  ],
+  "storyline": "While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride."
+}

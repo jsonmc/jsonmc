@@ -1,0 +1,21 @@
+{
+  "name": "Lucy",
+  "year": 2014,
+  "runtime": 89,
+  "categories": [
+    "action",
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "2014-07-25",
+  "director": "Luc Besson",
+  "writer": [
+    "Luc Besson"
+  ],
+  "actors": [
+    "Scarlett Johansson",
+    "Morgan Freeman",
+    "Min-sik Choi"
+  ],
+  "storyline": "It was supposed to be a simple job. All Lucy had to do was deliver a mysterious briefcase to Mr. Jang. But immediately Lucy is caught up in a nightmarish deal where she is captured and turned into a drug mule for a new and powerful synthetic drug."
+}
