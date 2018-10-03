@@ -2,8 +2,9 @@ const fs = require('fs');
 const assert = require('assert');
 const path = require('path');
 
-const years = fs.readdirSync('./movies')
-const actors = fs.readdirSync('./actors')
+const years = fs.readdirSync('./movies');
+const actors = fs.readdirSync('./actors');
+const directors = fs.readdirSync('./directors');
 
 let errorsFound = false;
 
@@ -56,13 +57,13 @@ if (movie_errors.length > 0) {
 }
 
 console.log('movies test: no errors found.');
+function validatePerson(file, folder) {
+  const fileName = `./${folder}/${file}`;
+  const personData = fs.readFileSync(fileName, 'utf8');
+  let person = null
 
-actors.forEach(file => {
-  const fileName = './actors/' + file
-  const actorData = fs.readFileSync(fileName, 'utf8')
-  let actor = null
   try {
-    actor = JSON.parse(actorData)
+    person = JSON.parse(personData)
   } catch (e) {
     console.error('Error parsing ' + fileName)
     throw new Error('Invalid JSON file: ' + fileName)
@@ -74,7 +75,7 @@ actors.forEach(file => {
     'birthplace'
   ]
 
-  const checkProperties = requiredProperties.map(prop => actor.hasOwnProperty(prop))
+  const checkProperties = requiredProperties.map(prop => person.hasOwnProperty(prop))
 
   if (checkProperties.includes(false)) {
     errorsFound = true;
@@ -85,8 +86,8 @@ actors.forEach(file => {
     console.warn(`${fileName} is missing the required properties: ${missingProps}`)
   }
 
-  // Expect filename to be slug of actor name
-  const expectedFileName = actor.name
+  // Expect filename to be slug of person name
+  const expectedFileName = person.name
     .replace(/[\'\"]/g, '')
     .replace(/ [A-Z]{1}\. /, '-')
     .replace(/([\:\.]| - )/g, '')
@@ -96,15 +97,15 @@ actors.forEach(file => {
 
   const fileBaseName = path.parse(file).name
   if (path.parse(file).name !== expectedFileName) {
-    // Filname consisting of actor name without middle names is also fine
-    const names = path.parse(file).name.split('-')
-    const withoutMiddleNames = `${names[0]}-${names.pop()}`
+    // Filname consisting of person name without middle names is also fine
+    const names = person.name.split(' ')
+    const withoutMiddleNames = `${names[0]}-${names.pop()}`.toLowerCase();
+
     if (fileBaseName !== withoutMiddleNames) {
       errorsFound = true;
-      const errMsgCanAcceptWithoutMiddleNames = `or ${withoutMiddleNames}.json`
-      console.warn(`./actors/${file} actor name is either wrong or file name is not according to guidelines.
+      console.warn(`${fileName} person's name is either wrong or file name is not according to guidelines.
         Expected: ${expectedFileName}.json
-        ${withoutMiddleNames !== expectedFileName ? errMsgCanAcceptWithoutMiddleNames : ''}`);
+        ${withoutMiddleNames !== expectedFileName ? `or ${withoutMiddleNames}.json` : ''}`);
     }
   }
 
@@ -112,6 +113,8 @@ actors.forEach(file => {
     errorsFound = true;
     console.warn(file + ' extension is not json');
   }
-})
+}
+actors.forEach(file => {validatePerson(file, "actors")});
+console.log("Actors complete");
 
 assert.equal(errorsFound, false, 'Invalid files found');
