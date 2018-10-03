@@ -2,18 +2,21 @@ const fs = require('fs');
 const assert = require('assert');
 const path = require('path');
 
-const years = fs.readdirSync('./movies');
-const actors = fs.readdirSync('./actors');
-const directors = fs.readdirSync('./directors');
+const moviesFolder = './movies';
+const actorsFolder = './actors';
+const directorsFolder = './directors';
 
+const years = fs.readdirSync(moviesFolder);
+const actors = fs.readdirSync(actorsFolder);
+const directors = fs.readdirSync(directorsFolder);
 let errorsFound = false;
 
 const movie_errors = [];
 years.sort().forEach(year => {
-  const files = fs.readdirSync('./movies/' + year);
+  const files = fs.readdirSync(`${moviesFolder}/${year}`);
 
   files.forEach(file => {
-    const fileName = './movies/' + year + '/' + file;
+    const fileName = `${moviesFolder}/${year}/${file}`;
     const movieData = fs.readFileSync(fileName, 'utf8');
     let movie = null;
     try {
@@ -38,13 +41,13 @@ years.sort().forEach(year => {
 
     if (path.parse(file).name !== expectedFileName) {
       errorsFound = true;
-      const errorMessage = './movies/' + year + '/' + file + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
+      const errorMessage = fileName + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
       movie_errors.push(errorMessage);
     }
 
     if (path.extname(file) !== '.json') {
       errorsFound = true;
-      const errorMessage = file + ' extension is not json';
+      const errorMessage = fileName + ' extension is not json';
       movie_errors.push(errorMessage);
     }
   });
@@ -58,7 +61,7 @@ if (movie_errors.length > 0) {
 
 console.log('movies test: no errors found.');
 function validatePerson(file, folder) {
-  const fileName = `./${folder}/${file}`;
+  const fileName = `${folder}/${file}`;
   const personData = fs.readFileSync(fileName, 'utf8');
   let person = null;
 
@@ -114,10 +117,10 @@ function validatePerson(file, folder) {
     console.warn(file + ' extension is not json');
   }
 }
-actors.forEach(file => {validatePerson(file, "actors")});
+actors.forEach(file => {validatePerson(file, actorsFolder)});
 console.log("actors test complete");
 
-directors.forEach(file => {validatePerson(file, "directors")});
+directors.forEach(file => {validatePerson(file, directorsFolder)});
 console.log("directors test complete");
 
 assert.equal(errorsFound, false, 'Invalid files found');
