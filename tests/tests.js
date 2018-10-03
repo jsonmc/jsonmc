@@ -2,6 +2,8 @@ const fs = require('fs');
 const assert = require('assert');
 const path = require('path');
 
+const requiredProp = ["name", "year", "runtime"];
+
 const years = fs.readdirSync('./movies')
 const actors = fs.readdirSync('./actors')
 
@@ -10,6 +12,7 @@ let errorsFound = false;
 const movie_errors = [];
 years.sort().forEach(year => {
   const files = fs.readdirSync('./movies/' + year);
+
 
   files.forEach(file => {
     const fileName = './movies/' + year + '/' + file;
@@ -28,6 +31,14 @@ years.sort().forEach(year => {
       .replace(/&/, 'and')
       .replace(/\s+/g, '-')
       .toLowerCase();
+
+    for(var i=0;i<requiredProp.length;i++){
+    	if(!movie.hasOwnProperty(requiredProp[i])){
+    		errorsFound = true;
+    		console.warn(fileName + ' doesn\'t contain ' + requiredProp[i]);
+        movie_errors.push(fileName + ' doesn\'t contain ' + requiredProp[i]);
+    	}
+    }
 
     if (movie.year !== parseInt(year)) {
       errorsFound = true;
