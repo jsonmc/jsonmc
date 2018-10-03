@@ -2,7 +2,7 @@ const fs = require('fs');
 const assert = require('assert');
 const path = require('path');
 
-const requiredProp = ["name", "year", "runtime"];
+const requiredProp = ['name', 'year', ['runtime', 'future']];
 
 const years = fs.readdirSync('./movies')
 const actors = fs.readdirSync('./actors')
@@ -37,7 +37,18 @@ years.sort().forEach(year => {
       .toLowerCase();
 
     for (let i = 0; i < requiredProp.length; i++) {
-      if (!movie.hasOwnProperty(requiredProp[i])){
+      const currentProp = requiredProp[i];
+      if (Array.isArray(currentProp)) {
+        let any = false;
+        currentProp.forEach(key => {
+          if (movie[key]) any = true;
+        });
+
+        if (!any) {
+          errorsFound = true;
+          movie_errors.push(fileName + ' missing one of the props: ' + currentProp.join(','));
+        }
+      } else if (!movie.hasOwnProperty(currentProp)){
         errorsFound = true;
         console.warn(fileName + ' doesn\'t contain ' + requiredProp[i]);
         movie_errors.push(fileName + ' doesn\'t contain ' + requiredProp[i]);
