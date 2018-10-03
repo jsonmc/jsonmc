@@ -18,6 +18,11 @@ years.sort().forEach(year => {
     const fileName = './movies/' + year + '/' + file;
     const movieData = fs.readFileSync(fileName, 'utf8')
     let movie = null;
+
+    if (file !== file.toLowerCase()) {
+      movie_errors.push('Invalid JSON filename format; must be lowercase: ' + file);
+    }
+
     try {
       movie = JSON.parse(movieData);
     } catch (e) {
