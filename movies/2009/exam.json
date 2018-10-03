@@ -1,0 +1,21 @@
+{
+  "name": "Exam",
+  "year": 2009,
+  "runtime": 101,
+  "categories": [
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2009-06-10",
+  "director": "Stuart Hazeldine",
+  "writer": [
+    "Stuart Hazeldine",
+    "Simon Garrity"
+  ],
+  "actors": [
+    "Adar Beck",
+    "Gemma Chan",
+    "Nathalie Cox"
+  ],
+  "storyline": "Eight candidates for a highly desirable corporate job are locked together in an exam room and given a final test with just one question. It seems simple yet confusing that soon, tensions begin to unravel."
+}
