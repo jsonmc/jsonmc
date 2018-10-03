@@ -13,7 +13,6 @@ const movie_errors = [];
 years.sort().forEach(year => {
   const files = fs.readdirSync('./movies/' + year);
 
-
   files.forEach(file => {
     const fileName = './movies/' + year + '/' + file;
     const movieData = fs.readFileSync(fileName, 'utf8')
@@ -37,12 +36,12 @@ years.sort().forEach(year => {
       .replace(/\s+/g, '-')
       .toLowerCase();
 
-    for(var i=0;i<requiredProp.length;i++){
-    	if(!movie.hasOwnProperty(requiredProp[i])){
-    		errorsFound = true;
-    		console.warn(fileName + ' doesn\'t contain ' + requiredProp[i]);
+    for (let i = 0; i < requiredProp.length; i++) {
+      if (!movie.hasOwnProperty(requiredProp[i])){
+        errorsFound = true;
+        console.warn(fileName + ' doesn\'t contain ' + requiredProp[i]);
         movie_errors.push(fileName + ' doesn\'t contain ' + requiredProp[i]);
-    	}
+      }
     }
 
     if (movie.year !== parseInt(year)) {
@@ -88,7 +87,7 @@ actors.forEach(file => {
     'name',
     'birthdate',
     'birthplace'
-  ]
+  ];
 
   const checkProperties = requiredProperties.map(prop => actor.hasOwnProperty(prop))
 
@@ -104,7 +103,6 @@ actors.forEach(file => {
   // Expect filename to be slug of actor name
   const expectedFileName = actor.name
     .replace(/[\'\"]/g, '')
-    .replace(/ [A-Z]{1}\. /, '-')
     .replace(/([\:\.]| - )/g, '')
     .replace(/  /g, ' ')
     .replace(/\s+/g, '-')
