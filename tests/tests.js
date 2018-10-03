@@ -117,4 +117,7 @@ function validatePerson(file, folder) {
 actors.forEach(file => {validatePerson(file, "actors")});
 console.log("Actors complete");
 
+directors.forEach(file => {validatePerson(file, "directors")});
+console.log("Directors complete");
+
 assert.equal(errorsFound, false, 'Invalid files found');
