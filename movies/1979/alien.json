@@ -1,7 +1,7 @@
 {
   "name": "Alien",
   "year": 1979,
-  "runtime": 117,
+  "runtime": 116,
   "categories": [
     "horror",
     "sci-fi"
@@ -20,7 +20,8 @@
     "John Hurt",
     "Ian Holm",
     "Yaphet Kotto",
-    "Bolaji Badejo"
+    "Bolaji Badejo",
+    "Helen Horton"
   ],
   "storyline": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun."
 }

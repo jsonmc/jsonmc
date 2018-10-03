@@ -1,0 +1,35 @@
+{
+  "name": "To Kill a Mockingbird",
+  "year": 1962,
+  "runtime": 129,
+  "categories": [
+    "crime",
+    "drama"
+  ],
+  "release-date": "1962-12-25",
+  "director": "Robert Mulligan",
+  "writer": [
+    "Harper Lee",
+    "Horton Foote"
+  ],
+  "actors": [
+    "Gregory Peck",
+    "John Megna",
+    "Frank Overton",
+    "Rosemary Murphy",
+    "Ruth White",
+    "Brock Peters",
+    "Estelle Evans",
+    "Paul Fix",
+    "Collin Wilcox Paxton",
+    "James Anderson",
+    "Alice Ghostley",
+    "Robert Duvall",
+    "William Windom",
+    "Crahan Denton",
+    "Richard Hale",
+    "Mary Badham",
+    "Phillip Alford"
+  ],
+  "storyline": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice."
+}
