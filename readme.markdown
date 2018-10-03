@@ -10,6 +10,8 @@ Every October, this repository receives a lot of attention. If you want to work 
 
 If you're looking for issues to contribute, check those that does not have a "dibs" label. Check the comments, if nobody requested "dibs", make sure to leave your comment so you can get your PR merged first for that issue.
 
+Make sure to always reference your pull requests with the respective issue by adding `Fixes #100` on your commit message, PR title or PR description. A template has been provided to help you out.
+
 ### A movie has the following details
 
 
