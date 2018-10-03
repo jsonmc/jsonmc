@@ -14,7 +14,7 @@ years.sort().forEach(year => {
 
   files.forEach(file => {
     const fileName = './movies/' + year + '/' + file;
-    const movieData = fs.readFileSync(fileName, 'utf8')
+    const movieData = fs.readFileSync(fileName, 'utf8');
     let movie = null;
     try {
       movie = JSON.parse(movieData);
@@ -60,30 +60,30 @@ console.log('movies test: no errors found.');
 function validatePerson(file, folder) {
   const fileName = `./${folder}/${file}`;
   const personData = fs.readFileSync(fileName, 'utf8');
-  let person = null
+  let person = null;
 
   try {
-    person = JSON.parse(personData)
+    person = JSON.parse(personData);
   } catch (e) {
-    console.error('Error parsing ' + fileName)
-    throw new Error('Invalid JSON file: ' + fileName)
+    console.error('Error parsing ' + fileName);
+    throw new Error('Invalid JSON file: ' + fileName);
   }
 
   const requiredProperties = [
     'name',
     'birthdate',
     'birthplace'
-  ]
+  ];
 
-  const checkProperties = requiredProperties.map(prop => person.hasOwnProperty(prop))
+  const checkProperties = requiredProperties.map(prop => person.hasOwnProperty(prop));
 
   if (checkProperties.includes(false)) {
     errorsFound = true;
     const missingProps = checkProperties
       .filter(prop => prop === false)
       .map((prop, index) => requiredProperties[index])
-      .join(', ')
-    console.warn(`${fileName} is missing the required properties: ${missingProps}`)
+      .join(', ');
+    console.warn(`${fileName} is missing the required properties: ${missingProps}`);
   }
 
   // Expect filename to be slug of person name
@@ -98,7 +98,7 @@ function validatePerson(file, folder) {
   const fileBaseName = path.parse(file).name
   if (path.parse(file).name !== expectedFileName) {
     // Filname consisting of person name without middle names is also fine
-    const names = person.name.split(' ')
+    const names = person.name.split(' ');
     const withoutMiddleNames = `${names[0]}-${names.pop()}`.toLowerCase();
 
     if (fileBaseName !== withoutMiddleNames) {
@@ -115,9 +115,9 @@ function validatePerson(file, folder) {
   }
 }
 actors.forEach(file => {validatePerson(file, "actors")});
-console.log("Actors complete");
+console.log("actors test complete");
 
 directors.forEach(file => {validatePerson(file, "directors")});
-console.log("Directors complete");
+console.log("directors test complete");
 
 assert.equal(errorsFound, false, 'Invalid files found');
