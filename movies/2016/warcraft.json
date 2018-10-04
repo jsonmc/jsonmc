@@ -1,0 +1,22 @@
+{
+  "name": "Warcraft",
+  "year": 2016,
+  "runtime": 123,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2016-05-24",
+  "director": "Duncan Jones",
+  "writer": [
+    "Charles Leavitt",
+    "Duncan Jones"
+  ],
+  "actors": [
+    "Travis Fimmel",
+    "Paula Patton",
+    "Ben Foster"
+  ],
+  "storyline": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war."
+}
