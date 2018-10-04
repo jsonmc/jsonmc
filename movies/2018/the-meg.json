@@ -1,0 +1,25 @@
+{
+    "name": "The Meg",
+    "year": 2018,
+    "runtime": 113,
+    "categories": [
+      "action",
+      "horror",
+      "sci-fi"
+    ],
+    "release-date": "2018-08-17",
+    "director": "Jon Turteltaub",
+    "writer": [
+      "Dean Georgaris",
+      "Jon Hoeber",
+      "Erich Hoeber",
+      "Steve Alten"
+    ],
+    "actors": [
+      "Jason Statham",
+      "Bingbing Li",
+      "Rainn Wilson"
+    ],
+    "storyline": "After escaping an attack by what he claims was a 70-foot shark, Jonas Taylor must confront his fears to save those trapped in a sunken submersible.",
+    "imdb-link": "https://www.imdb.com/title/tt4779682"
+  }
