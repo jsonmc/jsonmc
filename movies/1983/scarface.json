@@ -1,0 +1,21 @@
+{
+  "name": "Scarface",
+  "year": 1983,
+  "runtime": 170,
+  "categories": [
+    "action",
+    "drama",
+    "gangsters"
+  ],
+  "release-date": "1983-06-17",
+  "director": "Brian De Palma",
+  "writer": [
+    "Oliver Stone"
+  ],
+  "actors": [
+    "Al Pacino",
+    "Steven Bauer",
+    "Michelle Pfeiffer"
+  ],
+  "storyline": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed."
+}
