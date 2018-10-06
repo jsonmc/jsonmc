@@ -56,3 +56,25 @@ Storyline | Brief description of the movie
 ## Contributing
 
 Check [Contributing Guide](contributing.markdown) for further instructions.
+
+## Running Tests
+setup npm(node package manager)
+
+```
+npm install
+```
+and then 
+```
+npm run test
+```
+
+or setup yarn
+
+```
+yarn install
+```
+
+and then
+```
+yarn test
+```
