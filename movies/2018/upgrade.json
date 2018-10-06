@@ -1,0 +1,22 @@
+{
+    "name": "Upgrade",
+    "year": 2018,
+    "runtime": 100,
+    "categories": [
+      "horror",
+      "action",
+      "sci-fi",
+      "fantasy"
+    ],
+    "release-date": "2018-06-01",
+    "director": "Leigh Whannell",
+    "writer": [
+      "Leigh Whannell"
+    ],
+    "actors": [
+      "Logan Marshall-Green",
+      "Betty Gabriel",
+      "Harrison Gilbertson"
+    ],
+    "storyline":"The film follows a man who is implanted with a chip that allows him to control his body after a mugging leaves him paralyzed"
+  }
