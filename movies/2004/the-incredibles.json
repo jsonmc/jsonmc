@@ -1,0 +1,39 @@
+{
+	"name": "The Incredibles",
+	"year": 2004,
+	"runtime": 115,
+	"categories": [
+		"animation",
+		"action",
+		"adventure"
+	],
+	"release-date": "1993-06-11",
+  "director": "Brad Bird",
+  "writer": [
+    "Brad Bird"
+  ],
+	"actors": [
+    "Craig T. Nelson",
+    "Holly Hunter",
+    "Samuel L. Jackson",
+    "Jason Lee",
+    "Dominique Louis",
+    "Teddy Newton",
+    "Jean Sincere",
+    "Eli Fucile",
+    "Maeve Andrew",
+    "Wallace Shaw",
+    "Spencer Fo",
+    "Lou Romano",
+    "Wayne Canney",
+    "Sarah Vowell",
+    "Michael Bird",
+    "Elizabeth Peña",
+    "Bud Luckey",
+    "Brad Bir",
+    "Bret 'Brook' Parker",
+    "Kimberly Adair Clark",
+    "John Ratzenberger
+  ],
+	"storyline": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world."
+}
