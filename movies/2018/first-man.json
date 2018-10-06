@@ -1,0 +1,23 @@
+{
+  "name": "First Man",
+  "year": 2018,
+  "runtime": 119,
+  "categories": [
+    "biography",
+    "drama",
+    "history"
+  ],
+  "release-date": "2018-10-19",
+  "director": "David Leitch",
+  "writer": [
+    "Josh Singer",
+    "James R. Hansen",
+    "Ryan Reynolds"
+  ],
+  "actors": [
+    "Ryan Gosling",
+    "Claire Foy",
+    "Jason Clarke"
+  ],
+  "storyline": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969. "
+}
