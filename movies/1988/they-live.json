@@ -1,0 +1,20 @@
+{
+    "name": "They Live",
+    "year": 1988,
+    "runtime": 94,
+    "categories": [
+      "action",
+      "horror",
+      "sci-fi"
+    ],
+    "release-date": "1988-11-04",
+    "director": "John Carpenter",
+    "writer": "Ray Nelson",
+    "actors": [
+      "Roddy Piper",
+      "Keith David",
+      "Meg Foster"
+    ],
+    "storyline": "They influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They Live."
+  }
+  
