@@ -65,6 +65,19 @@ years.sort().forEach(year => {
       movie_errors.push(errorMessage);
     }
 
+    if(movie.hasOwnProperty('release-date')){
+      var releaseDate = new Date(movie['release-date']);
+      var curDate = new Date();
+    
+      if(releaseDate.getTime() > curDate.getTime()){
+          
+          if(!movie.hasOwnProperty('future') || movie.future == false){
+              const errorMessage = fileName + ' movie does not have future field or not set as true. Expected: future = true';
+              movie_errors.push(errorMessage);
+          }
+      }
+    }
+
     if (path.parse(file).name !== expectedFileName) {
       errorsFound = true;
       const errorMessage = fileName + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
