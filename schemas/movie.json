@@ -1,5 +1,24 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema",
+  "definitions": {
+    "person": {
+      "type": "string"
+    },
+    "personArray": {
+      "type": "array",
+      "minItems": 2,
+      "uniqueItems": true,
+      "items": {
+        "$ref": "#/definitions/person"
+      }
+    },
+    "personOrPersonArray": {
+      "oneOf": [
+        { "$ref": "#/definitions/person" },
+        { "$ref": "#/definitions/personArray" }
+      ]
+    }
+  },
   "type": "object",
   "properties": {
     "name": {
@@ -27,17 +46,13 @@
       "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
     },
     "director": {
-      "type": "string"
+      "$ref": "#/definitions/personOrPersonArray"
     },
     "writer": {
-      "type": "string"
+      "$ref": "#/definitions/personOrPersonArray"
     },
     "actors": {
-      "type": "array",
-      "uniqueItems": true,
-      "items": {
-        "type": "string"
-      }
+      "$ref": "#/definitions/personOrPersonArray"
     },
     "storyline": {
       "type": "string"
