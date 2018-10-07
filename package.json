@@ -6,6 +6,7 @@
   "repository": "https://github.com/jsonmc/jsonmc.git",
   "license": "MIT",
   "devDependencies": {
+    "ajv": "^6.5.4",
     "jshint": "^2.9.3"
   },
   "scripts": {
