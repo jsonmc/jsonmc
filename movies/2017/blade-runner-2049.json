@@ -1,13 +1,12 @@
 {
   "name": "Blade Runner 2049",
   "year": 2017,
-  "runtime": 0,
-  "future": "true",
+  "runtime": 164,
   "categories": [
     "sci-fi",
     "thriller"
   ],
-  "release-date": "2017-10-05",
+  "release-date": "2017-10-03",
   "director": "Denis Villeneuve",
   "writer": [
     "Hampton Fancher",
