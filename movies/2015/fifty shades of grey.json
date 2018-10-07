@@ -1,0 +1,41 @@
+{
+  "name": "Fifty Shades of Grey",
+  "year": 2015,
+  "runtime": "125 minutes",
+  "categories": [
+    "Romantic",
+    "Erotic",
+    "Drama"
+  ],
+  "Cast":[
+  		"Dakota Johnson",
+  		"Jamie Dornan",
+  		"Jennifer Ehle",
+  		"Eloise Mumford",
+  		"Victor Rasuk",
+  		"Luke Grimes",
+  		"Marcia Gay Harden",
+  		"Callum Keith Rennie",
+  		"Dylan Neal"
+  ],
+  "release-date": "february 13,2015",
+  "director": "Sam Taylor-Johnson",
+  "Produced By" : [
+	    "Michael De Luca",
+	    "E. L. James",
+	    "Dana Brunetti"
+  ],
+  "Screenplay":"Kelly Marcel",
+  "WrittenBy" :"E.L James",
+  "Music By": "Danny Elfman",
+  "Cinematography" :"Seamus McGarvey",
+  "Production Companies":[
+	  "Focus Features",
+	  "Michael De Luca Productions",
+	  "Trigger Street Productions"
+  ],
+  "Language" :"English",
+  "Budget": "$40 Million",
+  "Box Office" :"$571 Million"
+
+}
