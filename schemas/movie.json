@@ -38,7 +38,34 @@
       "uniqueItems": true,
       "items": {
         "type": "string",
-        "pattern": "^[a-z-]+$"
+        "enum": [
+          "action",
+          "adventure",
+          "animation",
+          "biography",
+          "comedy",
+          "comedy-drama",
+          "crime",
+          "drama",
+          "dystopian",
+          "family",
+          "fantasy",
+          "film-noir",
+          "history",
+          "horror",
+          "music",
+          "musical",
+          "mystery",
+          "romance",
+          "sci-fi",
+          "short",
+          "sport",
+          "spy",
+          "superhero",
+          "teen",
+          "thriller",
+          "western"
+        ]
       }
     },
     "release-date": {
