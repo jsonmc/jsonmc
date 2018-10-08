@@ -1,0 +1,21 @@
+{
+  "name": "One Flew Over the Cuckoo's Nest",
+  "year": 1975,
+  "runtime": 134,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "1975-11-19",
+  "director": "Miloš Forman",
+  "writer": [
+    "Saul Zaentz",
+    "Michael Douglas"
+  ],
+  "actors": [
+    "Jack Nicholson",
+    "Louise Fletcher",
+    "William Redfield"
+  ],
+  "storyline": "In 1963 Oregon, a criminal is moved to a mental institution seeking to avoid the prison. However, the criminal learns that his sentence is now indefinite and start plans to get out of the sanatorium."
+}
