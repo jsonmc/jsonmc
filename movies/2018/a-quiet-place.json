@@ -1,0 +1,24 @@
+{
+  "name": "A Quiet Place",
+  "year": 2018,
+  "runtime": 90,
+  "categories": [
+    "drama",
+    "horror",
+    "mystery"
+  ],
+  "release-date": "2018-04-06",
+  "director": "John Krasinski",
+  "writer": [
+    "Bryan Woods",
+    "Scott Beck",
+    "John Krasinski"
+  ],
+  "actors": [
+    "Emily Blunt",
+    "John Krasinski",
+    "Millicent Simmonds",
+    "Noah Jupe"
+  ],
+  "storyline": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."
+}
