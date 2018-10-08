@@ -2,7 +2,7 @@
 
 All files are valid json files: every key should be double-quoted.
 
-The JSON output should be the default "pretty" json output provided by node, with two spaces ident.
+The JSON output should be the default "pretty" json output provided by node, with two spaces indent.
 
 When in doubt, the output should match the `JSON.stringify(data, null, 2)` function output. `data` being the contents of the json file.
 
@@ -14,7 +14,7 @@ All filenames should be lower-case. Spaces should be replaced by dashes ("-").
 
 ## Actors
 
-For now, all actors should reside on the /actors folder.
+For now, all actors should reside in the /actors folder.
 
 ## Movies
 
