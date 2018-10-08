@@ -1,0 +1,19 @@
+{
+  "name": "Django Unchained",
+  "year": 2012,
+  "runtime": 165,
+  "categories": [
+    "drama",
+    "western"
+  ],
+  "release-date": "2012-12-25",
+  "director": "Quentin Tarantino",
+  "writer": "Quentin Tarantino",
+  "actors": [
+    "Jamie Foxx",
+    "Christoph Waltz",
+    "Leonardo DiCaprio",
+    "Samuel L. Jackson"
+  ],
+  "storyline": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+}
