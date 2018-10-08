@@ -1,0 +1,20 @@
+{
+  "name": "My Neighbor Totoro",
+  "year": 1988,
+  "runtime": 100,
+  "categories": [
+    "animated",
+    "fantasy film",
+  ],
+  "release-date": "1988-04-16",
+  "director": "Hayao Miyazaki",
+  "writer": [
+    "Hayao Miyazaki"
+  ],
+  "actors": [
+    "Noriko Hidaka",
+    "Chika Sakamoto",
+    "Hitoshi Takagi"
+  ],
+  "storyline": "tells the story of the two young daughters (Satsuki and Mei) of a professor and their interactions with friendly wood spirits in postwar rural Japan."
+}
