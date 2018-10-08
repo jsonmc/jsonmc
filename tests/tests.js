@@ -2,20 +2,24 @@ const fs = require('fs');
 const assert = require('assert');
 const path = require('path');
 
+const moviesFolder = './movies';
+const actorsFolder = './actors';
+const directorsFolder = './directors';
+
 const requiredProp = ['name', 'year', ['runtime', 'future']];
 
-const years = fs.readdirSync('./movies')
-const actors = fs.readdirSync('./actors')
-
+const years = fs.readdirSync(moviesFolder);
+const actors = fs.readdirSync(actorsFolder);
+const directors = fs.readdirSync(directorsFolder);
 let errorsFound = false;
 
 const movie_errors = [];
 years.sort().forEach(year => {
-  const files = fs.readdirSync('./movies/' + year);
+  const files = fs.readdirSync(`${moviesFolder}/${year}`);
 
   files.forEach(file => {
-    const fileName = './movies/' + year + '/' + file;
-    const movieData = fs.readFileSync(fileName, 'utf8')
+    const fileName = `${moviesFolder}/${year}/${file}`;
+    const movieData = fs.readFileSync(fileName, 'utf8');
     let movie = null;
 
     if (file !== file.toLowerCase()) {
@@ -63,13 +67,13 @@ years.sort().forEach(year => {
 
     if (path.parse(file).name !== expectedFileName) {
       errorsFound = true;
-      const errorMessage = './movies/' + year + '/' + file + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
+      const errorMessage = fileName + ' movie name is either wrong or file name is not according to guidelines. Expected: ' + expectedFileName + '.json';
       movie_errors.push(errorMessage);
     }
 
     if (path.extname(file) !== '.json') {
       errorsFound = true;
-      const errorMessage = file + ' extension is not json';
+      const errorMessage = fileName + ' extension is not json';
       movie_errors.push(errorMessage);
     }
   });
@@ -82,16 +86,16 @@ if (movie_errors.length > 0) {
 }
 
 console.log('movies test: no errors found.');
+function validatePerson(file, folder) {
+  const fileName = `${folder}/${file}`;
+  const personData = fs.readFileSync(fileName, 'utf8');
+  let person = null;
 
-actors.forEach(file => {
-  const fileName = './actors/' + file
-  const actorData = fs.readFileSync(fileName, 'utf8')
-  let actor = null
   try {
-    actor = JSON.parse(actorData)
+    person = JSON.parse(personData);
   } catch (e) {
-    console.error('Error parsing ' + fileName)
-    throw new Error('Invalid JSON file: ' + fileName)
+    console.error('Error parsing ' + fileName);
+    throw new Error('Invalid JSON file: ' + fileName);
   }
 
   const requiredProperties = [
@@ -100,19 +104,19 @@ actors.forEach(file => {
     'birthplace'
   ];
 
-  const checkProperties = requiredProperties.map(prop => actor.hasOwnProperty(prop))
+  const checkProperties = requiredProperties.map(prop => person.hasOwnProperty(prop));
 
   if (checkProperties.includes(false)) {
     errorsFound = true;
     const missingProps = checkProperties
       .filter(prop => prop === false)
       .map((prop, index) => requiredProperties[index])
-      .join(', ')
-    console.warn(`${fileName} is missing the required properties: ${missingProps}`)
+      .join(', ');
+    console.warn(`${fileName} is missing the required properties: ${missingProps}`);
   }
 
-  // Expect filename to be slug of actor name
-  const expectedFileName = actor.name
+  // Expect filename to be slug of person name
+  const expectedFileName = person.name
     .replace(/[\'\"]/g, '')
     .replace(/([\:\.]| - )/g, '')
     .replace(/  /g, ' ')
@@ -121,15 +125,15 @@ actors.forEach(file => {
 
   const fileBaseName = path.parse(file).name
   if (path.parse(file).name !== expectedFileName) {
-    // Filname consisting of actor name without middle names is also fine
-    const names = path.parse(file).name.split('-')
-    const withoutMiddleNames = `${names[0]}-${names.pop()}`
+    // Filname consisting of person name without middle names is also fine
+    const names = person.name.split(' ');
+    const withoutMiddleNames = `${names[0]}-${names.pop()}`.toLowerCase();
+
     if (fileBaseName !== withoutMiddleNames) {
       errorsFound = true;
-      const errMsgCanAcceptWithoutMiddleNames = `or ${withoutMiddleNames}.json`
-      console.warn(`./actors/${file} actor name is either wrong or file name is not according to guidelines.
+      console.warn(`${fileName} person's name is either wrong or file name is not according to guidelines.
         Expected: ${expectedFileName}.json
-        ${withoutMiddleNames !== expectedFileName ? errMsgCanAcceptWithoutMiddleNames : ''}`);
+        ${withoutMiddleNames !== expectedFileName ? `or ${withoutMiddleNames}.json` : ''}`);
     }
   }
 
@@ -137,6 +141,11 @@ actors.forEach(file => {
     errorsFound = true;
     console.warn(file + ' extension is not json');
   }
-})
+}
+actors.forEach(file => {validatePerson(file, actorsFolder)});
+console.log("actors test complete");
+
+directors.forEach(file => {validatePerson(file, directorsFolder)});
+console.log("directors test complete");
 
 assert.equal(errorsFound, false, 'Invalid files found');
