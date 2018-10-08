@@ -1,0 +1,21 @@
+{
+  "name": "Incredibles 2",
+  "year": 2018,
+  "runtime": 118,
+  "categories": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ], 
+  "release-date": "2018-06-15",
+  "director": "Brad Bird",
+  "writer": ["Brad Bird"],
+  "actors": [
+    "Craig T. Nelson",
+    "Holly Hunter",
+    "Sarah Vowell",
+    "Huck Milner",
+    "Catherine Keener"
+  ],
+  "storyline":"Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world."
+}
