@@ -1,0 +1,20 @@
+{
+  "name": "Inception",
+  "year": 2010,
+  "runtime": 148,
+  "categories": [
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "2010-07-16",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan",
+  "actors": [
+    "Leonardo DiCaprio",
+    "Tom Hardy",
+    "Ellen Page",
+    "Joseph Gordon-Levitt",
+    "Cillian Murphy"
+  ],
+  "storyline": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO."
+}
