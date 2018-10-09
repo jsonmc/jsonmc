@@ -1,0 +1,19 @@
+{
+  "name": "Oldboy",
+  "year": 2013,
+  "runtime": 104,
+  "categories": [
+    "action",
+    "drama",
+    "mystery"
+  ],
+  "release-date": "2013-11-27",
+  "director": "Spike Lee",
+  "writer": "Garon Tsuchiya",
+  "actors": [
+    "Josh Brolin",
+    "Elizabeth Olsen",
+    "Samuel L. Jackson"
+  ],
+  "storyline": "After being kidnapped and imprisoned for twenty years, Joe Doucett is released, only to find that he must find his captor in 46 days."
+}
