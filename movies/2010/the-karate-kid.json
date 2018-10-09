@@ -1,0 +1,17 @@
+{
+  "name": "The Karate Kid",
+  "year": 2010,
+  "runtime": 133,
+  "categories": [
+    "drama",
+    "comedy"
+  ],
+  "release-date": "2010-06-10",
+  "director": "Harald Zwart",
+  "writer": "Christopher Murphey",
+  "actors": [
+    "Jaden Smith",
+    "Jackie Chan"
+  ],
+  "storyline": "Dre, a young boy, finds himself bullied by Cheng, a rebellious kung fu prodigy at his school. However, things change after he befriends Mr Han, a maintenance man, who happens to be a kung fu expert."
+}
