@@ -1,0 +1,22 @@
+{
+    "name": "Back to the Future",
+    "year": 1985,
+    "runtime": 116,
+    "categories": [
+      "comedy",
+      "sci-fi"
+    ],
+    "release-date": "1985-07-03",
+    "director": "Robert Zemeckis",
+    "writer": [
+      "Robert Zemeckis",
+      "Bob Gale"
+    ],
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover"
+    ],
+    "storyline":"Teenager accidentally travels back in time where he meets his future parents."
+  }
