@@ -1,27 +1,27 @@
 {
-    "name": "Fast & Furious",
-    "year": 2009,
-    "runtime":107,
-    "categories":[
-        "action",
-        "crime",
-        "thriller"
-    ],
-    "release-date":"2009-04-03",
-    "director":"Justin Lin",
-    "writer":[
-        "Chris Morgan"
-    ],
-    "actors":[
-        "Vin Diesel",
-        "Paul Walker",
-        "Michelle Rodriguez",
-        "Jordana Brewster",
-        "Gal Gadot",
-        "Don Omar",
-        "Tego Calderon",
-        "John Ortiz",
-        "Laz Alonso"
-    ],
-    "storyline":"With Brian O'Conner back in FBI and Dominic Toretto on his side, he has to bring down a heroin importer."
+  "name": "Fast & Furious",
+  "year": 2009,
+  "runtime": 107,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2009-04-03",
+  "director": "Justin Lin",
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "Gal Gadot",
+    "Don Omar",
+    "Tego Calderon",
+    "John Ortiz",
+    "Laz Alonso"
+  ],
+  "storyline": "With Brian O'Conner back in FBI and Dominic Toretto on his side, he has to bring down a heroin importer."
 }

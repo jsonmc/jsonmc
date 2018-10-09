@@ -1,28 +1,28 @@
 {
-    "name": "Furious 7",
-    "year": 2015,
-    "runtime":137,
-    "categories":[
-        "action",
-        "crime",
-        "thriller"
-    ],
-    "release-date":"2015-04-03",
-    "director":"James Wan",
-    "writer":[
-        "Chris Morgan"
-    ],
-    "actors":[
-        "Vin Diesel",
-        "Paul Walker",
-        "Dwayne Johnson",
-        "Michelle Rodriguez",
-        "Jordana Brewster",
-        "Tyrese Gibson",
-        "Chris Ludacris Bridges",
-        "Djimon Hounsou",
-        "Kurt RUssel",
-        "Jason Statham"
-    ],
-    "storyline":"Dominic Toretto and his crew face a new rival Deckard Shaw who is seeks revenge for his brother."
+  "name": "Furious 7",
+  "year": 2015,
+  "runtime": 137,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2015-04-03",
+  "director": "James Wan",
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Dwayne Johnson",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "Tyrese Gibson",
+    "Chris Ludacris Bridges",
+    "Djimon Hounsou",
+    "Kurt RUssel",
+    "Jason Statham"
+  ],
+  "storyline": "Dominic Toretto and his crew face a new rival Deckard Shaw who is seeks revenge for his brother."
 }
