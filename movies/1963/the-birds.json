@@ -1,0 +1,22 @@
+{
+  "name": "The Birds",
+  "year": 1963,
+  "runtime": 119,
+  "categories": [
+    "drama",
+    "horror",
+    "mystery"
+  ],
+  "release-date": "1963-03-29",
+  "director": "Alfred Hitchcock",
+  "writer": [
+    "Daphne Du Maurier",
+    "Evan Hunter"
+  ],
+  "actors": [
+    "Rod Taylor",
+    "Tippi Hedren",
+    "Jessica Tandy"
+  ],
+  "storyline": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people."
+}
