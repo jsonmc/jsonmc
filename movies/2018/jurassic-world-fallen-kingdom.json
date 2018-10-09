@@ -1,0 +1,25 @@
+{
+  "name": "Jurassic World: Fallen Kingdom",
+  "year": 2018,
+  "runtime": 130,
+  "categories": [
+    "action",
+    "sci-fi"
+  ],
+  "release-date": "2018-05-21",
+  "director": "J. A. Bayona",
+  "writer": [
+    "Derek Connolly",
+    "Colin Trevorrow"
+  ],
+  "actors": [
+    "Chris Pratt",
+    "Bryce Dallas Howard",
+    "Rafe Spall",
+    "Toby Jones",
+    "Ted Levine",
+    "BD Wong",
+    "Jeff Goldblum"
+  ],
+  "storyline": "A small team of mercenaries arrives on the abandoned Isla Nublar to collect DNA from the remains of the Indominus rex at the bottom of the park's lagoon. After successfully collecting a bone fragment, the team's survivors barely escape the island following attacks by the Mosasaurus and Tyrannosaurus rex"
+}
