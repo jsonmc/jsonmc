@@ -1,0 +1,24 @@
+{
+  "name": "Back to the Future 2",
+  "year": 1989,
+  "runtime": 108,
+  "categories": [
+    "science fiction",
+    "action",
+  ],
+  "release-date": "1989-22-11",
+  "director": [
+    "Robert Zemeckis", 
+  ],
+  "writer": [
+    "Robert Zemeckis",
+    "Bob Gale"
+  ],
+  "actors": [
+    "Christopher Lloyd",
+    "Lea Thompson",
+    "Crispin Glover",
+    "Michael J. Fox",
+  ],
+  "storyline": "The film stars Michael J. Fox, Christopher Lloyd, Thomas F. Wilson, and Lea Thompson. In the plot, Marty McFly (Fox) and his friend Dr. Emmett "Doc" Brown (Lloyd) travel to 2015, where bully Biff Tannen (Wilson) steals Doc's DeLorean time machine and uses it to alter history for the worse.",
+}
