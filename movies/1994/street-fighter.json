@@ -1,0 +1,21 @@
+{
+    "name": "Street Fighter",
+    "year": 1994,
+    "runtime": 102,
+    "categories": [
+      "action",
+      "adventure",
+      "comedy"
+    ],
+    "release-date": "1994-12-23",
+    "director": "Steven E. de Souza",
+    "writer": [
+      "Steven E. de Souza"
+    ],
+    "actors": [
+      "Jean-Claude Van Damme",
+      "Raul Julia",
+      "Ming-Na Wen"
+    ],
+    "storyline": "Col. Guile and various other martial arts heroes fight against the tyranny of Dictator M. Bison and his cohorts."
+  }
