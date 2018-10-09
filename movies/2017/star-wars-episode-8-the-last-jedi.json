@@ -1,24 +1,24 @@
 {
-    "name": "Star Wars: Episode 8 - The Last Jedi",
-    "year": 2017,
-    "runtime": 150,
-    "categories": [
-      "action",
-      "adventure",
-      "sci-fi"
-    ],
-    "release-date": "2017-12-15",
-    "director": "Rian Johnson",
-    "writer": "Rian Johnson",
-    "actors": [
-       "Mark Hamill",
-       "Carrie Fisher",
-       "Adam Driver",
-       "Daisy Ridley",
-       "John Boyega",
-       "Oscar Isaac",
-       "Andy Serkis",
-       "Lupita Nyong'o",
-       "Domhnall Gleeson"
-    ]
-  }
+  "name": "Star Wars: Episode 8 - The Last Jedi",
+  "year": 2017,
+  "runtime": 150,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2017-12-15",
+  "director": "Rian Johnson",
+  "writer": "Rian Johnson",
+  "actors": [
+    "Mark Hamill",
+    "Carrie Fisher",
+    "Adam Driver",
+    "Daisy Ridley",
+    "John Boyega",
+    "Oscar Isaac",
+    "Andy Serkis",
+    "Lupita Nyong'o",
+    "Domhnall Gleeson"
+  ]
+}

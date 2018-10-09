@@ -1,29 +1,29 @@
 {
-    "name": "Guardians of the Galaxy Vol. 2",
-    "year": 2017,
-    "runtime": 137,
-    "categories": [
-      "action",
-      "sci-fi",
-      "comedy",
-      "adventure"
-    ],
-    "release-date": "2017-04-19",
-    "director": "James Gunn",
-    "writer": [
-      "James Gunn"
-    ],
-    "actors": [
-        "Chris Pratt",
-        "Zoe Saldana",
-        "Dave Bautista",
-        "Vin Diesel",
-        "Bradley Cooper",
-        "Michael Rooker",
-        "Karen Gillan",
-        "Pom Klementieff",
-        "Sean Gunn",
-        "Sylvester Stallone"
-    ],
-    "storyline":"The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage."
-  }
+  "name": "Guardians of the Galaxy Vol. 2",
+  "year": 2017,
+  "runtime": 137,
+  "categories": [
+    "action",
+    "sci-fi",
+    "comedy",
+    "adventure"
+  ],
+  "release-date": "2017-04-19",
+  "director": "James Gunn",
+  "writer": [
+    "James Gunn"
+  ],
+  "actors": [
+    "Chris Pratt",
+    "Zoe Saldana",
+    "Dave Bautista",
+    "Vin Diesel",
+    "Bradley Cooper",
+    "Michael Rooker",
+    "Karen Gillan",
+    "Pom Klementieff",
+    "Sean Gunn",
+    "Sylvester Stallone"
+  ],
+  "storyline": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage."
+}

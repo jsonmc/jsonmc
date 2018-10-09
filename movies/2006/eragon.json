@@ -1,26 +1,25 @@
 {
-    "name": "Eragon",
-    "year": 2006,
-    "runtime": 154,
-    "categories": [
-      "action",
-      "adventure",
-      "family"
-    ],
-    "release-date": "2006-12-14",
-    "director": "Stefen Fangmeier",
-    "writer": [
-        "Peter Buchman",
-        "Christopher Paolini"
-    ],
-    "actors": [
-        "Ed Speleers",
-        "Jeremy Irons",
-        "Sienna Guillory",
-        "Robert Carlyle",
-        "John Malkovich",
-        "Garrett Hedlund"
-    ],
-    "storyline": "In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realizes he's the one person who can defend his home against an evil king."
-  }
-  
+  "name": "Eragon",
+  "year": 2006,
+  "runtime": 154,
+  "categories": [
+    "action",
+    "adventure",
+    "family"
+  ],
+  "release-date": "2006-12-14",
+  "director": "Stefen Fangmeier",
+  "writer": [
+    "Peter Buchman",
+    "Christopher Paolini"
+  ],
+  "actors": [
+    "Ed Speleers",
+    "Jeremy Irons",
+    "Sienna Guillory",
+    "Robert Carlyle",
+    "John Malkovich",
+    "Garrett Hedlund"
+  ],
+  "storyline": "In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realizes he's the one person who can defend his home against an evil king."
+}

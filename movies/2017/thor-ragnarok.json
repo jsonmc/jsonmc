@@ -1,32 +1,32 @@
 {
-    "name": "Thor: Ragnarok",
-    "year": 2017,
-    "runtime": 137,
-    "future": false,
-    "categories": [
-      "action",
-      "sci-fi",
-      "fantasy",
-      "adventure"
-    ],
-    "release-date": "2017-10-25",
-    "director": "Taika Waititi",
-    "writer": [
-      "Christopher Yost",
-      "Craig Kyle",
-      "Stephany Folsom",
-      "Eric Pearson"
-    ],
-    "actors": [
-        "Chris Hemsworth",
-        "Tom Hiddleson",
-        "Cate Blanchett",
-        "Idris Elba",
-        "Jeff Goldblum",
-        "Mark Ruffalo",
-        "Benedict Cumberbatch",
-        "Anthony Hopkins",
-        "Karl Urban"
-    ],
-    "storyline":"Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela."
-  }
+  "name": "Thor: Ragnarok",
+  "year": 2017,
+  "runtime": 137,
+  "future": false,
+  "categories": [
+    "action",
+    "sci-fi",
+    "fantasy",
+    "adventure"
+  ],
+  "release-date": "2017-10-25",
+  "director": "Taika Waititi",
+  "writer": [
+    "Christopher Yost",
+    "Craig Kyle",
+    "Stephany Folsom",
+    "Eric Pearson"
+  ],
+  "actors": [
+    "Chris Hemsworth",
+    "Tom Hiddleson",
+    "Cate Blanchett",
+    "Idris Elba",
+    "Jeff Goldblum",
+    "Mark Ruffalo",
+    "Benedict Cumberbatch",
+    "Anthony Hopkins",
+    "Karl Urban"
+  ],
+  "storyline": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela."
+}
