@@ -1,0 +1,29 @@
+{
+    "name": "Christopher Robin",
+    "year": 2018,
+    "runtime": 104,
+    "categories": [
+      "fantasy",
+      "family",
+      "animation"
+    ],
+    "release-date": "2018-07-30",
+    "director": "Marc Forster",
+    "writer": [
+      "Alex Ross Perry",
+      "Tom McCarthy",
+      "Allison Schroeder",
+      "Greg Brooker",
+      "Mark Steven Johnson",
+      "A.A. Milne",
+      "Ernest Shepard"
+
+    ],
+    "actors": [
+      "Ewan McGregor",
+      "Hayley Atwell",
+      "Jim Cummings",
+      "Brad Garrett"
+    ],
+    "storyline": "A working-class family man, Christopher Robin, encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life."
+  }
