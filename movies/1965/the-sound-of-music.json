@@ -1,0 +1,25 @@
+{
+  "name": "The Sound of Music",
+  "year": 1965,
+  "runtime": 172,
+  "categories": [
+    "biography",
+    "drama",
+    "family"
+  ],
+  "release-date": "1965-03-29",
+  "director": "Robert Wise",
+  "writer": [
+    "George Hurdalek",
+    "Howard Lindsay",
+    "Russel Crouse",
+    "Ernest Lehman",
+    "Maria von Trapp"
+  ],
+  "actors": [
+    "Julie Andrews",
+    "Christopher Plummer",
+    "Eleanor Parker"
+  ],
+  "storyline": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower."
+}
