@@ -1,0 +1,23 @@
+{
+  "name": "A.I. Artificial Intelligence",
+  "year": 2001,
+  "runtime": 146,
+  "categories": [
+    "drama",
+    "fiction",
+    "science"
+  ],
+  "release-date": "2001-06-26",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Brian Aldiss",
+    "Ian Watson"
+  ],
+  "actors": [
+	"Haley Joel Osment",
+	"Jude Law", 
+    "Frances O'Connor"
+  ],
+  "storyline": "A highly advanced robotic boy longs to become 'real' so that he can regain the love of his human mother."
+}
+
