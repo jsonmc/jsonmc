@@ -1,0 +1,36 @@
+{
+  "name": "Finding Nemo",
+  "year": 2003,
+  "runtime": 100,
+  "categories": [
+    "animation",
+    "comedy",
+    "adventure"
+  ],
+  "release-date": "2003-05-30",
+  "director": "Andrew Stanton",
+  "writer": [
+    "Andrew Stanton"
+  ],
+  "actors": [
+    "Albert Brooks",
+    "Ellen DeGeneres",
+    "Alexander Gould",
+    "Willem Dafoe",
+    "Brad Garrett",
+    "Allison Janney",
+    "Austin Pendleton",
+    "Stephen Root",
+    "Vicki Lewis",
+    "Joe Ranft",
+    "Geoffrey Rush",
+    "Andrew Stanton",
+    "Elizabeth Perkins",
+    "Nicholas Bird",
+    "Bob Peterson",
+    "Barry Humphries",
+    "Eric Bana",
+    "Bruce Spence",
+    "Bill Hunter"
+  ]
+}
