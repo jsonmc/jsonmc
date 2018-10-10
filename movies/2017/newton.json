@@ -1,0 +1,23 @@
+{
+    "name": "Newton",
+    "year": 2017,
+    "runtime": 106,
+    "categories": [
+        "comedy",
+        "drama",
+        "indian"
+    ],
+    "release-date": "2017-09-22",
+    "director": "Amit V Masurkar",
+    "writer": [
+        "Amit V Masurkar",
+        "Mayank Tewari"
+    ],
+    "actors":[
+        "Rajkumar Rao",
+        "Pankaj Tripathi",
+        "Anjali Patil",
+        "Raghubir Yadav"
+    ],
+    "storyline": "A government clerk tries to run a free and fair election in a conflict area in central India"
+}
