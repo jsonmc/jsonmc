@@ -1,0 +1,21 @@
+{
+    "name": "Deadpool",
+    "year": 2016,
+    "runtime": 108,
+    "categories": [
+      "action",
+      "adventure",
+      "comedy"
+    ],
+    "release-date": "2016-02-12",
+    "director": "Tim Miller",
+    "writer": [
+      "Rhett Reese", 
+      "Paul Wernick"
+    ],
+    "actors": [
+       "Ryan Reynolds", "Morena Baccarin", "T.J. Miller"
+    ],
+    "storyline": "A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge."
+  }
+  
