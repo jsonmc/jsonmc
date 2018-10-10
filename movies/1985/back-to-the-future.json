@@ -1,0 +1,22 @@
+{
+  "name": "Back to the Future",
+  "year": 1985,
+  "runtime": 116,
+  "categories": [
+    "adventure",
+    "comedy",
+    "sci-fi"
+  ],
+  "release-date": "1985-06-3",
+  "director": "Robert Zemeckis",
+  "writer": [
+    "Robert Zemeckis",
+    "Bob Gale"
+  ],
+  "actors": [
+    "Michael J. Fox",
+    "Christopher Lloyd",
+    "Lea Thompson"
+  ],
+  "storyline": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+}

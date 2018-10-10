@@ -1,0 +1,22 @@
+
+  "name": "Back to the Future Part II",
+  "year": 1989,
+  "runtime": 108,
+  "categories": [
+    "adventure",
+    "comedy",
+    "sci-fi"
+  ],
+  "release-date": "1985-11-22",
+  "director": "Robert Zemeckis",
+  "writer": [
+    "Robert Zemeckis",
+    "Bob Gale"
+  ],
+  "actors": [
+    "Michael J. Fox",
+    "Christopher Lloyd",
+    "Lea Thompson"
+  ],
+  "storyline": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip."
+}
