@@ -1,0 +1,23 @@
+{
+  "name": "Rush",
+  "year": 2013,
+  "runtime": 123,
+  "categories": [
+    "drama",
+    "sport"
+  ],
+  "release-date": "2013-09-27",
+  "director": "Ron Howard",
+  "writer": [
+    "Peter Morgan"
+  ],
+  "actors": [
+    "Chris Hemsworth",
+	"Daniel Brühl",
+	"Olivia Wilde",
+	"Alexandra Maria Lara",
+	"Pierfrancesco Favino",
+	"Natalie Dormer"
+  ],
+  "storyline": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits."
+}
