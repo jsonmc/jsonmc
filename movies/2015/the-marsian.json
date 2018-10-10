@@ -1,0 +1,29 @@
+{
+  "name": "The Martian",
+  "year": 2015,
+  "runtime": 142,
+  "categories": [
+    "science fiction"
+  ],
+  "release-date": "2015-09-11",
+  "director": "Ridley Scott",
+  "writer": [
+    "Andy Weir",
+    "Drew Goddard"
+  ],
+  "actors": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Kristen Wiig",
+    "Jeff Daniels",
+    "Sean Bean",
+    "Michael Peña",
+    "Kate Mara",
+    "Sebastian Stan",
+    "Aksel Hennie",
+    "Chiwetel Ejiofor",
+    "Donald Glover",
+    "Benedict Wong"
+  ],
+  "storyline": "The Martian is about an astronaut who is mistakenly presumed dead and left behind on Mars. The film depicts his struggle to survive and others' efforts to rescue him."
+}
