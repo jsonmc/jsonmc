@@ -1,0 +1,21 @@
+{
+  "name": "Baby Driver",
+  "year": 2017,
+  "runtime": 113,
+  "categories": [
+    "action",
+    "crime",
+    "drama"
+  ],
+  "release-date": "2017-06-28",
+  "director": "Edgar Wright",
+  "writer": [
+    "Edgar Wright"
+  ],
+  "actors": [
+    "Ansel Elgort",
+    "Jon Bernthal",
+    "Jon Hamm"
+  ],
+  "storyline": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail."
+}

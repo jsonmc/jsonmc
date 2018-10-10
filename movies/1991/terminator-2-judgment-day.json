@@ -1,7 +1,7 @@
 {
   "name": "Terminator 2: Judgment Day",
   "year": 1991,
-  "runtume": 137,
+  "runtime": 137,
   "categories": [
     "action",
     "sci-fi",
@@ -11,20 +11,20 @@
   "release-date": "1991-07-03",
   "director": "James Cameron",
   "writer": [
-       "James Cameron",
-       "William Wisher Jr."
+    "James Cameron",
+    "William Wisher Jr."
   ],
   "actors": [
-     "Arnold Schwarzenegger", 
-     "Edward Furlong", 
-     "Linda Hamilton",
-     "Robert Patrick",
-     "Earl Boen",
-     "Joe Morton",
-     "S. Epatha Merkerson",
-     "Castulo Guerra",
-     "Danny Cooksey",
-     "Jenette Goldstein",
-     "Xander Berkeley"
+    "Arnold Schwarzenegger",
+    "Edward Furlong",
+    "Linda Hamilton",
+    "Robert Patrick",
+    "Earl Boen",
+    "Joe Morton",
+    "S. Epatha Merkerson",
+    "Castulo Guerra",
+    "Danny Cooksey",
+    "Jenette Goldstein",
+    "Xander Berkeley"
   ]
 }

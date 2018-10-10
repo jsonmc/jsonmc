@@ -1,0 +1,28 @@
+{
+  "name": "Hackers",
+  "year": 1995,
+  "runtime": 107,
+  "categories": [
+    "comedy",
+    "crime",
+    "drama"
+  ],
+  "release-date": "1995-09-15",
+  "director": "Iain Softley",
+  "writer": [
+    "Rafael Moreu"
+  ],
+  "actors": [
+    "Jonny Lee Miller",
+    "Angelina Jolie",
+    "Jesse Bradford",
+    "Matthew Lillard",
+    "Laurence Mason",
+    "Renoly Santiago",
+    "Fisher Stevens",
+    "Alberta Watson",
+    "Darren Lee",
+    "Peter Y. Kim"
+  ],
+  "storyline": "A teenage hacker finds himself framed for the theft of millions of dollars from a major corporation. Master hacker Dade Murphy, aka Zero Cool, aka Crash Override, has been banned from touching a keyboard for seven years after crashing over 1,500 Wall Street computers at the age of 11. Now keen to get back in front of a monitor, he finds himself in more trouble than ever."
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Jumanji",
+  "year": 1995,
+  "runtime": 104,
+  "categories": [
+    "adventure",
+    "family",
+    "fantasy"
+  ],
+  "release-date": "1995-12-15",
+  "director": "Joe Johnston",
+  "writer": [
+    "Jonathan Hensleigh",
+    "Greg Taylor",
+    "Jim Strain",
+    "Greg Taylor",
+    "Chris Van Allsburg"
+  ],
+  "actors": [
+    "Robin Williams",
+    "Jonathan Hyde ",
+    "Kirsten Dunst",
+    "Bradley Pierce",
+    "Bonnie Hunt",
+    "Bebe Neuwirth",
+    "David Alan Grier",
+    "Patricia Clarkson",
+    "Adam Hann-Byrd",
+    "Laura Bell Bundy",
+    "James Handy",
+    "Gillian Barber",
+    "Brandon Obray",
+    "Cyrus Thiedeke",
+    "Gary Joseph Thorup ",
+    "Leonard Zola ",
+    "Lloyd Berry ",
+    "Malcolm Stewart",
+    "Annabel Kershaw",
+    "Darryl Henriques ",
+    "Robyn Driscoll ",
+    "Peter Bryant ",
+    "Sarah Gilson ",
+    "Florica Vlad ",
+    "June Lion ",
+    "Brenda Lockmuller ",
+    "Frederick Richardson ",
+    "Frank Welker"
+  ],
+  "storyline": "When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game."
+}

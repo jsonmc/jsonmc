@@ -1,0 +1,25 @@
+{
+  "name": "Mr. & Mrs. Smith",
+  "year": 2005,
+  "runtime": 120,
+  "categories": [
+    "action",
+    "comedy",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2005-08-11",
+  "director": "Doug Liman",
+  "writer": [
+    "Simon Kinberg"
+  ],
+  "actors": [
+    "Angelina Jolie",
+    "Brad Pitt",
+    "Vince Vaughn",
+    "Adam Brody",
+    "Kerry Washington",
+    "Keith David"
+  ],
+  "storyline": "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other."
+}

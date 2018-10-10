@@ -1,0 +1,21 @@
+{
+  "name": "The Room",
+  "year": 2003,
+  "runtime": 99,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "2003-06-27",
+  "director": "Tommy Wiseau",
+  "writer": [
+    "Tommy Wiseau"
+  ],
+  "actors": [
+    "Tommy Wiseau",
+    "Greg Sestero",
+    "Philip Haldiman",
+    "Carolyn Minnott"
+  ],
+  "storyline": "Lisa betrays her fiancee Johnny with his best friend Mark"
+}

@@ -1,23 +1,23 @@
 {
-    "name": "The Fast and the Furious: Tokyo Drift",
-    "year": 2006,
-    "runtime":104,
-    "categories":[
-        "action",
-        "crime",
-        "thriller"
-    ],
-    "release-date":"2006-06-16",
-    "director":"Justin Lin",
-    "writer":[
-        "Chris Morgan"
-    ],
-    "actors":[
-        "Lucas Black",
-        "Nathalie Kelley",
-        "Sung Kang",
-        "Bow Wow",
-        "Brian Tee"
-    ],
-    "storyline":"To avoid jail sentence in America,A young boy moves to Tokyo with his father and becomes strong competitor in realm of drift racing."
+  "name": "The Fast and the Furious: Tokyo Drift",
+  "year": 2006,
+  "runtime": 104,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2006-06-16",
+  "director": "Justin Lin",
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Lucas Black",
+    "Nathalie Kelley",
+    "Sung Kang",
+    "Bow Wow",
+    "Brian Tee"
+  ],
+  "storyline": "To avoid jail sentence in America,A young boy moves to Tokyo with his father and becomes strong competitor in realm of drift racing."
 }

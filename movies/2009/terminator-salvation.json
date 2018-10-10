@@ -1,7 +1,7 @@
 {
   "name": "Terminator Salvation",
   "year": 2009,
-  "runtume": 115,
+  "runtime": 115,
   "categories": [
     "action",
     "adventure",
@@ -11,18 +11,18 @@
   "release-date": "2009-05-21",
   "director": "McG",
   "writer": [
-       "John Brancato",
-       "Michael Ferris"
+    "John Brancato",
+    "Michael Ferris"
   ],
   "actors": [
-     "Christian Bale", 
-     "Sam Worthington", 
-     "Moon Bloodgood",
-     "Helena Bonham Carter",
-     "Anton Yelchin",
-     "Jadagrace",
-     "Bryce Dallas Howard",
-     "Common",
-     "Jane Alexander"
+    "Christian Bale",
+    "Sam Worthington",
+    "Moon Bloodgood",
+    "Helena Bonham Carter",
+    "Anton Yelchin",
+    "Jadagrace",
+    "Bryce Dallas Howard",
+    "Common",
+    "Jane Alexander"
   ]
 }

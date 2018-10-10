@@ -1,0 +1,30 @@
+{
+  "name": "The Avengers",
+  "year": 2012,
+  "runtime": 143,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2012-04-11",
+  "director": "Joss Whedon",
+  "writer": [
+    "Zak Penn",
+    "Joss Whedon"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Chris Hemsworth",
+    "Scarlett Johansson",
+    "Jeremy Renner",
+    "Tom Hiddleston",
+    "Clark Gregg",
+    "Cobie Smulders",
+    "Stellan Skarsgård",
+    "Samuel L. Jackson"
+  ],
+  "storyline": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster which is formed by Loki and his team."
+}

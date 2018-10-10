@@ -1,29 +1,29 @@
 {
-    "name": "The Fate of the Furious",
-    "year": 2017,
-    "runtime":136,
-    "categories":[
-        "action",
-        "crime",
-        "thriller"
-    ],
-    "release-date":"2017-04-14",
-    "director":"F. Gary Gary",
-    "writer":[
-        "Chris Morgan"
-    ],
-    "actors":[
-        "Vin Diesel",
-        "Dwayne Johnson",
-        "Jason Statham",
-        "Michelle Rodriguez",
-        "Scott Eastwood",
-        "Nathalie Emmanuel",
-        "Elsa Pataky",
-        "Kurt Russel",
-        "Charlize Theron",
-        "Tyrese Gibson",
-        "Chris Ludacris Bridges"
-    ],
-    "storyline":"A cyberterrorist Cipher lures Dom to work for her and now Dom's crew has to stop Cipher while fighting Dom."
+  "name": "The Fate of the Furious",
+  "year": 2017,
+  "runtime": 136,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2017-04-14",
+  "director": "F. Gary Gary",
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Dwayne Johnson",
+    "Jason Statham",
+    "Michelle Rodriguez",
+    "Scott Eastwood",
+    "Nathalie Emmanuel",
+    "Elsa Pataky",
+    "Kurt Russel",
+    "Charlize Theron",
+    "Tyrese Gibson",
+    "Chris Ludacris Bridges"
+  ],
+  "storyline": "A cyberterrorist Cipher lures Dom to work for her and now Dom's crew has to stop Cipher while fighting Dom."
 }

@@ -1,7 +1,7 @@
 {
   "name": "Star Trek",
   "year": 2009,
-  "runtume": 127,
+  "runtime": 127,
   "categories": [
     "action",
     "adventure",
@@ -14,8 +14,8 @@
     "Alex Kurtzman"
   ],
   "actors": [
-     "Chris Pine",
-     "Zachary Quinto",
-     "Simon Pegg"
+    "Chris Pine",
+    "Zachary Quinto",
+    "Simon Pegg"
   ]
 }

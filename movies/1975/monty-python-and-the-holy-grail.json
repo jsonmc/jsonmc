@@ -1,7 +1,7 @@
 {
   "name": "Monty Python and the Holy Grail",
   "year": 1975,
-  "runtume": 91,
+  "runtime": 91,
   "categories": [
     "adventure",
     "comedy",
@@ -13,16 +13,16 @@
     "Terry Jones"
   ],
   "writer": [
-       "Graham Chapman",
-       "John Cleese",
-       "Eric Idle",
-       "Terry Gilliam",
-       "Terry Jones",
-       "Michael Palin"
+    "Graham Chapman",
+    "John Cleese",
+    "Eric Idle",
+    "Terry Gilliam",
+    "Terry Jones",
+    "Michael Palin"
   ],
   "actors": [
-     "Graham Chapman",
-     "John Cleese",
-     "Eric Idle"
+    "Graham Chapman",
+    "John Cleese",
+    "Eric Idle"
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "name": "Dude, Where's My Car?",
+  "year": 2000,
+  "runtime": 83,
+  "categories": [
+    "comedy",
+    "mystery",
+    "sci-fi"
+  ],
+  "release-date": "2000-12-15",
+  "director": "Danny Leiner",
+  "writer": "Philip Stark",
+  "actors": [
+    "Ashton Kutcher",
+    "Seann William Scott",
+    "Jennifer Garner",
+    "Marla Sokoloff",
+    "Kristy Swanson",
+    "David Herman",
+    "Hal Sparks",
+    "Charlie O'Connell",
+    "John Toles-Bey"
+  ],
+  "storyline": "Two potheads wake up after a night of partying and cannot remember where they parked their car."
+}

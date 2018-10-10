@@ -1,0 +1,24 @@
+{
+  "name": "The Book",
+  "year": 2008,
+  "runtime": 11,
+  "categories": [
+    "short",
+    "horror"
+  ],
+  "release-date": "2010-07-10",
+  "director": "James Raynor",
+  "writer": [
+    "Richard Ellis",
+    "James Raynor",
+    "H.P. Lovecraft"
+  ],
+  "actors": [
+    "Matthew Jay France",
+    "Eryl Lloyd Parry",
+    "Nick Thompson",
+    "Oliver Jones",
+    "Sam Grant"
+  ],
+  "storyline": "Isaac Williams is a scholar of the Occult, having studied under the well respected Professor Robert Northam at Miskatonic University. On one of his many forays into archaic bookshops in search of antiquities and rare texts, Williams happens upon a copy of The Necrnomicon, an ancient tome from the Dark Ages containing a collection of sinister spells, prophecies and incantations. Excitedly, he purchases the book and brings it to his old professor, only to discover Northam a hollow shell of the great man he once was. He, too, had studied The Necronomicon and his findings had driven him to insanity, forcing him to spend his days with inane distractions to avoid those awful thoughts. Unperturbed by Northam's warnings, Williams takes up residence in his home and begins his research into The Necronomicon, desperate to to discover it's dark secrets."
+}

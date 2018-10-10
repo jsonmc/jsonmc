@@ -1,0 +1,39 @@
+{
+  "name": "The Godfather: Part III",
+  "year": 1990,
+  "runtime": 162,
+  "categories": [
+    "action",
+    "crime",
+    "drama"
+  ],
+  "release-date": "1990-12-20",
+  "director": "Francis Ford Coppola",
+  "writer": [
+    "Francis Ford Coppola",
+    "Mario Puzo"
+  ],
+  "actors": [
+    "Al Pacino",
+    "Andy García",
+    "Diane Keaton",
+    "Talia Shire",
+    "Sofia Coppola",
+    "Eli Wallach",
+    "George Hamilton",
+    "Joe Mantegna",
+    "Richard Bright",
+    "Bridget Fonda",
+    "Raf Vallone",
+    "Franc D'Ambrosio",
+    "Donal Donnelly",
+    "Helmut Berger",
+    "Don Novello",
+    "John Savage",
+    "Mario Donatone",
+    "Vittorio Duse",
+    "Enzo Robutti",
+    "Al Martino"
+  ],
+  "storyline": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing."
+}

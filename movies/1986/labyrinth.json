@@ -1,0 +1,31 @@
+{
+  "name": "Labyrinth",
+  "year": 1986,
+  "runtime": 101,
+  "categories": [
+    "action",
+    "family",
+    "fantasy",
+    "sci-fi"
+  ],
+  "release-date": "1986-06-24",
+  "director": [
+    "Jim Henson"
+  ],
+  "writer": [
+    "Dennis Lee",
+    "Jim Henson",
+    "Terry Jones"
+  ],
+  "actors": [
+    "David Bowie",
+    "Jennifer Connelly",
+    "Toby Froud",
+    "Shelley Thompson",
+    "Christopher Malcolm",
+    "Natalie Finland",
+    "Shari Weiser",
+    "Brian Henson"
+  ],
+  "storyline": "A 16-year-old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King."
+}

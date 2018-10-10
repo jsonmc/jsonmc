@@ -1,0 +1,30 @@
+{
+  "name": "Point Break",
+  "year": 1991,
+  "runtime": 122,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "description": "An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.",
+  "release-date": "1991-11-22",
+  "director": "Kathryn Bigelow",
+  "writer": [
+    "Rick King",
+    "W. Peter Iliff"
+  ],
+  "actors": [
+    "Patrick Swayze",
+    "Keanu Reeves",
+    "Gary Busey",
+    "Lori Petty",
+    "John C. McGinley",
+    "James Le Gros",
+    "John Philbin",
+    "Bojesse Christopher",
+    "Julian Reyes",
+    "Daniel Beer",
+    "Chris Pedersen"
+  ]
+}

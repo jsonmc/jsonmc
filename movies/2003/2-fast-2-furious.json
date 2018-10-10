@@ -1,25 +1,25 @@
 {
-    "name": "2 Fast 2 Furious",
-    "year": 2003,
-    "runtime":103,
-    "categories":[
-        "action",
-        "crime",
-        "thriller"
-    ],
-    "release-date":"2003-06-06",
-    "director":"John Singleton",
-    "writer":[
-        "Gary Scott Thompson",
-        "Michael Brandt",
-        "Derek Haas"
-    ],
-    "actors":[
-        "Paul Walker",
-        "Tyrese Gibson",
-        "Chris Ludacris Bridges",
-        "Eva Mendes",
-        "Cole Hauser"
-    ],
-    "storyline":"Former Cop Brian O'Corner is assigned to bring down drug lord Carter Verone"
+  "name": "2 Fast 2 Furious",
+  "year": 2003,
+  "runtime": 103,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2003-06-06",
+  "director": "John Singleton",
+  "writer": [
+    "Gary Scott Thompson",
+    "Michael Brandt",
+    "Derek Haas"
+  ],
+  "actors": [
+    "Paul Walker",
+    "Tyrese Gibson",
+    "Chris Ludacris Bridges",
+    "Eva Mendes",
+    "Cole Hauser"
+  ],
+  "storyline": "Former Cop Brian O'Corner is assigned to bring down drug lord Carter Verone"
 }

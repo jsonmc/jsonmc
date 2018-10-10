@@ -1,0 +1,41 @@
+{
+  "name": "Moana",
+  "year": 2016,
+  "runtime": 107,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2016-11-23",
+  "director": [
+    "Ron Clements",
+    "John Musker",
+    "Don Hall",
+    "Chris Williams"
+  ],
+  "writer": [
+    "Jared Bush",
+    "Ron Clements",
+    "John Musker",
+    "Chris Williams",
+    "Don Hall",
+    "Pamela Ribon",
+    "Aaron Kandell",
+    "Jordan Kandell"
+  ],
+  "actors": [
+    "Auli'i Cravalho",
+    "Dwayne Johnson",
+    "Rachel House",
+    "Temuera Morrison",
+    "Jemaine Clement",
+    "Nicole Scherzinger",
+    "Alan Tudyk",
+    "Oscar Kightley",
+    "Troy Polamalu",
+    "Puanani Cravalho",
+    "Louise Bush"
+  ],
+  "storyline": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right."
+}

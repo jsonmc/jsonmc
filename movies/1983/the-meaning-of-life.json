@@ -1,7 +1,7 @@
 {
   "name": "The Meaning of Life",
   "year": 1983,
-  "runtume": 107,
+  "runtime": 107,
   "categories": [
     "comedy",
     "musical"
@@ -12,16 +12,16 @@
     "Terry Jones"
   ],
   "writer": [
-       "Graham Chapman",
-       "John Cleese",
-       "Eric Idle",
-       "Terry Gilliam",
-       "Terry Jones",
-       "Michael Palin"
+    "Graham Chapman",
+    "John Cleese",
+    "Eric Idle",
+    "Terry Gilliam",
+    "Terry Jones",
+    "Michael Palin"
   ],
   "actors": [
-     "Graham Chapman",
-     "John Cleese",
-     "Eric Idle"
+    "Graham Chapman",
+    "John Cleese",
+    "Eric Idle"
   ]
 }

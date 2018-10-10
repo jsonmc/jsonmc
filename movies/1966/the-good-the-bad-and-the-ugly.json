@@ -1,0 +1,25 @@
+{
+  "name": "The Good, the Bad and the Ugly",
+  "year": 1966,
+  "runtime": 161,
+  "categories": [
+    "western",
+    "action",
+    "adventure"
+  ],
+  "release-date": "1966-12-29",
+  "director": "Sergio Leone",
+  "writer": [
+    "Luciano Vincenzoni",
+    "Sergio Leone",
+    "Agenore Incrocci",
+    "Furio Scarpelli"
+  ],
+  "actors": [
+    "Eli Wallach",
+    "Lee Van Cleef",
+    "Aldo Giuffrè",
+    "Luigi Pistilli"
+  ],
+  "storyline": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+}

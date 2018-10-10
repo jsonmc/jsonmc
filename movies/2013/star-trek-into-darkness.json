@@ -1,7 +1,7 @@
 {
   "name": "Star Trek Into Darkness",
   "year": 2013,
-  "runtume": 132,
+  "runtime": 132,
   "categories": [
     "action",
     "adventure",
@@ -15,11 +15,11 @@
     "Damon Lindelof"
   ],
   "actors": [
-     "Chris Pine",
-     "Zachary Quinto",
-     "Benedict Cumberbatch",
-     "Zoe Saldana",
-     "Karl Urban",
-     "Simon Pegg"
+    "Chris Pine",
+    "Zachary Quinto",
+    "Benedict Cumberbatch",
+    "Zoe Saldana",
+    "Karl Urban",
+    "Simon Pegg"
   ]
 }

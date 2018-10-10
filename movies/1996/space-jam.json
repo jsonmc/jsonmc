@@ -1,0 +1,22 @@
+{
+  "name": "Space Jam",
+  "year": 1996,
+  "runtime": 88,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "1996-11-15",
+  "director": "Joe Pytka",
+  "writer": [
+    "Leo Benvenuti",
+    "Steve Rudnick "
+  ],
+  "actors": [
+    "Michael Jordan",
+    "Wayne Knight",
+    "Theresa Randle"
+  ],
+  "storyline": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan."
+}

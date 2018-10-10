@@ -1,7 +1,7 @@
 {
   "name": "The Terminator",
   "year": 1984,
-  "runtume": 107,
+  "runtime": 107,
   "categories": [
     "action",
     "sci-fi"
@@ -10,18 +10,18 @@
   "release-date": "1984-10-26",
   "director": "James Cameron",
   "writer": [
-       "James Cameron",
-       "Gale Anne Hurd",
-       "William Wisher Jr."
+    "James Cameron",
+    "Gale Anne Hurd",
+    "William Wisher Jr."
   ],
   "actors": [
-     "Arnold Schwarzenegger", 
-     "Michael Biehn", 
-     "Linda Hamilton",
-     "Paul Winfield",
-     "Lance Henriksen",
-     "Rick Rossovich",
-     "Bess Motta",
-     "Earl Boen"
+    "Arnold Schwarzenegger",
+    "Michael Biehn",
+    "Linda Hamilton",
+    "Paul Winfield",
+    "Lance Henriksen",
+    "Rick Rossovich",
+    "Bess Motta",
+    "Earl Boen"
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "name": "Black Panther",
+  "year": 2018,
+  "runtime": 134,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2018-02-16",
+  "director": "Ryan Coogler",
+  "writer": [
+    "Ryan Coogler",
+    "Joe Robert Cole"
+  ],
+  "actors": [
+    "Chadwick Boseman",
+    "Michael B. Jordan",
+    "Danai Gurira",
+    "Martin Freeman"
+  ],
+  "storyline": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+}

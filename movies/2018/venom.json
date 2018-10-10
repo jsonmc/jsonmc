@@ -1,0 +1,28 @@
+{
+  "name": "Venom",
+  "year": 2018,
+  "runtime": 112,
+  "categories": [
+    "horror",
+    "action",
+    "sci-fi"
+  ],
+  "release-date": "2018-10-05",
+  "director": "Ruben Fleischer",
+  "writer": [
+    "Scott Rosenberg",
+    "Jeff Pinkner",
+    "Kelly Marcel",
+    "Will Beall",
+    "Todd McFarlane",
+    "Jeff Pinkner",
+    "Scott Rosenberg",
+    "David Michelinie"
+  ],
+  "actors": [
+    "Tom Hardy",
+    "Michelle Williams",
+    "Marcella Bragio"
+  ],
+  "storyline": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego 'Venom' to save his life."
+}

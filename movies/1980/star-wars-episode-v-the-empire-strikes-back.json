@@ -1,7 +1,7 @@
 {
   "name": "Star Wars: Episode V - The Empire Strikes Back",
   "year": 1980,
-  "runtume": 124,
+  "runtime": 124,
   "categories": [
     "action",
     "adventure",
@@ -11,9 +11,9 @@
   "director": "George Lucas",
   "writer": "George Lucas",
   "actors": [
-     "Mark Hamill",
-     "Harrison Ford",
-     "Carrie Fisher",
-     "Alec Guinness"
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher",
+    "Alec Guinness"
   ]
 }

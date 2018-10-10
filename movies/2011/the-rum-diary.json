@@ -1,0 +1,23 @@
+{
+  "name": "The Rum diary",
+  "year": 2011,
+  "runtime": 119,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "2011-10-28",
+  "director": "Bruce Robinson",
+  "writer": [
+    "Bruce Robinson",
+    "Hunter S. Thompson"
+  ],
+  "actors": [
+    "Johnny Depp",
+    "Giovanni Ribisi",
+    "Aaron Eckhart",
+    "Michael Rispoli",
+    "Amber Heard"
+  ],
+  "storyline": "American journalist Paul Kemp (Depp) takes on a freelance job in Puerto Rico for a local newspaper during the 1960s and struggles to find a balance between island culture and the expatriates who live there."
+}
