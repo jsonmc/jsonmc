@@ -1,0 +1,19 @@
+{
+  "name": "Toy Story",
+  "year": 1995,
+  "runtime": 81,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "1995-11-19",
+  "director": "John Lasseter",
+  "writer": "John Lasseter",
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Don Rickles"
+  ],
+  "storyline": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room."
+}

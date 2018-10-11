@@ -1,0 +1,19 @@
+{
+  "name": "Toy Story 2",
+  "year": 1999,
+  "runtime": 92,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "1999-11-13",
+  "director": "John Lasseter",
+  "writer": "John Lasseter",
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+  ],
+  "storyline": "When Woody is stolen by a toy collector, Buzz and his friends vow to rescue him, but Woody finds the idea of immortality in a museum tempting."
+}
