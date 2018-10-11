@@ -1,0 +1,19 @@
+{
+  "name": "The Number 23",
+  "year": 2007,
+  "runtime": 98,
+  "categories": [
+    "thriller",
+    "drama"
+  ],
+  "release-date": "2007-02-23",
+  "director": "Joel Schumacher",
+  "writer": "Fernley Phillips",
+  "actors": [
+  	"Jim Carrey",
+	"Virginia Madsen",
+	"Logan Lerman",
+	"Danny Huston"
+  ],
+  "storyline": "Walter Sparrow becomes obsessed with a novel that he believes was written about him. As his obsession increases, more and more similarities seem to arise."
+}
