@@ -1,0 +1,31 @@
+{
+  "name": "Overboard",
+  "year": 2018,
+  "runtime": 112,
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "release-date": "2018-05-04",
+  "director": "Rob Greenberg",
+  "writer": [
+    "Bob Fisher",
+    "Rob Greenberg",
+    "Leslie Dixon"
+  ],
+  "actors": [
+    "Eugenio Derbez",
+    "Anna Faris",
+    "Eva Longoria",
+    "John Hannah",
+    "Swoosie Kurtz",
+    "Mel Rodriguez",
+    "Josh Segarra",
+    "Hannah Nordberg",
+    "Alyvia Alyn Lind",
+    "Payton Lepinski",
+    "Fernando Luján",
+    "Cecilia Suárez"
+  ],
+  "storyline": "A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee."
+}
