@@ -1,0 +1,26 @@
+{
+	"name": "Deadpool",
+	"year": 2016,
+	"runtime": 109,
+	"categories": [
+		"action",
+		"fantasy",
+		"science fiction"
+	],
+	"release-date": "2016-02-12",
+	"director": "Tim Miller",
+	"writer": [
+		"Rhett Reese",
+		"Fabian Nicieza",
+		"Paul Wernick",
+		"Rob Liefeld"
+	],
+	"actors": [
+		"Ryan Reynolds",
+		"Morena Baccarin",
+		"Brianna Hildebrand",
+		"T.J. Miller",
+		"Stefan Kapicic"
+	],
+	"storyline": "Mercenary Wade Wilson, subjected to an experiment to heal himself of cancer, obtains healing powers, but at the cost of becoming awfully disfigured. He then adopts the alter ego of Deadpool."
+}
