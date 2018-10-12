@@ -2,9 +2,18 @@
   "name": "Moana",
   "year": 2016,
   "runtime": 107,
-  "categories": ["animation", "adventure", "comedy"],
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
   "release-date": "2016-11-23",
-  "director": ["Ron Clements", "John Musker", "Don Hall", "Chris Williams"],
+  "director": [
+    "Ron Clements",
+    "John Musker",
+    "Don Hall",
+    "Chris Williams"
+  ],
   "writer": [
     "Jared Bush",
     "Ron Clements",

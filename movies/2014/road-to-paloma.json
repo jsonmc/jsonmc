@@ -2,10 +2,17 @@
   "name": "Road to Paloma",
   "year": 2014,
   "runtime": 91,
-  "categories": ["drama", "thriller"],
+  "categories": [
+    "drama",
+    "thriller"
+  ],
   "release-date": "2014-07-11",
   "director": "Jason Momoa",
-  "writer": ["Jason Momoa", "Robert Homer Mollohan", "Jonathan Hirschbein"],
+  "writer": [
+    "Jason Momoa",
+    "Robert Homer Mollohan",
+    "Jonathan Hirschbein"
+  ],
   "actors": [
     "Tye Alexander",
     "Lisa Bonet",
@@ -69,6 +76,5 @@
     "Warren Garcia",
     "Tyrone D. Thomas Sr."
   ],
-  "storyline":
-    "Wolf, a Native American on the run after avenging his mother's murder, flees across the desolate American West on his motorcycle, where he'll discover that justice has a cost."
+  "storyline": "Wolf, a Native American on the run after avenging his mother's murder, flees across the desolate American West on his motorcycle, where he'll discover that justice has a cost."
 }
