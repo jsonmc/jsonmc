@@ -1,0 +1,31 @@
+{
+  "name": "Ocean's Twelve",
+  "year": 2004,
+  "runtime": 125,
+  "categories": [
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2004-12-10",
+  "director": "Steven Soderbergh",
+  "writer": [
+    "George Nolfi"
+  ],
+  "actors": [
+    "George Clooney",
+    "Brad Pitt",
+    "Matt Damon",
+    "Julia Roberts",
+    "Catherine Zeta-Jones",
+    "Andy Garcia",
+    "Don Cheadle",
+    "Vincent Cassel",
+    "Bernie Mac",
+    "Carl Reiner",
+    "Casey Affleck",
+    "Scott Caan",
+    "Elliott Gould",
+    "Qin Shaobo"
+  ],
+  "storyline": "Daniel Ocean recruits one more team member so he can pull off three major European heists in this sequel to Ocean's 11."
+}
