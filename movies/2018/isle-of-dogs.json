@@ -1,0 +1,35 @@
+{
+  "name": "Isle of Dogs",
+  "year": 2018,
+  "runtime": 101,
+  "categories": [
+    "animation", 
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2018-2-15",
+  "director": "Wes Anderson",
+  "writer": "Wes Anderson",
+  "actors": [
+    "Bryan Cranston",
+    "Edward Norton",
+    "Bill Murray",
+    "Jeff Goldblum",
+    "Bob Balaban",
+    "Kunichi Nomura",
+    "Ken Watanabe",
+    "Greta Gerwig",
+    "Frances McDormand",
+    "Fisher Stevens",
+    "Nijiro Murakami",
+    "Harvey Keitel",
+    "Koyu Rankin",
+    "Liev Schreiber",
+    "Scarlett Johansson",
+    "Tilda Swinton",
+    "Akira Ito",
+    "Akira Takayama",
+    "F. Murray Abraham"
+  ],
+  "storyline": "ISle of Dogs tells the story of Atari Kobayashi, 12-year-old ward to corrupt Mayor Kobayashi. When, by Executive Decree, all the canine pets of Megasaki City are exiled to a vast garbage-dump called Trash Island, Atari sets off alone in a miniature Junior-Turbo Prop and flies across the river in search of his bodyguard-dog, Spots. There, with the assistance of a pack of newly-found mongrel friends, he begins an epic journey that will decide the fate and future of the entire Prefecture."
+}
