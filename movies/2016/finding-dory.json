@@ -1,0 +1,37 @@
+{
+  "name": "Finding Dory",
+  "year": 2016,
+  "runtime": 97,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy",
+    "Family"
+  ],
+  "release-date": "2016-05-17", 
+  "director": [
+    "Andrew Stanton", 
+    "Angus MacLane"
+  ],
+  "writer": [
+    "Victoria Strouse",
+    "Andrew Stanton",
+    "Bob Peterson",
+    "Angus MacLane"
+  ],
+  "actors": [
+    "Ellen DeGeneres",
+    "Albert Brooks",
+    "Ed O'Neill",
+    "Kaitlin Olson",
+    "Hayden Rolence",
+    "Ty Burrell",
+    "Diane Keaton",
+    "Eugene Levy",
+    "Sloane Murray",
+    "Idris Elba",
+    "Dominic West",
+    "Bob Peterson"
+  ],
+  "storyline": "The friendly but forgetful blue tang fish, Dory, begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way."
+}
