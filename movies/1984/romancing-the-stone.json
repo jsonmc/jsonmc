@@ -1,0 +1,24 @@
+{
+  "name": "Romancing the Stone",
+  "year": 1984,
+  "runtime": 106,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "description": "In this film, adventure writer Kathleen Turner learns that her sister is being held prisoner by evil art dealers in Colombia. It seems that sis has mailed Turner a map leading to a valuable treasure. In her search for the treasure, Turner teams up with soldier of fortune Michael Douglas.",
+  "release-date": "1984-03-30",
+  "director": "Robert Zemeckis",
+  "writer": [
+    "Diane Thomas"
+  ],
+  "actors": [
+    "Michael Douglas",
+    "Kathleen Turner",
+    "Danny DeVito",
+    "Paul Winfield",
+    "Alfonso Arau",
+    "Manuel Ojeda",
+    "Mary Ellen Trainor"
+  ]
+}
