@@ -1,0 +1,23 @@
+{
+  "name": "Nocturnal Animals",
+  "year": 2016,
+  "runtime": 116,
+  "categories": [
+    "romance",
+    "drama",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2016-12-09",
+  "director": "Tom Ford",
+  "writer": [
+    "Tom Ford",
+    "Austin Wright"
+  ],
+  "actors": [
+    "Amy Adams", 
+    "Jake Gyllenhaal", 
+    "Michael Shannon" 
+  ],
+  "storyline": "A wealthy art gallery owner receives a draft of her ex-husband's new novel, a violent thriller she interprets as a veiled threat and a symbolic revenge tale."
+  }
