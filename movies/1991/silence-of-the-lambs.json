@@ -1,0 +1,21 @@
+{
+  "name": "Silence of the lambs",
+  "year": 1991,
+  "runtime": 118,
+  "categories": [
+    "crime",
+    "drama",
+    "thriller"
+  ],
+  "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+  "release-date": "1991-02-14",
+  "director": "Jonathan Demme",
+  "writer": [
+    "Thomas Harris", "Ted Tally"
+  ],
+  "actors": [
+    "Anthony Hopkins",
+    "Jodie Foster"
+  ],
+  "storyline": "FBI trainee Clarice Starling works hard to advance her career, while trying to hide/put behind her West Virginia roots, of which if some knew, would automatically classify her as being backward or white trash. After graduation, she aspires to work in the agency's Behavioral Science Unit under the leadership of Jack Crawford."
+}
