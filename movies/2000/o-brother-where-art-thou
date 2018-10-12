@@ -1,0 +1,22 @@
+{
+  "name": "O Brother, Where Art Thou?",
+  "year": 2000,
+  "runtime": 107,
+  "categories": [
+    "crime",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2000-10-19",
+  "director": "Joel Coen",
+  "writer": [
+    "Ethan Coen",
+    "Joel Coen"
+  ],
+  "actors": [
+    "George Clooney",
+    "John Turturro",
+    "Tim Blake Nelson"
+  ],
+  "storyline": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.."
+}
