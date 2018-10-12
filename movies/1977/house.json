@@ -1,0 +1,23 @@
+{
+    "name": "House",
+    "year": 1977,
+    "runtime": 88,
+    "categories": [
+      "comedy",
+      "horror",
+      "fantasy"
+    ],
+    "release-date": "1977-07-30",
+    "director": "Nobuhiko Obayashi",
+    "writer": [
+      "Chiho Katsura",
+      "Chigumi Obayashi"
+    ],
+    "actors": [
+      "Kimiko Ikegami",
+      "Miki Jinbo",
+      "Ai Matsubara",
+      "Kumiko Oba"
+    ],
+    "storyline": "A schoolgirl and six of her classmates travel to her aunt's country home, which tries to devour the girls in bizarre ways."
+  }
