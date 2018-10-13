@@ -1,0 +1,20 @@
+{
+  "name": "Sing Street",
+  "year": 2016,
+  "runtime": 106,
+  "categories": [
+    "romance",
+    "musical"
+  ],
+  "release-date": "2016-01-24",
+  "director": "John Carney",
+  "writer": [
+    "Simon Carmody",
+	"John Carney"
+  ],
+  "actors": [
+    "Ferdia Walsh-Peelo",
+    "Lucy Boynton"
+  ],
+  "storyline": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes."
+}
