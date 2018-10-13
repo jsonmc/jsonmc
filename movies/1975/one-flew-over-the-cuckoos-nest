@@ -1,0 +1,20 @@
+{
+  "name": "One Flew Over the Cuckoo's Nest",
+  "year": 1975,
+  "runtime": 133,
+  "categories": [
+    "drama"
+  ],
+  "release-date": "1975-11-19",
+  "director": "Milos Forman",
+  "writer": [
+    "Lawrence Hauben",
+    "Bo Goldman"
+  ],
+  "actors": [
+    "Jack Nicholson",
+    "Louise Fletcher",
+    "Will Sampson"
+  ],
+  "storyline": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients."
+}
