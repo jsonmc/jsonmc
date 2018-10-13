@@ -1,0 +1,45 @@
+{
+  "name": "Young Frankenstein",
+  "year": 1974,
+  "runtime": 106,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "1974-12-15",
+  "director": "Mel Brooks",
+  "writer": [
+    "Gene Wilder",
+    "Mel Brooks",
+    "Mary Shelley"
+  ],
+  "actors": [
+    "Gene Wilder",
+    "Peter Boyle",
+    "Marty Feldman",
+    "Madeline Kahn",
+    "Cloris Leachman",
+    "Teri Garr",
+    "Kenneth Mars",
+    "Richard Haydn",
+    "Liam Dunn",
+    "Danny Goldman",
+    "Oscar Beregi Jr.",
+    "Arthur Malet",
+    "Richard Roth",
+    "Monte Landis",
+    "Rusty Blitz",
+    "Anne Beesley",
+    "Gene Hackman",
+    "John Madison",
+    "John Dennis",
+    "Rick Norman",
+    "Rolfe Sedan",
+    "Terence Pushman",
+    "Randolph Dobbs",
+    "Norbert Schiller",
+    "Pat O'Hara",
+    "Michael Fox",
+    "Lidia Kristen"
+  ],
+  "storyline": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body."
+}
