@@ -1,0 +1,33 @@
+{
+    "name": "The Maze Runner",
+    "year": 2014,
+    "runtime": 113,
+    "categories": [
+      "adventure",
+      "sci-fi"
+    ],
+    "release-date": "2014-09-19",
+    "director": "Wes Ball",
+    "writer": [
+      "James Dashner"
+    ],
+    "actors": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Aml Ameen",
+      "Thomas Brodie-Sangster",
+      "Ki Hong Lee",
+      "Will Poulter",
+      "Patricia Clarkson",
+      "Blake Cooper",
+      "Dexter Darden",
+      "Jacob Latimore",
+      "Chris Sheffield",
+      "Joe Adler",
+      "Don McManus",
+      "Randall D. Cunningham",
+      "Alexander Flores"
+    ],
+    "storyline": "Thomas wakes up in a strange elevator, with memories lost and no idea what is going to happen. He is accepted into a glade full of other teenage boys who call themselves 'Gladers.' After learning about the Maze that surrounds them all, Thomas becomes obsessed with finding a way out, which could mean certain death."
+  }
+  
