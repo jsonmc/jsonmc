@@ -1,0 +1,20 @@
+{
+  "name": "Life of Pi",
+  "year": 2012,
+  "runtime": 120,
+  "categories": [
+    "drama",
+    "3D",
+    "Fantasy"
+  ],
+  "release-date": "2012-11-12",
+  "director": " Ang Lee",
+  "writer": "Yann Martel",
+  "actors": [
+    "Gautam Belur",
+    "Ayush Tandon",
+    "Rafe Spall",
+    "Tabu Hashmi"
+  ],
+  "storyline": "A fantasy trip of Pi with a lion."
+}
