@@ -1,0 +1,27 @@
+{
+	"name": "Avengers: Age of Ultron",
+	"year": "2015",
+	"runtime": "141",
+	"categories": [
+		"adventure",
+		"action",
+		"sci-fi"
+	],
+	"release-date": "2015-04-23",
+	"director": "Joss Whedon",
+	"writer": [
+		"Joss Whedon",
+		"Stan Lee",
+		"Jack Kirby",
+		"Joe Simon",
+		"Jim Starlin",
+		"Roy Thomas",
+		"John Buscema"
+	],
+	"actors": [
+		"Robert Downey Jr.",
+		"Chris Evans",
+		"Mark Ruffalo"
+	],
+	"storyline": "When Tony Stark jumpstarts a dormant peacekeeping program, things go awry and Earth's Mightiest Heroes, including Iron Man, Captain America, Thor, The Incredible Hulk, Black Widow and Hawkeye, are put to the ultimate test as they battle to save the planet from destruction at the hands of the villainous Ultron."	
+}
