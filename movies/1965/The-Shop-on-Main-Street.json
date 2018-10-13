@@ -1,0 +1,26 @@
+{
+  "name": "The Shop on Main Street",
+  "year": 1965,
+  "runtime": 125,
+  "categories": [
+    "drama"
+  ],
+  "release-date": "1965-10-08",
+  "director": [
+    "Ján Kadár",
+    "Elmar Klos"
+  ],
+  "writer": [
+    "Ladislav Grosman",
+    "Ján Kadár",
+    "Elmar Klos"
+  ],
+  "actors": [
+    "Ida Kamińska",
+    "Jozef Kroner",
+    "Hana Slivková",
+    "František Zvarík",
+    "Martin Gregor"
+  ],
+  "storyline": "A carpenter in the Nazi-occupied Slovak State is appointed Aryan controller of a Jewish widow's store"
+}
