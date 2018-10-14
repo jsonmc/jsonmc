@@ -1,0 +1,26 @@
+{
+  "name": "The Martian",
+  "year": 2015,
+  "runtime": 142,
+  "categories": [
+    "science fiction",
+    "space",
+    "thriller"
+  ],
+  "release-date": "2015-09-30",
+  "director": "Ridley Scott",
+  "writer": [
+    "Andy Weir",
+    "Drew Goddard"
+  ],
+  "actors": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Sean Bean",
+    "Donald Glover",
+    "Chiwetel Ejiofor",
+    "Jeff Daniels",
+    "Benedict Wong"
+  ],
+  "storyline": "When astronauts blast off from the planet Mars, they leave behind Mark Watney (Matt Damon), presumed dead after a fierce storm. With only a meager amount of supplies, the stranded visitor must utilize his wits and spirit to find a way to survive on the hostile planet. Meanwhile, back on Earth, members of NASA and a team of international scientists work tirelessly to bring him home, while his crew mates hatch their own plan for a daring rescue mission."
+}
