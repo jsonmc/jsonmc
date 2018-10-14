@@ -1,0 +1,43 @@
+{
+  "name": "The Sound of Music",
+  "year": 1965,
+  "runtime": 172,
+  "categories": [
+    "biography",
+    "drama",
+    "family"
+  ],
+  "release-date": "1965-03-02",
+  "director": "Robert Wise",
+  "writer": [
+    "George Hurdalek",
+    "Howard Lindsay",
+    "Russel Crouse",
+    "Ernest Lehman",
+    "Maria von Trapp"
+  ],
+  "actors": [
+    "Julie Andrews",
+    "Christopher Plummer",
+    "Eleanor Parker",
+    "Richard Haydn",
+    "Peggy Wood",
+    "Charmian Carr",
+    "Heather Menzies-Urich",
+    "Nicholas Hammond",
+    "Duane Chase",
+    "Angela Cartwright",
+    "Debbie Turner",
+    "Kym Karath",
+    "Anna Lee",
+    "Portia Nelson",
+    "Ben Wright",
+    "Daniel Truhitte",
+    "Norma Varden",
+    "Gilchrist Stuart",
+    "Marni Nixon",
+    "Evadne Baker",
+    "Doris Lloyd"
+  ],
+  "storyline": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower."
+}
