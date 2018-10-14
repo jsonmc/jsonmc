@@ -1,0 +1,27 @@
+{
+  "name": "The Iron Giant",
+  "year": 1999,
+  "runtime": 87,
+  "categories": [
+    "animation",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1999-08-06",
+  "director": "Brad Bird",
+  "writer": [
+    "Brad Bird",
+    "Tim McCanlies"
+  ],
+  "actors": [
+    "Eli Marienthal",
+    "Jennifer Aniston",
+    "Vin Diesel",
+    "Harry Connick, Jr.",
+    "Christopher McDonald",
+    "John Mahoney",
+    "James Gammon",
+    "M. Emmet Walsh"
+  ],
+  "storyline": "Something humongous is among us! A young boy rescues a huge robot which has rocketed to earth from space and tries to protect the genial giant from a nosey government agent and military."
+}
