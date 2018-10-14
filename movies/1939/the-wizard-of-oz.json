@@ -1,0 +1,38 @@
+{
+  "name": "The Wizard of Oz",
+  "year": 1939,
+  "runtime": 102,
+  "categories": [
+    "adventure",
+    "family",        
+    "Fantasy"
+  ],
+  "release-date": "1939-08-11",
+  "director": [
+    "Victor Fleming",
+    "George Cukor",
+    "Mervyn LeRoy",
+    "Norman Taurog",
+    "King Vidor"
+  ],
+  "writer": [
+    "Noel Langley",
+    "Florence Ryerson",
+    "Edgar Allan Woolf"
+  ],
+  "actors": [
+    "Judy Garland",
+    "Frank Morgan",
+    "Ray Bolger",
+    "Bert Lahr",
+    "Jack Haley",
+    "Billie Burke",
+    "Margaret Hamilton",
+    "Charley Grapewin",
+    "Pat Walshe",
+    "Clara Blandick",
+    "Terry",
+    "The Singer Midgets"
+  ],
+  "storyline": "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well."
+}
