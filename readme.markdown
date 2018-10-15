@@ -37,7 +37,8 @@ Storyline | Brief description of the movie
   "categories": [
     "adventure",
     "thriller",
-    "sci-fi"
+    "sci-fi",
+    "not-kid"
   ],
   "release-date": "1993-06-11",
   "director": "Steven Spielberg",
