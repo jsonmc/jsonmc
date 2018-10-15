@@ -1,0 +1,23 @@
+{
+    "name": "The Raid",
+    "year": 2011,
+    "runtime": 101,
+    "categories": [
+      "action",
+      "thriller"
+    ],
+    "release-date": "2011-03-23",
+    "director": "Gareth Evans",
+    "writer": "Gareth Evans",
+    "actors": [
+      "Iko Uwais",
+      "Donny Alamsyah",
+      "Ananda George",
+      "Ray Sahetapy",
+      "Joe Taslim",
+      "Yahan Ruhian",
+      "Tegar Sathya",
+      "Pierre Gruno"
+    ],
+    "storyline": "A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs."
+  }
