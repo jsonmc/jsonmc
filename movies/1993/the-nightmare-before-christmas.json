@@ -1,0 +1,24 @@
+{
+  "name": "The Nightmare Before Christmas",
+  "year": 1993,
+  "runtime": 76,
+  "categories": [
+    "animation", 
+    "family", 
+    "fantasy",
+  ],
+  "release-date": "1993-10-29",
+  "director": "Henry Selick",
+  "writer": [
+    "Tim Burton",
+    "Michael McDowell",
+    "Caroline Thompson"
+  ],
+  "actors": [
+    "Danny Elfman",
+    "Chris Sarandon",
+    "Catherine O'Hara",
+    "William Hickey"
+  ],
+  "storyline": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion."
+}
