@@ -1,0 +1,23 @@
+{
+  "name": "Eyes Wide Shut",
+  "year": 1999,
+  "runtime": 165,
+  "categories": [
+    "drama",
+    "mystery"
+  ],
+  "release-date": "1999-07-16",
+  "director": "Stanley Kubrick",
+  "writer": [
+    "Stanley Kubrick",
+    "Frederic Raphael"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Nicole Kidman",
+    "Sydney Pollack",
+    "Todd Field",
+    "Marie Richardson"
+  ],
+  "storyline": "A New York City doctor, who is married to an art curator, pushes himself on a harrowing and dangerous night-long odyssey of sexual and moral discovery after his wife admits that she once almost cheated on him."
+}
