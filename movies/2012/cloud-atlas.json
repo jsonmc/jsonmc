@@ -1,0 +1,39 @@
+{
+    "name": "Cloud Atlas",
+    "year": 2012,
+    "runtime": 172,
+    "categories": [
+      "action",
+      "drama",
+      "mystery"
+    ],
+    "release-date": "1993-06-26",
+    "director": [
+        "Tom Tykwer",
+        "Lana Wachowski", 
+        "Lilly Wachowski"
+    ],
+    "writer": [
+        "David Mitchell",
+        "Lana Wachowski",
+        "Tom Tykwer", 
+        "Lilly Wachowski", 
+        "Chris Lindsay"
+    ],
+    "actors": [
+        "Tom Hanks",
+        "Halle Berry",
+        "Jim Broadbent",
+        "Hugo Weaving",
+        "Jim Sturgess",
+        "Doona Bae",
+        "Ben Whishaw",
+        "Keith David",
+        "James D'Arcy",
+        "Xun Zhou",
+        "David Gyasi",
+        "Susan Sarandon",
+        "Hugh Grant"
+    ],
+    "storyline": "An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution."
+  }
