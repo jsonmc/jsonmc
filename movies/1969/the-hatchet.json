@@ -1,0 +1,20 @@
+{
+  "name": "The Hatchet",
+  "year": 1969,
+  "runtime": 102,
+  "categories": [
+    "drama",
+    "crime"
+  ],
+  "release-date": "1969-10-27",
+  "director": "Lewis Gilbert",
+  "writer": [
+    "Mihail Sadoveanu"
+  ],
+  "actors": [
+    "Margarita Lozano",
+    "Folco Lulli",
+    "Sidonia Manolache"
+  ],
+  "storyline": "A peasant (Margarita Lozano) begins a desperate search for her husband when he fails to return home."
+}
