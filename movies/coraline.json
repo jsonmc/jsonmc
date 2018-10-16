@@ -1,0 +1,25 @@
+{
+  "name": "Coraline",
+  "year": 2009,
+  "runtime": 100,
+  "categories": [
+    "Animation",
+    "Drama",
+    "Fantasy",
+    "Thriller"
+  ],
+  "release-date": "2009-02-06",
+  "director": "Henry Selick",
+  "writer": [
+    "Henry Selick",
+    "Neil Gaiman"
+  ],
+  "actors": [
+    "Dakota Fanning",
+    "Teri Hatcher",
+    "Jennifer Saunders",
+    "Dawn French",
+    "Robert Bailey Jr.",
+  ],
+  "storyline": "An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets."
+}
