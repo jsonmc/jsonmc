@@ -1,0 +1,24 @@
+{
+  "name": "Inception",
+  "year": 2010,
+  "runtime": 148,
+  "categories": [
+    "Action",
+    "sci-fi",
+    "Adventure"
+  ],
+  "release-date": "2010-07-13",
+  "director": "Christopher Nolan",
+  "writer": [
+    "Christopher Nolan",
+    ],
+  "actors": [
+    "	Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "	Ellen Page",
+	"Tom Hardy",
+	"	Ken Watanabe"
+	"Dileep Rao"
+  ],
+  "storyline": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO."
+}
