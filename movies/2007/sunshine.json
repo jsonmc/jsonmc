@@ -1,0 +1,21 @@
+{
+  "name": "Sunshine",
+  "year": 2007,
+  "runtime": 107,
+  "categories": [
+    "adventure",
+	"sci-fi",
+    "thriller"
+  ],
+  "release-date": "2007-07-27",
+  "director": "Danny Boyle",
+  "writer": [
+    "Alex Garland"
+  ],
+  "actors": [
+    "Cillian Murphy",
+    "Rose Byrne",
+    "Chris Evans"
+  ],
+  "storyline": "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057."
+}
