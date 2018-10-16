@@ -1,0 +1,22 @@
+{
+  "name":"Logan",
+  "year":2017,
+  "runtime":137,
+  "categories":[
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "release-date":"2017-05-16",
+  "director":"James Mangold",
+  "writer":[
+    "James Mangold",
+    "Scott Frank"
+  ],
+  "actors":[
+    "Hugh Jackman",
+    "Patrick Stewart",
+    "Dafne Keen"
+  ],
+  "storyline":"In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces."
+}
