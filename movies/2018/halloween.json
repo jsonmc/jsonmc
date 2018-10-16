@@ -1,0 +1,22 @@
+{
+  "name": "Halloween",
+  "year": 2018,
+  "runtime": 109,
+  "categories": [
+    "horror",
+    "thriller"
+  ],
+  "release-date": "2018-10-19",
+  "director": "David Gordon Green",
+  "writer": [
+    "David Gordon Green",
+    "Danny McBride",
+    "Jeff Fradley"
+  ],
+  "actors": [
+    "Jamie Lee Curtis",
+    "Judy Greer",
+    "Andi Matichak"
+  ],
+  "storyline": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Arrival",
+  "year": 2016,
+  "runtime": 116,
+  "categories": [
+    "mystery",
+    "sci-fi",
+    "drama"
+  ],
+  "release-date": "2016-11-11",
+  "director": "Denis Villeneuve",
+  "writer": [
+    "Ted Chiang",
+    "Eric Heisserer"
+  ],
+  "actors": [
+    "Amy Adams",
+    "Jeremy Renner",
+    "Forest Whitaker"
+  ],
+  "storyline": "A linguist is recruited by the military to communicate with alien lifeforms after twelve mysterious spacecrafts land around the world."
+}

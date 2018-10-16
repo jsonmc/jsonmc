@@ -1,0 +1,45 @@
+{
+  "name": "The Godfather",
+  "year": 1972,
+  "runtime": 177,
+  "categories": [
+    "action",
+    "crime",
+    "drama"
+  ],
+  "release-date": "1972-03-15",
+  "director": "Francis Ford Coppola",
+  "writer": [
+    "Mario Puzo",
+    "Francis Ford Coppola"
+  ],
+  "actors": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan",
+    "Robert Duvall",
+    "Diane Keaton",
+    "John Cazale",
+    "Talia Shire",
+    "Gianni Russo",
+    "Richard Castellano",
+    "Abe Vigoda",
+    "Al Lettieri",
+    "Sterling Hayden",
+    "Lenny Montana",
+    "Richard Conte",
+    "Al Martino",
+    "John Marley",
+    "Alex Rocco",
+    "Morgana King",
+    "Corrado Gaipa",
+    "Franco Citti",
+    "Angelo Infanti",
+    "Johnny Martino",
+    "Victor Rendina",
+    "Tony Giorgio",
+    "Simonetta Stefanelli",
+    "Richard Bright"
+  ],
+  "storyline": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Whatever Happened To Baby Jane?",
+  "year": 1962,
+  "runtime": 134,
+  "categories": [
+    "drama",
+    "horror",
+    "thriller"
+  ],
+  "release-date": "1962-10-31",
+  "director": "Robert Aldrich",
+  "writer": [
+    "Henry Farrell",
+    "Lukas Heller"
+  ],
+  "actors": [
+    "Bette Davis",
+    "Joan Crawford",
+    "Victor Buono",
+    "Maidie Norman"
+  ],
+  "storyline": "A former child star torments her paraplegic sister in their decaying Hollywood mansion."
+}

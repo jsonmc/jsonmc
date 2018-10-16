@@ -1,26 +1,26 @@
 {
-    "name": "Fast Five",
-    "year": 2011,
-    "runtime":130,
-    "categories":[
-        "action",
-        "crime",
-        "thriller"
-    ],
-    "release-date":"2011-04-29",
-    "director":"Justin Lin",
-    "writer":[
-        "Chris Morgan"
-    ],
-    "actors":[
-        "Vin Diesel",
-        "Paul Walker",
-        "Tyrese Gibson",
-        "Jordana Brewster",
-        "Chris Bridges",
-        "Matt Schulze",
-        "Sung Kang",
-        "Dwayne Johnson"
-    ],
-    "storyline":"Dominic Toretto and his crew plan to steal $100 million from a corrupt businessman while they are pursued for arrest."
+  "name": "Fast Five",
+  "year": 2011,
+  "runtime": 130,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2011-04-29",
+  "director": "Justin Lin",
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Tyrese Gibson",
+    "Jordana Brewster",
+    "Chris Bridges",
+    "Matt Schulze",
+    "Sung Kang",
+    "Dwayne Johnson"
+  ],
+  "storyline": "Dominic Toretto and his crew plan to steal $100 million from a corrupt businessman while they are pursued for arrest."
 }
