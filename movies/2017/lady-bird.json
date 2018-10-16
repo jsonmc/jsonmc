@@ -1,0 +1,22 @@
+{
+  "name": "Lady Bird",
+  "year": 2017,
+  "runtime": 94,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "2017-11-01",
+  "director": "Greta Gerwig",
+  "writer": [
+    "Greta Gerwig"
+  ],
+  "actors": [
+    "Saoirse Ronan",
+    "Laurie Metcalf",
+    "Tracy Letts",
+	"Lucas Hedges",
+	"Timothée Chalamet"
+  ],
+  "storyline": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California."
+}
