@@ -1,0 +1,28 @@
+{
+  "name": "Children of Men",
+  "year": 2006,
+  "runtime": 109,
+  "categories": [
+    "Drama",
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "2006-11-16",
+  "director": "Alfonso Cuarón",
+  "writer": [
+    "Alfonso Cuarón",
+    "Timothy J. Sexton",
+	"David Arata",
+	"Mark Fergus",
+	"Hawk Ostby"
+  ],
+  "actors": [
+    "Clive Owen",
+    "Juan Gabriel Yacuzzi",
+    "Michael Caine",
+	"Julianne Moore",
+	"Chiwetel Ejiofor"
+	"Mishal Husain"
+  ],
+  "storyline": "In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea."
+}
