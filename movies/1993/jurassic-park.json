@@ -1,11 +1,12 @@
-{
+
   "name": "Jurassic Park",
   "year": 1993,
   "runtime": 127,
   "categories": [
     "adventure",
     "thriller",
-    "sci-fi"
+    "sci-fi",
+	"romantic"
   ],
   "release-date": "1993-06-11",
   "director": "Steven Spielberg",
@@ -16,7 +17,9 @@
   "actors": [
     "Sam Neill",
     "Laura Dern",
-    "Jeff Goldblum"
+    "Jeff Goldblum",
+	"Sharukh Khan"
+	
   ],
   "storyline": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
 }
