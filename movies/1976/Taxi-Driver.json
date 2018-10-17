@@ -1,0 +1,20 @@
+{
+  "name": "Taxi Driver",
+  "year": 1976,
+  "runtime": 114,
+  "categories": [
+    "drama",
+    "crime",
+  ],
+  "release-date": "1976-02-08",
+  "director": "Martin Scorsese",
+  "writer": [
+    "Paul Schrader"
+  ],
+  "actors": [
+    "Robert De Niro",
+    "Jodie Foster",
+    "Cybill Shepherd"
+  ],
+  "storyline": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute. "
+}
