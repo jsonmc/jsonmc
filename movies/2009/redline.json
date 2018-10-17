@@ -1,0 +1,28 @@
+{
+	"name": "Redline",
+	"year": 2009,
+	"runtime": 102,
+	"categories": [
+		"animation",
+		"action",
+		"romance",
+		"sci-fi"
+	],
+	"release-date": "2009-08-14",
+	"director": "Takeshi Koike",
+	"writer": [
+		"Katsuhito Ishii",
+		"Yoji Enokido",
+		"Yoshiki Sakurai"
+	],
+	"actors": [
+		"Takuya Kimura",
+		"Yû Aoi",
+		"Tadanobu Asano",
+		"Yoshiyuki Morishita",
+		"Kanji Tsuda",
+		"Ken'yû Horiuchi",
+		"Akemi"
+	]
+	"storyline": "A story about the most popular racing event in the galaxy, the Redline, and the various racers who compete in it."
+}
