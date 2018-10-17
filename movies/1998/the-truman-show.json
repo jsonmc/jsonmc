@@ -1,0 +1,20 @@
+{
+  "name": "The Truman Show",
+  "year": 1998,
+  "runtime": 103,
+  "categories": [
+    "comedy",
+    "sci-fi",
+    "drama"
+  ],
+  "release-date": "1998-06-01",
+  "director": "Peter Weir",
+  "writer":
+    "Andrew Niccol",
+  "actors": [
+    "Jim Carrey",
+    "Laura Linney",
+    "Noah Emmerich"
+  ],
+  "storyline": "An insurance salesman/adjuster discovers his entire life is actually a television show."
+}
