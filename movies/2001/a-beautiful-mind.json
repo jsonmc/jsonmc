@@ -1,0 +1,21 @@
+{
+  "name": "A Beautiful Mind",
+  "year": 2001,
+  "runtime": 135,
+  "categories": [
+    "biography",
+    "drama"
+  ],
+  "release-date": "2001-12-13",
+  "director": "Ron Howard",
+  "writer": [
+    "Akiva Goldsman",
+    "Sylvia Nasar"
+  ],
+  "actors": [
+    "Russell Crowe",
+    "Ed Harris",
+    "Jennifer Connelly"
+  ],
+  "storyline": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish."
+}
