@@ -1,0 +1,20 @@
+{
+  "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+  "year": 2017,
+  "runtime": 153,
+  "categories": [
+    "fantasy",
+    "action"
+  ],
+  "release-date": "2017-05-11",
+  "director": "Espen Sandberg",
+  "writer": [
+    "Ted Elliott"
+  ],
+  "actors": [
+    "Johnny Depp",
+    "kaya Scodelario",
+    "Javier Bardem"
+  ],
+  "storyline": "Captain Jack Sparrow searches for the trident of Poseidon while being pursued by an undead sea captain and his crew."
+}
