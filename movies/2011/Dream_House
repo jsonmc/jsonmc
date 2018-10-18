@@ -1,0 +1,23 @@
+{
+  "name": "Dream House",
+  "year": 2011,
+  "runtime": 84,
+  "categories": [
+    "drama",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2011-09-30",
+  "director": "Jim Sheridan",
+  "writer": [
+    "David Loucka"
+  ],
+  "actors": [
+    "Daniel Craig",
+    "Naomi Watts",
+    "Rachel Weisz",
+    "Elias Koteas",
+    "Marton Csokas"
+  ],
+  "storyline": "A mother and daughter, still wounded from a bitter custody dispute, hole up in a run-down apartment building. Adding further drama to their plight, they are targeted by the ghost of former resident."
+}
