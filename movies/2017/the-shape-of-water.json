@@ -1,0 +1,22 @@
+{
+  "name": "The Shape of Water",
+  "year": 2017,
+  "runtime": 123,
+  "categories": [
+    "adventure",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "2017-12-22",
+  "director": "Guillermo del Toro",
+  "writer": [
+    "Guillermo del Toro",
+    "Vanessa Taylor"
+  ],
+  "actors": [
+    "Sally Hawkins",
+    "Octavia Spencer",
+    "Michael Shannon"
+  ],
+  "storyline": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity."
+}
