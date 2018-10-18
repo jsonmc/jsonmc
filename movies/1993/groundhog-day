@@ -1,0 +1,22 @@
+{
+  "name": "Groundhog Day",
+  "year": 1993,
+  "runtime": 101,
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance"
+  ],
+  "release-date": "1993-02-12",
+  "director": "Harold Ramis",
+  "writer": [
+    "Danny Rubin",
+    "Harold Ramis"
+  ],
+  "actors": [
+    "Bill Murray",
+    "Andie MacDowell",
+    "Chris Elliott"
+  ],
+  "storyline": "A weather man is reluctantly sent to cover a story about a weather forecasting "rat" (as he calls it). This is his fourth year on the story, and he makes no effort to hide his frustration. On awaking the 'following' day he discovers that it's Groundhog Day again, and again, and again. First he uses this to his advantage, then comes the realisation that he is doomed to spend the rest of eternity in the same place, seeing the same people do the same thing EVERY day."
+}
