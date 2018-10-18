@@ -1,0 +1,22 @@
+{
+  "name": "martian",
+  "year": 2015,
+  "runtime": 151,
+  "categories": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "release-date": "2015-10-02",
+  "director": "Ridley Scott",
+  "writer": [
+    "Drew Goddard",
+    "Andy Weir"
+  ],
+  "actors": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Kristen Wiig"
+  ],
+  "storyline": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive."
+}
