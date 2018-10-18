@@ -1,0 +1,21 @@
+{
+  "name": "The Hitchhiker's Guide to the Galaxy",
+  "year": 2005,
+  "runtime": 109,
+  "categories": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "release-date": "2005-04-20",
+  "director": "Garth Jennings",
+  "writer": [
+    "Douglas Adams"
+  ],
+  "actors": [
+    "Martin Freeman",
+    "Yasiin Bey",
+    "Sam Rockwell"
+  ],
+  "storyline": "Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of 'The Hitchhiker's Guide to the Galaxy.'"
+}
