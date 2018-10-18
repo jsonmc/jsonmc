@@ -1,0 +1,25 @@
+{
+  "name": "The Departed",
+  "year": 2006,
+  "runtime": 151,
+  "categories": [
+    "crime",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2006-09-26",
+  "director": "Martin Scorsese",
+  "writer": [
+    "William Monahan",
+    "Alan Mak",
+	"Felix Chong"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Matt Damon",
+    "Jack Nicholson",
+	"Mark Wahlberg",
+	"Martin Sheen"
+  ],
+  "storyline": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+}
