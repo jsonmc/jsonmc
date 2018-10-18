@@ -1,0 +1,22 @@
+{
+  "name": "Jules and Jim",
+  "year": 1962,
+  "runtime": 105,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "1962-01-23",
+  "director": "François Truffaut",
+  "writer": [
+    "Henri-Pierre Roché",
+    "François Truffaut",
+    "Jean Gruault"
+  ],
+  "actors": [
+    "Jeanne Moreau",
+    "Oskar Werner",
+    "Henri Serre 	Henri Serre"
+  ],
+  "storyline": "Decades of a love triangle concerning two friends and an impulsive woman."
+}
