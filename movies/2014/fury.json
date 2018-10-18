@@ -1,0 +1,21 @@
+{
+  "name": "Fury",
+  "year": 2014,
+  "runtime": 134,
+  "categories": [
+    "action",
+    "drama",
+    "war"
+  ],
+  "release-date": "2014-10-17",
+  "director": "David Ayer",
+  "writer": [
+    "David Ayer"
+  ],
+  "actors": [
+    "Brad Pitt",
+    "Shia LaBeouf",
+    "Logan Lerman"
+  ],
+  "storyline": "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945."
+}
