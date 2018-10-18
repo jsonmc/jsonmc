@@ -1,0 +1,22 @@
+{
+  "name": "Pineapple Express",
+  "year": 2008,
+  "runtime": 112,
+  "categories": [
+    "action",
+    "comedy",
+    "crime"
+  ],
+  "release-date": "2008-08-06",
+  "director": "	David Gordon Green",
+  "writer": [
+    "Judd Apatow",
+    "Seth Rogen",
+    "Evan Goldberg"
+  ],
+  "actors": [
+    "Seth Rogen",
+    "James Franco"
+  ],
+  "storyline": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him."
+}
