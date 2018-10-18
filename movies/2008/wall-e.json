@@ -1,0 +1,35 @@
+{
+  "name": "WALL·E",
+  "year": 2008,
+  "runtime": 98,
+  "categories": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Sci-Fi"
+  ],
+  "release-date": "2008-05-21",
+  "director": "Andrew Stanton",
+  "writer": [
+    "Andrew Stanton",
+    "Pete Docter"
+  ],
+  "actors": [
+    "Ben Burtt",
+    "Elissa Knight",
+    "Jeff Garlin",
+    "Fred Willard",
+    "MacInTalk",
+    "John Ratzenberger",
+    "Kathy Najimy",
+    "Sigourney Weaver",
+    "Teddy Newton",
+    "Bob Bergen",
+    "John Cygan",
+    "Pete Docter",
+    "Paul Eiding",
+    "Donald Fullilove",
+    "Teresa Ganzel"
+  ],
+  "storyline": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+}
