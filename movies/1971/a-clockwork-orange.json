@@ -1,0 +1,34 @@
+{
+  "name": "A Clockwork Orange",
+  "year": 1971,
+  "runtime": 136,
+  "categories": [
+    "Crime",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "release-date": "1971-12-19",
+  "director": "Stanley Kubrick",
+  "writer": [
+    "Stanley Kubrick",
+    "Anthony Burgess"
+  ],
+  "actors": [
+    "Malcolm McDowell",
+    "Patrick Magee",
+    "Michael Bates",
+    "Warren Clarke",
+    "John Clive",
+    "Adrienne Corri",
+    "Carl Duering",
+    "Paul Farrell",
+    "Clive Francis",
+    "Michael Gover",
+    "Miriam Karlin",
+    "James Marcus",
+    "Aubrey Morris",
+    "Godfrey Quigley",
+    "Sheila Raynor"
+  ],
+  "storyline": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned."
+}
