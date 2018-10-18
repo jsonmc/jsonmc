@@ -1,0 +1,33 @@
+{
+    "name": "Le fabuleux destin d'Amélie Poulain",
+    "year": 2001,
+    "runtime":  122,
+    "categories": [
+      "Comedy",
+      "Romance"
+    ],
+    "release-date": "2001-04-25",
+    "director": "Jean-Pierre Jeunet",
+    "writer": [
+      "Guillaume Laurant",
+      "Jean-Pierre Jeunet"
+    ],
+    "actors": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus",
+      "Lorella Cravotta",
+      "Serge Merlin",
+      "Jamel Debbouze",
+      "Clotilde Mollet",
+      "Claire Maurier",
+      "Isabelle Nanty",
+      "Dominique Pinon",
+      "Artus de Penguern",
+      "Yolande Moreau",
+      "Urbain Cancelier",
+      "Maurice Bénichou",
+      "Michel Robin"
+    ],
+    "storyline": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love."
+  }
