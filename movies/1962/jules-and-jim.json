@@ -1,0 +1,22 @@
+{
+  "name": "Jules and Jim",
+  "year": 1962,
+  "runtime": 105,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "1962-01-23",
+  "director": "François Truffaut",
+  "writer": [
+    "Henri-Pierre Roché",
+    "François Truffaut",
+    "Jean Gruault"
+  ],
+  "actors": [
+    "Jeanne Moreau",
+    "Oskar Werner",
+    "Henri Serre"
+  ],
+  "storyline": "In pre-WWI Paris, two friends, Jules (Austrian) and Jim (French), fall in love with the same woman, Catherine. But Catherine loves and marries Jules. When they meet again in Germany after the war, Catherine starts to love Jim - This is the story of three people in love, a love that doesn't affect their friendship, and about how their relationship evolves with the years."
+}
