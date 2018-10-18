@@ -1,0 +1,18 @@
+{
+  "name": "Repo Man",
+  "year": 1984,
+  "runtime": 92,
+  "categories": [
+    "sci-fi",
+    "comedy"
+  ],
+  "release-date": "1984-03-02",
+  "director": "Alex Cox",
+  "writer": [
+    "Alex Cox"
+  ],
+  "actors": [
+    "Emilio Estevez",
+    "Harry Dean Stanton"
+  ]
+}
