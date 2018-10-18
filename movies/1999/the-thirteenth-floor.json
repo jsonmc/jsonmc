@@ -1,0 +1,34 @@
+{
+  "name": "The Thirteenth Floor",
+  "year": 1999,
+  "runtime": 100,
+  "categories": [
+    "mystery",
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "1999-05-28",
+  "director": "Josef Rusnak",
+  "writer": [
+    "Daniel F. Galouye",
+    "Josef Rusnak"
+  ],
+  "actors": [
+    "Craig Bierko",
+    "Armin Mueller-Stahl",
+    "Gretchen Mol",
+    "Vincent D'Onofrio",
+    "Dennis Haysbert",
+    "Steven Schub",
+    "Jeremy Roberts",
+    "Rif Hutton",
+    "Leon Rippy",
+    "Janet MacLachlan",
+    "Brad William Henke",
+    "Burt Bulos",
+    "Venessia Valentino",
+    "Howard S. Miller",
+    "Tia Texada"
+  ],
+  "storyline": "A computer scientist running a virtual reality simulation of 1937 becomes the primary suspect when his colleague and mentor is murdered."
+}
