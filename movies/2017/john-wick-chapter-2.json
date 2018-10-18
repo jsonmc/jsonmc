@@ -1,0 +1,21 @@
+{
+  "name": "John Wick: Chapter 2",
+  "year": 2017,
+  "runtime": 122,
+  "categories": [
+    "Action",
+    "Chrime",
+    "Thriller"
+  ],
+  "release-date": "2017-02-16",
+  "director": "Chad Stahelski",
+  "writer": [
+    "Derek Kolstad"
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Riccardo Scamarcio",
+    "Ian McShane"
+  ],
+  "storyline": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life."
+}
