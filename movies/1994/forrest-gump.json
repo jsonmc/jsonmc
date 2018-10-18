@@ -1,0 +1,22 @@
+{
+  "name": "Forrest Gump",
+  "year": 1994,
+  "runtime": 142,
+  "categories": [
+    "comedy",
+    "family"
+  ],
+  "release-date": "1994-06-23",
+  "director": "Robert Zemeckis",
+  "writer": [
+    "Eric Roth"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise",
+    "Mykelti Williamson",
+    "Sally Field"
+  ],
+  "storyline": "In 1981, Forrest Gump recounts his life story to strangers who sit next to him on a bench at a bus stop in Savannah, Georgia."
+}
