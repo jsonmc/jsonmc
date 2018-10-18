@@ -1,0 +1,23 @@
+{
+  "name": "Game Night",
+  "year": 2018,
+  "runtime": 100,
+  "categories": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "release-date": "2018-02-15",
+  "director": [
+    "John Francis Daley",
+    "Jonathan Goldstein"
+  ],
+  "writer": "Mark Perez",
+  "actors": [
+    "Jason Bateman",
+    "Rachel McAdams",
+    "Kyle Chandler"
+  ],
+  "storyline": "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters."
+}
