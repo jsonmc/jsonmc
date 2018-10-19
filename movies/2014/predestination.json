@@ -1,0 +1,26 @@
+{
+  "name": "Predestination",
+  "year": 2014,
+  "runtime": 97,
+  "categories": [
+    "drama",
+    "mystery",
+    "sci-fi"
+  ],
+  "release-date": "2015-01-09",
+  "director": [
+    "Michael Spierig",
+	"Peter Spierig"
+  ],
+  "writer": [
+    "Michael Spierig",
+	"Peter Spierig",
+	"Robert A. Heinlein"
+  ],
+  "actors": [
+    "Ethan Hawke",
+    "Sarah Snook",
+    "Noah Taylor"
+  ],
+  "storyline": "For his final assignment, a top temporal agent must pursue the one criminal that has eluded him throughout time. The chase turns into a unique, surprising and mind-bending exploration of love, fate, identity and time travel taboos."
+}
