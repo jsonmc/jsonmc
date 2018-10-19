@@ -1,0 +1,22 @@
+{
+  "name": "Seven",
+  "year": 1995,
+  "runtime": 127,
+  "categories": [
+    "thriller",
+    "crime",
+    "mystery"
+  ],
+  "release-date": "1995-09-15",
+  "director": "David Fincher",
+  "writer": [
+    "Andrew Kevin Walker"
+  ],
+  "actors": [
+    "Brad Pitt",
+    "Morgan Freeman",
+    "Gwyneth Paltrow",
+    "John C. McGinley"
+  ],
+  "storyline": "A serial killer begins murdering people according to the seven deadly sins. Two detectives, one new to the city and the other about to retire, are tasked with apprehending the criminal"
+}
