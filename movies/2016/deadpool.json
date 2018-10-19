@@ -1,0 +1,28 @@
+{
+    "name": "Deadpool",
+    "year": 2016,
+    "runtime": 108,
+    "categories": [
+      "action",
+      "comedy",
+      "fantasy",
+      "superhero"
+    ],
+    "release-date": "2016-11-03",
+    "director": "Tim Miller",
+    "writer": [
+      "Rhett Reese",
+      "Paul Wernick"
+    ],
+    "actors": [
+        "Ryan Reynolds",
+        "Morena Baccarin",
+        "Stan Lee",
+        "Ed Skrein",
+        "T. J. Miller",
+        "Gina Carano",
+        "Leslie Uggams",
+        "Brianna Hildebrand"
+    ]
+  }
+  
