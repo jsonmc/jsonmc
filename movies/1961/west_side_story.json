@@ -1,0 +1,22 @@
+{
+  "name": "West Side Story",
+  "year": 1961,
+  "runtime": 153,
+  "categories": [
+    "crime",
+    "drama",
+    "musical"
+  ],
+  "release-date": "1993-06-11",
+  "director": "Jerome Robbins",
+  "writer": [
+    "Arthur Laurents",
+    "Ernest Lehman"
+  ],
+  "actors": [
+    "Richard Beymer",
+    "George Chakiris",
+    "Natalie Wood"
+  ],
+  "storyline": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy."
+}

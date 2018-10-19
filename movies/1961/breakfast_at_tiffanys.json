@@ -1,0 +1,22 @@
+{
+  "name": "Breakfast at Tiffany's",
+  "year": 1961,
+  "runtime": 115,
+  "categories": [
+    "adventure",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "1993-06-11",
+  "director": "Blake Edwards",
+  "writer": [
+    "Truman Capote",
+    "George Axelrod"
+  ],
+  "actors": [
+    "Audrey Hepburn",
+    "George Peppard",
+    "Patricia Neal"
+  ],
+  "storyline": "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way."
+}
