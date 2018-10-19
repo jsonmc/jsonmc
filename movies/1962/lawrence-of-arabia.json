@@ -1,0 +1,37 @@
+{
+  "name": "Lawrence of Arabia",
+  "year": 1962,
+  "runtime": 222,
+  "categories": [
+    "adventure",
+    "biography",
+    "drama"
+  ],
+  "release-date": "1962-12-10",
+  "director": "David Lean",
+  "writer": [
+    "Thomas Edward Lawrence",
+    "Robert Bolt",
+    "Michael Wilson"
+  ],
+  "actors": [
+    "Peter O'Toole",
+    "Alec Guinness",
+    "Anthony Quinn",
+    "Jack Hawkins",
+    "Omar Sharif",
+    "José Ferrer",
+    "Anthony Quayle",
+    "Claude Rains",
+    "Arthur Kennedy",
+    "Indra Sen Johar",
+    "Gamil Ratib",
+    "Michel Ray",
+    "John Dimech",
+    "Zia Mohyeddin",
+    "Howard Marion-Crawford",
+    "Jack Gwillim",
+    "Hugh Miller"
+  ],
+  "storyline": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks."
+}
