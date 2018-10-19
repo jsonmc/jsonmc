@@ -1,0 +1,22 @@
+{
+  "name": "My Sassy Girl",
+  "year": 2001,
+  "runtime": 123,
+  "categories": [
+    "comedy",
+    "drama",
+    "romance"
+  ],
+  "release-date": "2001-07-27",
+  "director": "Jae-young Kwak",
+  "writer": [
+    "Ho-sik Kim",
+    "Jae-young Kwak"
+  ],
+  "actors": [
+    "Tae-Hyun Cha",
+    "Ji-hyun Jun",
+    "In-mun Kim"
+  ],
+  "storyline": "A young man sees a drunk, cute woman standing too close to the tracks at a metro station in Seoul and pulls her back. She ends up getting him into trouble repeatedly after that, starting on the train."
+}
