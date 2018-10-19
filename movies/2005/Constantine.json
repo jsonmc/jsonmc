@@ -1,0 +1,23 @@
+{
+  "name": "Constantine",
+  "year": 2005,
+  "runtime": 121,
+  "categories": [
+    "adventure",
+    "action",
+    "horror",
+    "survival"
+  ],
+  "release-date": "2005-02-18",
+  "director": "Francies Lawrence",
+  "writer": [
+    "Kevin Brodbin",
+    "Frank Capello",
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Rachel Weisz",
+    "Tilda Swinton"
+  ],
+  "storyline": "A dude has seen some shit, turns out it is real. Dude is a goddamn demon killer. "
+}
