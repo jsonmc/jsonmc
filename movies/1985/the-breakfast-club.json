@@ -1,0 +1,33 @@
+{
+    "name": "The Breakfast Club",
+    "year": 1985,
+    "runtime": 97,
+    "categories": [
+        "drama",
+        "adventure"
+    ],
+    "release-date": "1985-02-18",
+    "director": [
+        "John Hughes"
+    ],
+    "writer": [
+        "John Hughes"
+    ],
+    "actors": [
+        "Emilio Estevez",
+        "Paul Gleason",
+        "Anthony Michael Hall",
+        "John Kapelos",
+        "Judd Nelson",
+        "Molly Ringwald",
+        "Ally Sheedy",
+        "Perry Crawford",
+        "Mary Christian",
+        "Ron Dean",
+        "Tim Gamble",
+        "Fran Gargano",
+        "Mercedes Hall",
+        "John Hughes"
+    ],
+    "storyline": "On a saturday, five stereotypical high school students are in detention. While waiting for the day to pass, they learn about each other and realize, that there's more behind each of them than meets the eye."
+}
