@@ -1,0 +1,28 @@
+{
+    "name": "The Sting",
+    "year": 1973,
+    "runtime": 129,
+    "categories": [
+      "comedy",
+      "drama",
+      "crime"
+    ],
+    "release-date": "1973-12-25",
+    "director": "George Roy Hill",
+    "writer": [
+      "David S. Ward"
+    ],
+    "actors": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw",
+      "Charles Durning",
+      "Ray Walston",
+      "Eileen Brennan",
+      "Harold Gould",
+      "John Heffernan",
+      "Dana Elcar",
+      "Jack Kehoe"
+    ],
+    "storyline": "Two grifters team up to pull off the ultimate con."
+  }
