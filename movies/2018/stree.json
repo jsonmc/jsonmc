@@ -1,0 +1,24 @@
+{
+  "name": "Stree",
+  "year": 2018,
+  "runtime": 129,
+  "categories": [
+    "horror",
+    "comedy"
+  ],
+  "release-date": "2018-08-31",
+  "director": "Amar kaushik",
+  "writer": [
+    "Raj Nidimoru",
+    "Krishna D.K.",
+    "Sumit Arora",
+    "Pawan Sony"
+  ],
+  "actors": [
+    "Rajkumar Rao",
+    "Shraddha Kapoor",
+    "Pankaj Tripathi",
+    "Aparshakti Khurana"
+  ],
+  "storyline": "A town is held in the grip of terror by tales of a mysterious woman who calls men by their name and then abducts them, leaving their clothes behind."
+}
