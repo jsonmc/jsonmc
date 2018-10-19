@@ -1,0 +1,25 @@
+{
+  "name": "Armed Response",
+  "year": 2013,
+  "runtime": 93,
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "release-date": "2013-04-25",
+  "director": [
+    "Adam Beamer",
+    "Evan Beamer"
+  ],
+  "writer": [
+    "Adam Beamer",
+    "Evan Beamer",
+    "Craig Hildebrand"
+  ],
+  "actors": [
+    "Ethan Embry",
+    "Michael Gladis",
+    "Clea DuVall "
+  ],
+  "storyline": "The owners of a failing security company start robbing houses to boost business."
+}
