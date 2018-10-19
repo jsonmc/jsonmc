@@ -1,0 +1,59 @@
+{
+  "name": "Shrek 2",
+  "year": 2004,
+  "runtime": 92,
+  "categories": [
+    "animation",
+    "adventure",
+    "romance",
+	"comedy",
+	"family",
+	"fantasy"
+  ],
+  "release-date": "2004-05-19",
+  "director": [
+	"Andrew Adamson",
+	"Conrad Vernon",
+	"Kelly Asbury"
+  ],
+  "writer": [
+    "William Steig",
+    "Andrew Adamson",
+	"Joe Stillman",
+	"J. David Stem",
+	"David N. Weiss",
+	"Cody Cameron",
+	"Walt Dohrn",
+	"Chris Miller",
+	"David P. Smith",
+	"Conrad Vernon"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz",
+    "Julie Andrews",
+    "Antonio Banderas",
+	"John Cleese",
+	"Rupert Everett",
+	"Jennifer Saunders",
+	"Aron Warner",
+	"Kelly Asbury",
+	"Cody Cameron",
+	"Conrad Vernon",
+	"Christopher Knights",
+	"David P. Smith",
+	"Mark Moseley",
+	"Kelly Cooney",
+	"Wendy Bilanski",
+	"Larry King",
+	"Guillaume Aretos",
+	"Chris Miller",
+	"Latifa Ouaou",
+	"Alina Phelan",
+	"Erika Thomas",
+	"Joan Rivers",
+	"Andrew Adamson"
+  ],
+  "storyline": "After returning from their honeymoon and showing home movies to their friends, Shrek and Fiona learn that her parents have heard that she has married her true love and wish to invite him to their kingdom, called Far Far Away. The catch is: Fiona's parents are unaware of the curse that struck their daughter and have assumed she married Prince Charming, not a 700-pound ogre with horrible hygiene and a talking donkey pal."
+}
