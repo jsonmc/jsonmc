@@ -1,0 +1,28 @@
+{
+  "name": "The Predator",
+  "year": 2018,
+  "runtime": 107,
+  "categories": [
+    "horror",
+    "science fiction",
+    "action",
+    "thriller"
+  ],
+  "release-date": "2018-09-14",
+  "director": "Shane Black",
+  "writer": [
+    "Fred Dekker",
+    "Shane Black"
+  ],
+  "actors": [
+    "Boyd Holbrook",
+    "Trevante Rhodes",
+    "Jacob Tremblay",
+    "Keegan-Michael Key",
+    "Olivia Munn",
+    "Alfie Allen",
+    "Thomas Jane",
+    "Yvonne Strahovski"
+  ],
+  "storyline": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe’s most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race."
+}
