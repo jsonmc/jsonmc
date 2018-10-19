@@ -1,0 +1,23 @@
+{
+  "name": "A Quite Place",
+  "year": 2018,
+  "runtime": 91,
+  "categories": [
+    "Drama",
+    "Thriller"
+  ],
+  "release-date": "2018-04-18",
+  "director": "John Krasinski",
+  "writer": [
+    "John Krasinski",
+    "Scott Beck",
+    "Bryan Woods"
+  ],
+  "actors": [
+    "John Krasinski",
+    "Emily Blunt",
+    "Cade Woodword",
+    "Leon Russom"
+  ],
+  "storyline": "A family must live in silence while hiding from extraterrestrial creatures that hunt by sound."
+}
