@@ -1,0 +1,24 @@
+{
+	"name":"The Commuter",
+	"year":"2018",
+	"runtime":105,
+	"categories":[
+		"action",
+		"thriller"
+	],
+	"release-date": "2018-01-08",
+	"director": "Jaume Collet-Serra",
+	"writer": [
+		"Byron Willinger",
+		"Philip de Blasi",	 
+		"Byron Willinger",
+		"Philip de Blasi",
+		"Ryan Engle"
+	],
+	"actors":[
+		 "Liam Neeson",
+		 "Vera Farmiga", 
+		 "Patrick Wilson"
+	],
+	"storyline":"An Insurance Salesman/Ex-Cop is caught up in a criminal conspiracy during his daily commute home."
+}
