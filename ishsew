@@ -1,0 +1,20 @@
+{
+  "name": "Titanic",
+  "year": 1997,
+  "runtime": 194,
+  "categories": [
+    "Love",
+    "Romance"
+  ],
+  "release-date": "1997-11-18",
+  "director": "James Cameron",
+  "writer": [
+    "James Cameron",
+   
+  ],
+  "actors": [
+    "Leonardo Decaprio",
+    "Kate Winslet",
+   
+  ],
+}
