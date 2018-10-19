@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/jsonmc/jsonmc.svg?branch=master)](https://travis-ci.org/jsonmc/jsonmc)
 
-A comprehensive collection of movies and actors easy to use and parse in json file format segregated by release year.
+A comprehensive collection of movies and actors that is easy to use and parses in json file format segregated by release year.
 
 ## Contributing
 
