@@ -1,0 +1,22 @@
+{
+  "name": "Annie",
+  "year": 2014,
+  "runtime": 118,
+  "categories": [
+      "musical"
+  ],
+  "release-date": "2014-12-19",
+  "director": "Will Gluck",
+  "writer": [
+    "Will Gluck",
+    "Aline Brosh McKenna"
+  ],
+  "actors": [
+    "Quvenzhané Wallis",
+    "Jamie Foxx",
+    "Rose Byrne",
+    "Bobby Cannavale",
+    "Cameron Diaz"
+  ],
+  "storyline": "A foster kid, who lives with her mean foster mom, sees her life change when business tycoon and New York City mayoral candidate Will Stacks makes a thinly-veiled campaign move and takes her in."
+}
