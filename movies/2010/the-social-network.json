@@ -1,0 +1,21 @@
+{
+  "name": "The Social Network",
+  "year": 2010,
+  "runtime": 121,
+  "categories": [
+    "drama",
+    "college",
+    "fantasy"
+  ],
+  "release-date": "2010-10-01",
+  "director": "David Fincher",
+  "writer": [
+    "Ben Mezrich"
+  ],
+  "actors": [
+    "Jesse Eisenberg",
+    "Justin Timberlake",
+    "Andrew Garfeild"
+  ],
+  "description": "Man creates a website for networking, ends up destroying 2016 presidential election"
+}
