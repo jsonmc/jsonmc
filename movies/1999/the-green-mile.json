@@ -1,0 +1,22 @@
+{
+  "name": "The Green Mile",
+  "year": 1999,
+  "runtime": 189,
+  "categories": [
+    "crime",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "1999-12-08",
+  "director": "Frank Darabont",
+  "writer": [
+    "Stephen King",
+    "Frank Darabont"
+  ],
+  "actors": [
+     "Tom Hanks", 
+     "Michael Clarke Duncan", 
+     "David Morse"
+  ],
+  "storyline": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+}
