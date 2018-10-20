@@ -1,0 +1,20 @@
+{
+  "name": "12 Angry Men",
+  "year": 1957,
+  "runtime": 96,
+  "categories": [
+    "crime",
+    "drama"
+  ],
+  "release-date": "1957-04-10",
+  "director": "Sidney Lumet",
+  "writer": [
+    "Reginald Rose"
+  ],
+  "actors": [
+    "Henry Fonda",
+    "Lee J. Cobb",
+    "Martin Balsam"
+  ],
+  "storyline": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
+}
