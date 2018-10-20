@@ -1,0 +1,21 @@
+{
+  "name": "Gravity",
+  "year": 2013,
+  "runtime": 91,
+  "categories": [
+    "drama",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "2013-08-28",
+  "director": "Alfonso Cuarón",
+  "writer": [
+    "Alfonso Cuarón",
+    "Jonás Cuarón"
+  ],
+  "actors": [
+    "Sandra Bullock",
+    "George Clooney",
+  ],
+  "storyline": "Dr. Ryan Stone is a medical engineer on her first shuttle mission. Her commander is veteran astronaut Matt Kowalsky , helming his last flight before retirement. Then, during a routine space walk by the pair, disaster strikes: The shuttle is destroyed, leaving Ryan and Matt stranded in deep space with no link to Earth and no hope of rescue. As fear turns to panic, they realize that the only way home may be to venture further into space."
+}
