@@ -1,0 +1,22 @@
+{
+  "name": "Doctor zhivago",
+  "year": 1965,
+  "runtime": 197,
+  "categories": [
+    "drama",
+    "romance",
+    "war"
+  ],
+  "release-date": "1965-12-31",
+  "director": "David Lean",
+  "writer": [
+    "Boris Pasternak",
+    "Robert Bolt"
+  ],
+  "actors": [
+    "Omar Sharif",
+    "Julie Christie",
+    "Geraldine Chaplin"
+  ],
+  "storyline": "During the Russian Revolution, Yuri Zhivago, is a young doctor who has been raised by his aunt and uncle following his father's suicide. Yuri falls in love with beautiful Lara Guishar, who has been having an affair with her mother's lover, Victor Komarovsky, an unscrupulous businessman. Yuri, however, ends up marrying his cousin, Tonya. But when he and Lara meet again years later, the spark of love reignites."
+}
