@@ -1,0 +1,25 @@
+{
+	"name": "The Usual Suspects",
+	"year": 1995,
+	"runtime": 106,
+	"categories": [
+		"Crime",
+		"Mystery ",
+		"Thriller"
+	],
+	"release-date": "1995-09-15",
+	"director": "Bryan Singer",
+	"writer": [
+		"Christopher McQuarrie"
+	],
+	"actors": [
+		"Stephen Baldwin",
+		"Gabriel Byrne",
+		"Benicio del Toro",
+		"Chazz Palminteri",
+		"Kevin Pollak",
+		"Pete Postlethwaite",
+		"Kevin Spacey"
+	],
+	"storyline": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+}
