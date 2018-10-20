@@ -1,0 +1,23 @@
+{
+  "name": "The Imitation Game",
+  "year": 2014,
+  "runtime": 114,
+  "categories": [
+    "Biography",
+    "Drama",
+    "thriller",
+    "war"
+  ],
+  "release-date": "2014-12-25",
+  "director": "Morten Tyldum",
+  "writer": [
+    "Graham Moore",
+    "Andrew Hodges"
+  ],
+  "actors": [
+    "Benedict Cumberbatch",
+    "Keira Knightly",
+    "Matthew Goode"
+  ],
+  "storyline": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians."
+}
