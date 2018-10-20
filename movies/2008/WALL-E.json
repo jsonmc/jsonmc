@@ -1,0 +1,22 @@
+{
+  "name": "WALL-E",
+  "year": 2008,
+  "runtime": 98,
+  "categories": [
+    "adventure",
+    "animation",
+    "family"
+  ],
+  "release-date": "2008-06-27",
+  "director": "Andrew Stanton",
+  "writer": [
+    "Andrew Stanton",
+    "Pete Docter"
+  ],
+  "actors": [
+    "Ben Burtt",
+    "Elissa Knight",
+    "Jeff Garlin"
+  ],
+  "storyline": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind"
+}
