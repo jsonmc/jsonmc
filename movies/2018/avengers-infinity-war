@@ -1,0 +1,22 @@
+{
+  "name": "Avengers: Infinity War",
+  "year": 2018,
+  "runtime": 149,
+  "categories": [
+    "adventure",
+    "action",
+    "Fantasy"
+  ],
+  "release-date": "2018-04-27",
+  "director": ["Anthony Russo","Joe Russo"],
+  "writer": [
+    "Christopher Markus",
+    "Stephen McFeely"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Chris Hemsworth",
+    "Mark Ruffalo"
+  ],
+  "storyline": "Huge advancements in scientific technology have enabled a mogul ... critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
+}
