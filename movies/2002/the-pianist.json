@@ -1,0 +1,23 @@
+{
+  "name": "The Pianist",
+  "year": 2002,
+  "runtime": 150,
+  "categories": [
+    "drama"
+  ],
+  "release-date": "2003-03-28",
+  "director": "Sam Raimi",
+  "writer": [
+    "Ronald Harwood",
+    "Wladyslaw Szpilman"
+  ],
+  "actors": [
+    "Adrien Brody",
+    "Emilia Fox",
+    "Michal Zebrowski",
+    "Ed Stoppard",
+    "Maureen Lipman",
+    "Frank Finlay"
+  ],
+  "storyline": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+}
