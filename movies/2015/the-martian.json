@@ -1,0 +1,26 @@
+{
+  "name": "The Martian",
+  "year": 2015,
+  "runtime": 144,
+  "categories": [
+    "drama",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2015-10-02",
+  "director": "Ridley Scott",
+  "writer": [
+    "Drew Goddard",
+    "Andy Weir"
+  ],
+  "actors": [
+    "Matt Damon",
+    "Jessica Chastain", 
+    "Kristen Wiig",
+    "Jeff Daniels", 
+    "Michael Pena", 
+    "Sean Bean", 
+    "Kate Mara", 
+    "Sebastian Stan"
+  ]
+}
