@@ -1,0 +1,23 @@
+{
+  "name": "First Man",
+  "year": 2018,
+  "runtime": 141,
+  "categories": [
+    "adventure",
+    "biography",
+    "drama",
+    "history",
+    "sci-fi"
+  ],
+  "release-date": "2018-10-12",
+  "director": "Damien Chazelle",
+  "writer": [
+    "Josh Singer",
+    "James R. Hansen"
+  ],
+  "actors": [
+    "Ryan Gosling",
+    "Claire Foy",
+    "Jason Clarke"
+  ],
+  "storyline": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969."
