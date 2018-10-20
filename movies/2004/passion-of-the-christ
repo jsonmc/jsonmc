@@ -1,0 +1,20 @@
+{
+  "name": "The Passion of the Christ",
+  "year": 2004,
+  "runtime": 127,
+  "categories": [
+    "action",
+    "drama"
+  ],
+  "release-date": "2004-05-30",
+  "director": "Mel Gibson",
+  "writer": [
+    "Benedict Fitzgerald", "Mel Gibson"
+  ],
+  "actors": [
+    "Mel Gibson",
+    "Monica Bellucci",
+    "Maia Morgenstern"
+  ],
+  "storyline": "Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem."
+}
