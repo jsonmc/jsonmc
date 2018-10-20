@@ -1,0 +1,21 @@
+{
+  "name": "Cars 3",
+  "year": 2017,
+  "runtime": 102,
+  "categories": [
+    "adventure",
+    "animation",
+    "comedy"
+  ],
+  "release-date": "2017-06-16",
+  "director": "Brian Fee",
+  "writer": [
+    "Brian Fee",
+    "Ben Queen"
+  ],
+  "actors": [
+    "Owen Wilson",
+    "Cristela Alonzo",
+    "Chris Cooper"
+  ],
+  "storyline": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world."
