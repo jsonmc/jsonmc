@@ -1,0 +1,21 @@
+{
+  "name": "Rubber",
+  "year": 2010,
+  "runtime": 82,
+  "categories": [
+    "comedy",
+    "fantasy",
+    "horror"
+  ],
+  "release-date": "2010-11-10",
+  "director": "Quentin Dupieux",
+  "writer": [
+    "Quentin Dupieux",
+  ],
+  "actors": [
+    "Stephen Spinella",
+    "Roxane Mesquida",
+    "Wings Hauser"
+  ],
+  "storyline": "A homicidal car tire, discovering it has destructive psionic power, sets its sights on a desert town once a mysterious woman becomes its obsession."
+}
