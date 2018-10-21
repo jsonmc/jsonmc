@@ -1,0 +1,22 @@
+{
+  "name": "Agent Cody Banks",
+  "year": 2003,
+  "runtime": 102,
+  "categories": [
+    "action",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2003-03-14",
+  "director": "MHarald Zwart",
+  "writer": [
+    "Ashley Miller",
+	"Zack Stentz"
+  ],
+  "actors": [
+    "Frankie Muniz",
+    "Hilary Duff",
+    "Andrew Francis"
+  ],
+  "storyline": "A government agent trains Cody Banks in the ways of covert operations that require younger participants."
+}
