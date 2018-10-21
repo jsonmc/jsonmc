@@ -1,0 +1,19 @@
+{
+  "name": "Memento",
+  "year": 2000,
+  "runtime": 115,
+  "categories": [
+    "thriller",
+    "neo-noir",
+    "mystery"
+  ],
+  "release-date": "2000-10-20",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan",
+  "actors": [
+    "Guy Pearce",
+    "Carrie-Anne Moss",
+    "Joe Pantoliano"
+  ],
+  "storyline":"A man with short-term memory loss attempts to track down his wife's murderer."
+}
