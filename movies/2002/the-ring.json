@@ -1,0 +1,27 @@
+{
+  "name": "The Ring",
+  "year": 2002,
+  "runtime": 115,
+  "categories": [
+    "horror",
+    "mystery"
+  ],
+  "release-date": "2002-10-18",
+  "director": "Gore Verbinski",
+  "writer": [
+     "Ehren Kruger",
+	 "Kôji Suzuki"
+  ],
+  "actors": [
+	"Naomi Watts",
+	"Martin Henderson",
+	"David Dorfman",
+	"Brian Cox",
+	"Jane Alexander",
+	"Lindsay Frost",
+	"Amber Tamblyn",
+	"Rachael Bella",
+	"Daveigh Chase"
+  ],
+  "storyline": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it."
+}
