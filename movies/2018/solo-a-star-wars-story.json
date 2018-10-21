@@ -1,0 +1,28 @@
+{
+    "name": "Solo: A Star Wars Story",
+    "year": 2018,
+    "runtime": 134,
+    "categories": [
+      "action",
+      "adventure",
+      "science-fiction"
+    ],
+    "release-date": "2018-05-10",
+    "director": "Ron Howard",
+    "writer": [
+        "Jonathan Kasdan",
+        "Lawrence Kasdan"
+    ],
+    "actors": [
+        "Alden Ehrenreich",
+        "Woody Harrelson",
+        "Emilia Clarke",
+        "Donald Glover",
+        "Thandie Newton",
+        "Phoebe Waller-Bridge",
+        "Joonas Suotamo",
+        "Paul Bettany"
+    ],
+    "storyline": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian."
+  }
+  
