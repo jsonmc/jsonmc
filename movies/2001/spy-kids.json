@@ -1,0 +1,21 @@
+{
+  "name": "Spy Kids",
+  "year": 2001,
+  "runtime": 88,
+  "categories": [
+    "action",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2001-03-18",
+  "director": "Robert Rodriguez",
+  "writer": [
+    "Robert Rodriguez"
+  ],
+  "actors": [
+    "Alexa PenaVega",
+    "Daryl Sabara",
+    "Antonio Banderas"
+  ],
+  "storyline": "The children of secret-agent parents must save them from danger."
+}
