@@ -1,0 +1,21 @@
+{
+  "name": "The NeverEnding Story",
+  "year": 1984,
+  "runtime": 94,
+  "categories": [
+    "epic",
+    "fantasy"
+  ],
+  "release-date": "1984-04-06",
+  "director": "Wolfgang Petersen",
+  "writer": [
+    "Wolfgang Petersen"
+    "Herman Weigel"
+  ],
+  "actors": [
+    "Noah Hathaway"
+    "Barret Oliver"
+    "Tami Stronach"
+    "Patricia Hayes"
+  ]
+}
