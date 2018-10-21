@@ -1,0 +1,22 @@
+{
+  "name": "Fargo",
+  "year": 1996,
+  "runtime": 98,
+  "categories": [
+    "crime",
+    "thriller",
+    "drama"
+  ],
+  "release-date": "1996-05-31",
+  "director": "Joel Coen",
+  "writer": [
+    "Ethan Coen",
+    "Joel Coen"
+  ],
+  "actors": [
+    "William H. Macy",
+    "Frances McDormand",
+    "Steve Buscemi"
+  ],
+  "storyline": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson."
+}
