@@ -1,0 +1,22 @@
+{
+  "name": "Groundhog Day",
+  "year": 1993,
+  "runtime": 101,
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance"
+  ],
+  "release-date": "1993-02-12",
+  "director": "Harold Ramis",
+  "writer": [
+    "Danny Rubin",
+    "Harold Ramis"
+  ],
+  "actors": [
+    "Bill Murray",
+    "Andie MacDowell",
+    "Chris Elliott"
+  ],
+  "storyline": "A weatherman finds himself inexplicably living the same day over and over again."
+}
