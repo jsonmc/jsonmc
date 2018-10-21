@@ -1,0 +1,25 @@
+{
+  "name": "Finding Dory",
+  "year": 2016,
+  "runtime": 97,
+  "categories": [
+    "adventure",
+    "family",
+    "animation",
+	"comedy"
+  ],
+  "release-date": "2016-06-17",
+  "director": "Andrew Stanton",
+  "writer": "Andrew Stanton",
+  "actors": [
+    "Ellen DeGeneres",
+	"Albert Brooks",
+	"Hayden Rolence",
+	"Ed O'Neill",
+	"Kaitlin Olson",
+	"Ty Burrell",
+	"Diane Keaton",
+	"Eugene Levy"
+  ],
+  "storyline": "The friendly but forgetful blue tang fish, Dory, begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way."
+}
