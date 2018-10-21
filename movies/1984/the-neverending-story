@@ -9,13 +9,14 @@
   "release-date": "1984-04-06",
   "director": "Wolfgang Petersen",
   "writer": [
-    "Wolfgang Petersen"
+    "Wolfgang Petersen",
     "Herman Weigel"
   ],
   "actors": [
-    "Noah Hathaway"
-    "Barret Oliver"
-    "Tami Stronach"
+    "Noah Hathaway",
+    "Barret Oliver",
+    "Tami Stronach",
     "Patricia Hayes"
-  ]
+  ],
+  "storyline": "A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book."
 }
