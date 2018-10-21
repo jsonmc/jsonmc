@@ -1,0 +1,21 @@
+{
+  "name": "The Girl with the Dragon Tattoo",
+  "year": 2011,
+  "runtime": 158,
+  "categories": [
+    "drama",
+    "crime",
+    "mystery",
+  ],
+  "release-date": "2011-12-21",
+  "director": "David Fincher",
+  "writer": [
+    "Stieg Larsson",
+    "Steven Zaillian"
+  ],
+  "actors": [
+    "Daniel Craig",
+    "Rooney Mara"
+  ],
+"storyline": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker."
+}
