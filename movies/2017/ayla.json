@@ -1,0 +1,21 @@
+{
+  "name": "Ayla",
+  "year": 2017,
+  "runtime": 125,
+  "categories": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "release-date": "2017-10-27",
+  "director": "Can Ulkay",
+  "writer": [
+    "Yiğit Güralp"
+  ],
+  "actors": [
+    "Çetin Tekindor",
+    "İsmail Hacıoğlu",
+    "Kyung-jin Lee"
+  ],
+  "storyline": "Based on a heart-breaking 65-year-old real-life story on Korean War"
+}
