@@ -1,0 +1,19 @@
+{
+  "name": "Star Trek: First Contact",
+  "year": 1996,
+  "runtime": 111,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1996-11-22",
+  "director": "Jonathan Frakes",
+  "writer": "Rick Berman",
+  "actors": [
+    "Patrick Stewart",
+    "Jonathan Frakes",
+    "Brent Spiner"
+  ],
+  "storyline": "The Borg travel back in time intent on preventing Earth's first contact with an alien species. Captain Picard and his crew pursue them to ensure that Zefram Cochrane makes his maiden flight reaching warp speed. "
+}
