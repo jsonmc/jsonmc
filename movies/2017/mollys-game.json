@@ -1,0 +1,22 @@
+{
+  "name": "Molly's Game",
+  "year": 2017,
+  "runtime": 140,
+  "categories": [
+    "biography",
+    "crime",
+    "drama"
+  ],
+  "release-date": "2017-05-01",
+  "director": "Aaron Sorkin",
+  "writer": [
+    "Aaron Sorkin",
+    "Molly Bloom"
+  ],
+  "actors": [
+    "Jessica Chastain",
+    "Idris Elba",
+    "Kevin Costner"
+  ],
+  "storyline": "The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target."
+}
