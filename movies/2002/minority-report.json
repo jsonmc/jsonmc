@@ -1,0 +1,26 @@
+{
+  "name": "Minority Report",
+  "year": 2002,
+  "runtime": 145,
+  "categories": [
+    "adventure",
+    "action",
+    "crime"
+  ],
+  "release-date": "2002-06-21",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Philip K. Dick",
+	"Scott Frank",
+	"Jon Cohen"
+  ],
+  "actors": [
+    "Tom Cruise",
+	"Max von Sydow",
+	"Steve Harris",
+	"Neal McDonough",
+	"Patrick Kilpatrick",
+	"Jessica Capshaw"
+  ],
+  "storyline": "Based on a story by famed science fiction writer Philip K. Dick, 'Minority Report' is an action-detective thriller set in Washington D.C. in 2054, where police utilize a psychic technology to arrest and convict murderers before they commit their crime. Tom Cruise plays the head of this Precrime unit and is himself accused of the future murder of a man he hasn't even met."
+}
