@@ -1,0 +1,22 @@
+{
+  "name": "A League of Their Own",
+  "year": 1992,
+  "runtime": 128,
+  "categories": [
+    "comedy",
+    "family",
+    "drama"
+  ],
+  "release-date": "1992-11-20",
+  "director": "Penny Marshall",
+  "writer": [
+    "Kim Wilson",
+	"Kelly Candaele"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Geena Davis",
+    "Lori Petty"
+  ],
+  "storyline": "Two sisters join the first female professional baseball league and struggle to help it succeed amidst their own growing rivalry."
+}
