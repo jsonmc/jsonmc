@@ -1,0 +1,22 @@
+{
+  "name": "The Evil Dead",
+  "year": 1981,
+  "runtime": 117,
+  "categories": [
+    "horror",
+    "fantasy"
+  ],
+  "release-date": "1981-10-15",
+  "director": "Sam Raimi",
+  "writer": [
+    "Sam Raimi"
+  ],
+  "actors": [
+    "Bruce Campbell",
+    "Ellen Sandweiss",
+    "Richard DeManincor",
+    "Betsy Baker",
+    "Theresa Tilly"
+  ],
+  "storyline": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons."
+}
