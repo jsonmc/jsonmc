@@ -1,0 +1,21 @@
+{
+  "name": "Superbad",
+  "year": 2007,
+  "runtime": 113,
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2007-08-17",
+  "director": "Greg Mottola",
+  "writer": [
+    "Seth Rogen",
+    "Evan Goldberg"
+  ],
+  "actors": [
+    "Micheal Cera",
+    "Jonah Hill",
+    "Seth Rogen"
+  ],
+  "storyline": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry."
+}
