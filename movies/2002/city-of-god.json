@@ -1,0 +1,24 @@
+{
+  "name": "City of God",
+  "year": 2002,
+  "runtime": 130,
+  "categories": [
+    "crime",
+    "drama"
+  ],
+  "release-date": "2002-05-18",
+  "director": [
+    "Fernando Meirelles",
+    "Kátia Lund"
+  ],
+  "writer": [
+    "Bráulio Mantovani",
+    "Paulo Lins"
+  ],
+  "actors": [
+    "Alexandre Rodrigues",
+    "Leandro Firmino",
+    "Matheus Nachtergaele"
+  ],
+  "storyline": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+}
