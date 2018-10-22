@@ -1,0 +1,22 @@
+{
+  "name": "Invasion of the Body Snatchers",
+  "year": 1978,
+  "runtime": 115,
+  "categories": [
+    ""Horror",    
+    "sci-fi"
+  ],
+  "release-date": "1978-12-22",
+  "director": "Philip Kaufman",
+  "writer": [
+    "W.D. Richter",
+    "Jack Finney"
+  ],
+  "actors": [
+    "Donald Sutherland",
+    "Brooke Adams",
+    "Jeff Goldblum",
+	"Veronica Cartwright"
+  ],
+  "storyline": "In San Francisco, a group of people discover the human race is being replaced one by one, with clones devoid of emotion."
+}
