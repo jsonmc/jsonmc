@@ -1,0 +1,22 @@
+{
+  "name": "Isle of Dogs",
+  "year": 2018,
+  "runtime": 101,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2018-02-15",
+  "director": "Wes Anderson",
+  "writer": [
+    "Wes Anderson",
+    "Roman Coppola"
+  ],
+  "actors": [
+    "Bryan Cranston",
+    "Koyu Rankin",
+    "Edward Norton"
+  ],
+  "storyline": "Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog."
+}
