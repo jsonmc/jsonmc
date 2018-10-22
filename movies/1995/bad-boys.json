@@ -1,0 +1,25 @@
+{
+  "name": "Bad Boys",
+  "year": 1995,
+  "runtime": 119,
+  "categories": [
+    "action",
+    "comedy",
+    "crime"
+  ],
+  "release-date": "1995-04-06",
+  "director": "Michael Bay",
+  "writer": [
+    "George Gallo",
+    "Michael Barrie",
+    "Jim Mulholland",
+    "Doug Richardson"
+  ],
+  "actors": [
+    "Will Smith",
+    "Martin Lawrence",
+    "Lisa Boyle",
+    "Theresa Randle"
+  ],
+  "storyline": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct."
+}
