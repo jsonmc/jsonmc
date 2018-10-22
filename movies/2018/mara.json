@@ -1,0 +1,22 @@
+{
+	"name": "Mara",
+	"year": 2018,
+	"runtime": 98,
+	"categories": [
+		"horror",
+		"crime",
+		"thriller"
+	],
+	"release-date": "2018-09-07",
+	"director": "Clive Tonge",
+	"writer": [
+		"Jonathan Frank",
+		"Clive Tonge"
+	],
+	"actors": [
+		"Olga Kurylenko",
+		"Craig Conway",
+		"Javier Botet"
+	],
+	"storyline": "Criminal psychologist Kate Fuller is assigned to the murder of a man who has seemingly been strangled in his sleep by his wife and the only witness is their eight-year-old daughter, Sophie."
+}
