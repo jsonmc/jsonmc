@@ -1,0 +1,28 @@
+{
+  "name": "The Conjuring",
+  "year": 2013, 
+  "runtime": 112,
+  "categories": [
+    "Horror", 
+    "Mystery", 
+    "Thriller"
+  ], 
+  "release-date": "2013-07-19",
+  "director": "James Wan",
+  "writer": [
+    "Chad Hayes", 
+    "Carey W. Hayes"
+  ], 
+  "actors": [
+    "Vera Famiga",
+    "Patrick Wilson", 
+    "Lili Taylor",
+    "Ron Livingston", 
+    "Shanley Caswell", 
+    "Hayley McFarland", 
+    "Joey King",
+    "Mackenzie Foy", 
+    "Kyla Deaver"
+  ], 
+  "storyline": "Paranormal investigators Ed and Lorraine Warren come to the assistance of a family who are experiencing an evil presence in their farmhouse on Rhode Island."
+}
