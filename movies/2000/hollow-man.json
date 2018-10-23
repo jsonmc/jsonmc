@@ -1,0 +1,23 @@
+{
+  "name": "Hollow Man",
+  "year": 2000,
+  "runtime": 112,
+  "categories": [
+    "action",
+    "horror",
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "2000-08-04",
+  "director": "Paul Verhoeven",
+  "writer": [
+    "Gary Scott Thompson",
+    "Andrew W. Marlowe"
+  ],
+  "actors": [
+    "Kevin Bacon",
+    "Elisabeth Shue",
+    "Josh Brolin"
+  ],
+  "storyline": "When the leader of a team of scientists volunteers to be the test subject for their experiment in human invisibility, he slowly unravels and turns against them, with horrific consequences."
+}
