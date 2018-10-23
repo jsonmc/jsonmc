@@ -1,0 +1,24 @@
+{
+  "name": "The Blair Witch Project",
+  "year": 1999,
+  "runtime": 81,
+  "categories": [
+    "horror",
+    "mystery"
+  ],
+  "release-date": "1999-01-25",
+  "director": [
+    "Daniel Myrick",
+    "Eduardo Sánchez"
+  ],
+  "writer": [
+    "Daniel Myrick",
+    "Eduardo Sánchez"
+  ],
+  "actors": [
+    "Heather Donahue",
+    "Michael C. Williams",
+    "Joshua Leonard"
+  ],
+  "storyline": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind."
+}
