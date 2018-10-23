@@ -1,0 +1,22 @@
+{
+  "name": "Son of Frankenstein",
+  "year": 1939,
+  "runtime": 99,
+  "categories": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Comedy"
+  ],
+  "release-date": "1939-01-13",
+  "director": "Rowland V. Lee",
+  "writer": [
+    "Mary Shelley"
+  ],
+  "actors": [
+    "Basil Rathbone",
+    "Boris Karloff",
+    "Béla Lugosi"
+  ],
+  "storyline": "One of Dr Frankenstein's sons revives his father's comatose monster in order to restore his family's honour."
+}

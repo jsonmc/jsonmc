@@ -1,0 +1,22 @@
+{
+  "name": "Saving Private Ryan",
+  "year": 1998,
+  "runtime": 169,
+  "categories": [
+    "Drama",
+    "Action",
+    "War"
+  ],
+  "release-date": "1998-07-24",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Robert Rodat"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Edward Burns",
+    "Matt Damon",
+    "Tom Sizemore"
+  ],
+  "storyline": "During the Normandy invasion of World War II, Captain John Miller is assigned the task of searching for Private James Ryan, whose three brothers have already been killed in the war."
+}
