@@ -1,0 +1,28 @@
+{
+  "name": "Pink",
+  "year": 2016,
+  "runtime": 136,
+  "categories": [
+    "courtroom drama",
+    "thriller"
+  ],
+  "release-date": "2016-09-16",
+  "director": [
+    "	aniruddha roy chowdhury",
+  ],
+  "writer": [
+    "shoojit sircar",
+    "ritesh shah",
+    "aniruddha roy chowdhury"
+  ],
+  "actors": [
+    "amitabh bachchan", 
+    "taapsee pannu", 
+    "kirti kulhari", 
+    "andrea tariang", 
+    "angad bedi", 
+    "piyush mishra", 
+    "dhritiman chatterjee",
+  ],
+  "storyline": "After being molested, Minal, along with her friends, tries to file an FIR against a politician's nephew. When the subsequent case gets rigged, Deepak, a retired lawyer, helps them to fight the case."
+  }
