@@ -1,0 +1,22 @@
+{
+  "name": "Prometheus",
+  "year": 2012,
+  "runtime": 124,
+  "categories": [
+    "adventure",
+    "mystery",
+    "sci-Fi"
+  ],
+  "release-date": "2012-04-11",
+  "director": "Ridley Scott",
+  "writer": [
+    "Jon Spaihts",
+    "Damon Lindelof"
+  ],
+  "actors": [
+    "Noomi Rapace",
+    "Logan Marshall-Green",
+    "Michael Fassbender"
+  ],
+  "storyline": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone."
+}
