@@ -1,0 +1,24 @@
+{
+  "name": "The Intern",
+  "year": 2015,
+  "runtime": 121,
+  "categories": [
+    "Drama",
+    "Comedy",
+  ],
+  "release-date": "2015-09-25",
+  "director": "Nancy Meyers",
+  "writer": [
+    "Nancy Meyers",
+  ],
+  "actors": [
+     "Robert De Niro", 
+     "Anne Hathaway",
+     "Rene Russo",
+     "Anders Holm", 
+     "Andrew Rannells", 
+     "Adam DeVine",
+     "Zack Pearlman",
+  ],
+  "storyline": "Seventy-year-old Ben Whittaker realises that retirement isn't an enjoyable experience. As a result, he decides to work as an intern at an online fashion store managed by an extremely sceptical boss."
+  }
