@@ -1,0 +1,19 @@
+{
+  "name": "Office Space",
+  "year": 1999,
+  "runtime": 89,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "1999-02-19",
+  "director": "Mike Judge",
+  "writer": [
+    "Mike Judge"
+  ],
+  "actors": [
+    "Ron Livingston",
+    "Jennifer Aniston",
+    "David Herman"
+  ],
+  "storyline": "Three company workers who hate their jobs decide to rebel against their greedy boss."
+}
