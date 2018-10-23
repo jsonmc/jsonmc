@@ -1,0 +1,22 @@
+{
+  "name": "Alien: Covenant",
+  "year": 2017,
+  "runtime": 122,
+  "categories": [
+    "horror",
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "2017-05-19",
+  "director": "Ridley Scott",
+  "writer": [
+    "Dan O'Bannon",
+    "Ronald Shusett"
+  ],
+  "actors": [
+    "Michael Fassbender",
+    "Katherine Waterston",
+    "Billy Crudup"
+  ],
+  "storyline": "The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape."
+}
