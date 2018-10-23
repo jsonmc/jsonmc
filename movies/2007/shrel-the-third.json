@@ -1,0 +1,46 @@
+{
+  "name": "Shrek the Third",
+  "year": 2007,
+  "runtime": 93,
+  "categories": [
+    "animation",
+    "adventure"
+  ],
+  "release-date": "2004-05-06",
+  "director": "Chris Miller",
+  "writer": [
+    "Peter Seaman"
+    "Jeffrey Price"
+  ],
+  "cast": [
+    "Mike miller",
+    "Eddie Murphy",
+    "Cameron Diaz",
+    "Antonio Banderas",
+    "Julie Andrews",
+    "John Cleese",
+    "Rupert Everett",
+    "Eric Idle",
+    "Justin Timberlake",
+    "Conrad Vernon",
+    "Cody Cameron",
+    "Larry King",
+    "Christopher Knights",
+    "Amy Poheler",
+    "Maya Rudolph",
+    "Amy Sedaris",
+    "Aron Warner",
+    "Cheri Oteri",
+    "Ian McShane",
+    "Susanne Blakeslee",
+    "Regis Philbin",
+    "Mark Valley",
+    "Chris Miller",
+    "Seth Rogen",
+    "Tom Kane",
+    "Kari Wahlgren",
+    "John Lithgow",
+    "John Krasinski"
+  ],
+  "storyline": "Shrek sets out to find the new King with his friends Donkey and Puss in Boots."
+}
