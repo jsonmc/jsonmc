@@ -1,0 +1,24 @@
+{
+  "name": "Fantastic Mr Fox",
+  "year": 2009,
+  "runtime": 87,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy",
+    "crime",
+    "family"
+  ],
+  "release-date": "2009-11-25",
+  "director": "Wes Anderson",
+  "writer": [
+    "Roald Dahl",
+    "Wes Anderson"
+  ],
+  "actors": [
+    "George Clooney",
+    "Meryl Streep",
+    "Bill Murray"
+  ],
+  "storyline": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation."
+}
