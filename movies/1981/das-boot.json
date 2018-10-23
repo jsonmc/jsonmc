@@ -1,0 +1,21 @@
+{
+  "name": "Das Boot",
+  "year": 1981,
+  "runtime": 149,
+  "categories": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "release-date": "1981-09-17",
+  "director": "Wolfgang Petersen",
+  "writer": [
+    "Lothar-Günther Buchheim"
+  ],
+  "actors": [
+    "Jürgen Prochnow",
+    "Herbert Grönemeyer",
+    "Klaus Wennemann"
+  ],
+  "storyline": "A German submarine patrols the Atlantic Ocean during World War II, manned by a crew that must contend with tense conflicts and long stretches of confined boredom. The Captain attempts to keep the ship's morale up in the face of fierce battles, intense storms and dwindling supplies."
+}
