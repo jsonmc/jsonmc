@@ -1,0 +1,30 @@
+{
+  "name": "The Lego Movie",
+  "year": 2014,
+  "runtime": 100,
+  "categories": [
+    "animation",
+    "action",
+    "adventure",
+    "comedy",
+    "family",
+    "fantasy"
+  ],
+  "release-date": "2014-02-07",
+  "director": [
+    "Phil Lord",
+    "Christopher Miller"
+  ],
+  "writer": [
+    "Phil Lord",
+    "Christopher Miller"
+  ],
+  "actors": [
+    "Chris Pratt",
+    "Will Ferrell",
+    "Elizabeth Banks",
+    "Will Arnett",
+    "Morgan Freeman"
+  ],
+  "storyline": "The first-ever full-length theatrical LEGO® movie follows Emmet (Chris Pratt), an ordinary, rules-following, perfectly average LEGO® minifigure who is mistakenly identified as the most extraordinary person and the key to saving the world. He is drafted into a fellowship of strangers on an epic quest to stop an evil tyrant, a journey for which Emmet is hopelessly and hilariously underprepared."
+}
