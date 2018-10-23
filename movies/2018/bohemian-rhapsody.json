@@ -1,0 +1,28 @@
+{
+  "name": "Bohemian Rhapsody",
+  "year": 2018,
+  "runtime": 134,
+  "categories": [
+	"Biography",
+    "Drama",
+    "Music"
+  ],
+  "release-date": "2018-11-02",
+  "director": "Bryan Singer",
+  "writer": [
+    "Anthony McCarten",
+    "Peter Morgan",
+  ],
+  "actors": [
+    "Rami Maleka",
+    "Lucy Boynton",
+    "Gwilym Lee",
+    "Ben Hardy",
+    "Joseph Mazzello",
+    "Aidan Gillen",
+    "Tom Hollander",
+    "Allen Leech",
+    "Mike Myers"
+  ],
+  "storyline": "Bohemian Rhapsody is a 2018 biographical musical film about the British rock band Queen, focusing on lead singer Freddie Mercury's life and leading up to Queen's Live Aid performance at Wembley Stadium in 1985."
+}
