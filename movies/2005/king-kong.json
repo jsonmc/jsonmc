@@ -1,0 +1,22 @@
+{
+    "name": "King Kong",
+    "year": 2005,
+    "runtime": 200,
+    "categories": [
+      "adventure",
+      "action"
+    ],
+    "release-date": "2005-12-05",
+    "director": "Peter Jackson",
+    "writer": [
+      "Peter Jackson",
+      "Fran Walsh",
+      "Philippa Boyens"
+    ],
+    "actors": [
+      "Naomi Watts",
+      "Jack Black",
+      "Adrien Brody"
+    ],
+    "storyline": "In 1933, during the Great Depression, New York City vaudeville actress Ann Darrow is hired by financially troubled filmmaker Carl Denham to star in a film with Herb, Carl's cameraman, Mike, Carl's soundman, Preston, Carl's assistant, and actor Bruce Baxter"
+  }
