@@ -1,0 +1,24 @@
+{
+  "name": "Back to the Future Part III",
+  "year": 1990,
+  "runtime": 118,
+  "categories": [
+    "adventure",
+    "comedy",
+    "sci-fi"
+  ],
+  "release-date": "1990-05-25",
+  "director": "Robert Zemeckis",
+  "writer": [
+    "Robert Zemeckis",
+    "Bob Gale"
+  ],
+  "actors": [
+    "Micheal J. Fox",
+    "Christopher Lloyd",
+    "Lea Thompson",
+	"Thomas F. Wilson",
+	"Mary Steenburgen"
+  ],
+  "storyline": "Enjoying a peaceable existence in 1885, Doctor Emmet Brown is about to be killed by Buford "Mad Dog" Tannen. Marty McFly travels back in time to save his friend."
+}
