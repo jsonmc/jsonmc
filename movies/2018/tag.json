@@ -1,0 +1,21 @@
+{
+  "name": "Tag",
+  "year": 2018,
+  "runtime": 100,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "2018-06-15",
+  "director": "Jeff Tomsic",
+  "writer": [
+    "Rob McKittrick",
+    "Mark Steilen",
+    "Russell Adams"
+  ],
+  "actors": [
+    "Jeremy Renner",
+    "Ed Helms",
+    "Jake Johnson"
+  ],
+  "storyline": "A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country."
+}
