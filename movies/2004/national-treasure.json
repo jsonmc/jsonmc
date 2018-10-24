@@ -1,0 +1,26 @@
+{
+  "name": "National Treasure",
+  "year": 2004,
+  "runtime": 131,
+  "categories": [
+    "action",
+    "adventure",
+    "family"
+  ],
+  "release-date": "2004-11-19",
+  "director": "Jon Turteltaub",
+  "writer": [
+    "Jim Kouf",
+    "Cormac Wibberley",
+	"Marianne Wibberley"
+  ],
+  "actors": [
+    "Nicolas Cage",
+    "Jon Voight",
+    "Harvey Keitel",
+    "Diane Kruger",
+    "Sean Bean",
+	"Justin Bartha"
+  ],
+  "storyline": "A historian races to find the legendary Templar Treasure before a team of mercenaries."
+}
