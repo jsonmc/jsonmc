@@ -1,0 +1,21 @@
+{
+  "name": "Event Horizon",
+  "year": 1997,
+  "runtime": 130,
+  "categories": [
+    "horror",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "1997-08-22",
+  "director": "Paul W.S. Anderson",
+  "writer": [
+    "Philip Eisner"
+  ],
+  "actors": [
+    "Laurence Fishburne",
+    "Kathleen Quinlan",
+    "Sam Neill"
+  ],
+  "storyline": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board."
+}
