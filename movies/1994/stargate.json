@@ -1,0 +1,22 @@
+{
+    "name": "Stargate",
+    "year": 1994,
+    "runtime": 121,
+    "categories": [
+      "adventure",
+      "sci-fi"
+    ],
+    "release-date": "1994-10-28",
+    "director": "Roland Emmerich",
+    "writer": [
+      "Roland Emmerich",
+      "Dean Devlin"
+    ],
+    "actors": [
+      "Kurt Russell",
+      "James Spader",
+      "Jaye Davidson",
+      "Viveca Lindfors"
+    ],
+    "storyline": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra."
+  }
