@@ -1,0 +1,19 @@
+{
+  "name": "Braveheart",
+  "year": 1995,
+  "runtime": 178,
+  "categories": [
+    "biography",
+    "drama",
+    "history"
+  ],
+  "release-date": "1995-05-24",
+  "director": "Mel Gibson",
+  "writer": "Randall Wallace",
+  "actors": [
+    "Mel Gibson",
+    "Sophie Marceau",
+    "Patrick McGoohan"
+  ],
+  "storyline": "When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England."
+}
