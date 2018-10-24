@@ -1,0 +1,18 @@
+{
+  "name": "Wizards",
+  "year": 1977,
+  "runtime": 80,
+  "categories": [
+    "animation",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "1977-02-09",
+  "director": "Ralph Bakshi",
+  "writer": "Ralph Bakshi",
+  "actors": [
+    "Bob Holt",
+    "Jesse Welles",
+    "Richard Romanus"
+  ]
+}
