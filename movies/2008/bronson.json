@@ -1,0 +1,19 @@
+{
+  "name": "Bronson",
+  "year": 2008,
+  "runtime": 92,
+  "categories": [
+    "biography",
+    "action",
+    "crime"
+  ],
+  "release-date": "2008-10-17",
+  "director": "Nicolas Winding Refn",
+  "writer": [
+    "Nicolas Winding Refn"
+  ],
+  "actors": [
+    "Tom Hardy"
+  ],
+  "storyline": "A young man who was sentenced to seven years in prison for robbing a post office ends up spending three decades in solitary confinement. During this time, his own personality is supplanted by his alter-ego, Charles Bronson."
+}
