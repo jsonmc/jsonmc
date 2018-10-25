@@ -1,0 +1,27 @@
+{
+  "name": "The Parent Trap",
+  "year": 1998,
+  "runtime": 148,
+  "categories": [
+    "adventure",
+    "comedy",
+    "drama"
+  ],
+  "release-date": "1998-07-29",
+  "director": "Nancy Meyers",
+  "writer": [
+    "Erich Kastner",
+    "David Swift",
+    "Nancy Meyers",
+    "Charles Shyer"
+  ],
+  "actors": [
+    "Lindsey Lohan",
+    "Dennis Quaid",
+    "Natasha Richardson",
+    "Elaine Hendrix",
+    "Lisa Anne Walter",
+    "Simon Kunz",
+  ],
+  "storyline": "Identical twins Annie and Hallie were separated at birth, but by pure coincidence, discover one another at a summer camp. There they become inseparable friends and endeavor to reunite their estranged parents."
+}
