@@ -40,11 +40,11 @@ Always lower-case and singular.
 
 Also, Science Fiction is "sci-fi".
 
-Animation movies (such as **How to Train Your Dragon**) should have the _animation_ category.
+Animated movies (such as **How to Train Your Dragon**) should have the _animation_ category.
 
 ### Year
 
-Just the integer number. No quotes.
+Just the integer number in YY/MM/DD. No quotes.
 
 ### Runtime
 
