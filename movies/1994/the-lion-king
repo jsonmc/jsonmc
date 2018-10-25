@@ -1,0 +1,22 @@
+{
+  "name": "The Lion King",
+  "year": 1994,
+  "runtime": 89,
+  "categories": [
+    "animation",
+    "comedy",
+    "adventure",
+    "family"
+  ],
+  "release-date": "1994-06-24",
+  "director": "Paul King",
+  "writer": [
+    "Rob Minkof",
+  ],
+  "actors": [
+    "Rowan Atkinson",
+    "Matthew Broderick",
+    "Niketa Calame-Harris",
+  ],
+  "storyline": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities."
+}
