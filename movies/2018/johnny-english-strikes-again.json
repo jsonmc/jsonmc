@@ -1,0 +1,23 @@
+{
+  "name": "Johnny English Strikes Again",
+  "year": 2018,
+  "runtime": 89,
+  "categories": [
+    "action",
+    "adventure",
+    "comedy" 
+  ],
+  "release-date": "2018-10-26",
+  "director": "David Kerr",
+  "writer": [
+    "William Davies"
+  ],
+  "actors": [
+    "Rowan Atkinson",
+    "Ben Miller",
+    "Olga Kurylenko",
+    "Jake Lacy",
+    "Emma Thompson"
+  ],
+  "storyline": "After a cyber-attack reveals the identity of all of the active undercover agents in Britain, Johnny English is forced to come out of retirement to find the mastermind hacker."
+}
