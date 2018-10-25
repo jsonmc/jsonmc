@@ -1,0 +1,23 @@
+{
+  "name": "King Kong",
+  "year": 2005,
+  "runtime": 187,
+  "categories": [
+    "adventure",
+    "action",
+    "drama"
+  ],
+  "release-date": "2005-12-14",
+  "director": "Peter Jackson",
+  "writer": [
+    "Fran Walsh",
+    "Philippa Boyens",
+    "Peter Jackson"
+  ],
+  "actors": [
+    "Naomi Watts",
+    "Jack Black",
+    "Adrien Brody"
+  ],
+  "storyline": "Carl Denham needs to finish his movie and has the perfect location; Skull Island. But he still needs to find a leading lady. This 'soon-to-be-unfortunate' soul is Ann Darrow. No one knows what they will encounter on this island and why it is so mysterious, but once they reach it, they will soon find out."
+}
