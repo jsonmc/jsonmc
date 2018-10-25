@@ -1,6 +1,7 @@
-Randeep Hooda..
-{ Name:Randeep Hooda
-Birth Place:Haryana,INDIA
-Birth Date:20-august-1976
-first movie:2001
+
+{ "Name":"Randeep Hooda",
+"Birth Place":"Haryana,INDIA",
+"Birth Date":"20-august-1976",
+"first movie":"2001",
+}
 
