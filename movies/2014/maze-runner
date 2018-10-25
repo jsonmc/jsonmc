@@ -1,0 +1,26 @@
+{
+  "name": "Maze Runner",
+  "year": 2014,
+  "runtime": 113,
+  "categories": [
+    "action",
+    "mystery",
+    "sci-fi"
+  ],
+  "release-date": "2014-09-19",
+  "director": "Wes Ball",
+  "writer": [
+    "Noah Oppenheim",
+    "Grant Pierce Myers",
+    "T.S. Nowlin",
+    "James Dashner"
+  ],
+  "actors": [
+    "Dylan O'Brien",
+    "Kaya Scodelario",
+    "Thomas Brodie-Sangster",
+    "Will Poulter",
+    "Patricia Clarkson"
+  ],
+  "storyline": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow "runners" for a shot at escape."
+}
