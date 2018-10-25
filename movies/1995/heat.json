@@ -1,0 +1,19 @@
+{
+  "name": "Heat",
+  "year": 1995,
+  "runtime": 170,
+  "categories": [
+    "crime",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "1995-12-06",
+  "director": "Michael Mann",
+  "writer": "Michael Mann",
+  "actors": [
+    "Al Pacino",
+    "Robert De Niro",
+    "Val Kilmer"
+  ],
+  "storyline": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist."
+}
