@@ -40,7 +40,7 @@ Always lower-case and singular.
 
 Also, Science Fiction is "sci-fi".
 
-Animation movies (such as **How to Train Your Dragon**) should have the _animation_ category.
+Animated movies (such as **How to Train Your Dragon**) should have the _animation_ category.
 
 ### Year
 
