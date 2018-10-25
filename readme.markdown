@@ -53,6 +53,6 @@ Storyline | Brief description of the movie
   "storyline": "Huge advancements in scientific technology have enabled a mogul ... critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
 }
 ```
-## Contributing
+### Contributing
 
 Check [Contributing Guide](contributing.markdown) for further instructions.
