@@ -1,0 +1,21 @@
+{
+  "name": "Your Name.",
+  "year": 2016,
+  "runtime": 107,
+  "categories": [
+    "romance",
+    "fantasy",
+    "drama"
+  ],
+  "release-date": "2016-08-26",
+  "director": "Makoto Shinkai",
+  "writer": [
+    "Makoto Shinkai"
+  ],
+  "actors": [
+    "Michael Sinterniklaas",
+    "Stephanie Sheh",
+    "Laura Post"
+  ],
+  "storyline": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?"
+}
