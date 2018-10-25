@@ -44,7 +44,7 @@ Animated movies (such as **How to Train Your Dragon**) should have the _animatio
 
 ### Year
 
-Just the integer number in YY/MM/DD. No quotes.
+Just the integer number. No quotes.
 
 ### Runtime
 
