@@ -1,0 +1,27 @@
+{
+  "name": "Upgrade",
+  "year": 2018,
+  "runtime": 100,
+  "categories": [
+    "Thriller",
+    "fantasy",
+     
+  ],
+  "release-date": "2018-06-01",
+  "director": " Leigh Whannell",
+  "writer": [
+    " Leigh Whannell"
+  ],
+  "actors": [
+    "Logan Marshall-Green ",
+    "Melanie Vallejo ",
+    "Steve Danielsen ",
+    "Abby Craden ",
+    "Harrison Gilbertson ",
+    "Benedict Hardie ",
+    "Richard Cawthorne ",
+    "Christopher Kirby ",
+    "Richard Anastasios "
+  ],
+  "storyline": "Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem."
+}
