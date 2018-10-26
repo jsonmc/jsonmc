@@ -1,0 +1,23 @@
+{
+  "name": "Pink Floyd: The Wall",
+  "year": 1982,
+  "runtime": 95,
+  "categories": [
+    "animation",
+    "drama",
+    "musical"
+  ],
+  "release-date": "1982-08-01",
+  "director": "Alan Parker",
+  "writer": [
+    "Roger Waters",
+    "Alan Parker"
+  ],
+  "actors": [
+    "Bob Geldof",
+    "Christine Hargreaves",
+    "James Laurenson",
+    "Eleanor David"
+  ],
+  "storyline": "A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone."
+}
