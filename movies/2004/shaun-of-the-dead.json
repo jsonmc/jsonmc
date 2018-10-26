@@ -1,0 +1,21 @@
+{
+  "name": "Shaun of the Dead",
+  "year": 2004,
+  "runtime": 99,
+  "categories": [
+    "comedy",
+    "horror"
+  ],
+  "release-date": "2004-04-09",
+  "director": "Edgar Wright",
+  "writer": [
+    "Simon Pegg",
+    "Edgar Wright"
+  ],
+  "actors": [
+    "Simon Pegg",
+    "Nick Frost",
+    "Kate Ashfield"
+  ],
+  "storyline": "A man decides to turn his moribund life around by winning back his ex-girlfriend, reconciling his relationship with his mother and dealing with an entire community that has returned from the dead to eat the living."
+}
