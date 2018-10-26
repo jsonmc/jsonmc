@@ -1,0 +1,32 @@
+{
+  "name": "Titan A.E.",
+  "year": 2000,
+  "runtime": 94,
+  "categories": [
+    "animated",
+    "adventure",
+    "family",
+    "sci-fi"
+  ],
+  "release-date": "2000-06-16",
+  "director": [
+    "Don Bluth",
+    "Gary Goldman"
+  ],
+  "writer": [
+    "Hans Bauer",
+    "Randall McCormick",
+    "Ben Edlund",
+    "John August",
+    "Joss Whedon"
+  ],
+  "actors": [
+    "Matt Damon",
+    "Bill Pullman",
+    "John Leguizamo",
+    "Nathan Lane",
+    "Janeane Garofalo",
+    "Drew Barrymore"
+  ],
+  "storyline": "A young man learns that he has to find a hidden Earth ship before an enemy alien species does in order to secure the survival of humanity."
+}
