@@ -1,0 +1,25 @@
+{
+  "name": "Willow",
+  "year": 1988,
+  "runtime": 126,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "family"
+  ],
+  "release-date": "1988-05-20",
+  "director": "Ron Howard",
+  "writer": [
+    "Bob Dolman",
+    "George Lucas"
+  ],
+  "actors": [
+    "Warwick Davis",
+    "Val Kilmer",
+    "Joanne Whalley",
+    "Billy Barty",
+    "Jean Marsh"
+  ],
+  "storyline": "A reluctant dwarf must play a critical role in protecting a special baby from an evil queen."
+}
