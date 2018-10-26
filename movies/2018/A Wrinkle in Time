@@ -1,0 +1,28 @@
+{
+  "name": "A Wrinkle in Time",
+  "year": 2018,
+  "runtime": 109,
+  "categories": [
+    "Adventure",
+    "family",
+    "Fantasty"
+  ],
+  "release-date": "9 March 2018",
+  "director": "Ava DuVernay",
+  "writer": [
+    "Jennifer Lee, Jeff Stockwell, Madeleine L'Engle"
+  ],
+  "actors": [
+    "Storm Reid",
+    "Oprah Winfrey",
+    "Reese Witherspoon",
+    "Mindy Kaling",
+    "Levi Miller",
+    "Deric McCabe",
+    "Chris Pine",
+    "Gugu Mbatha-Raw",
+    "	Zach Galifianakis",
+    "Michael Peña"
+  ],
+  "storyline": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him."
+}
