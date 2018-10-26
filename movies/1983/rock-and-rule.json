@@ -1,0 +1,24 @@
+{
+  "name": "Rock & Rule",
+  "year": 1983,
+  "runtime": 77,
+  "categories": [
+    "animation",
+	"adventure",
+	"sci-fi"
+  ],
+  "release-date": "1983-04-15",
+  "director": "Clive A. Smith",
+  "writer": [
+	"John Halfpenny",
+	"Peter Sauder",
+	"Patrick Loubert"
+  ],
+  "actors": [
+    "Don Francks",
+	"Susan Roman",
+	"Paul Le Mat",
+	"Catherine O'Hara"
+  ],
+  "storyline": "A malevolent rock star kidnaps a female singer to force her to participate in the summoning of a demon and her band must help her stop him."
+}
