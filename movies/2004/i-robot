@@ -1,0 +1,21 @@
+{
+  "name": "I Robot",
+  "year": 2004,
+  "runtime": 155,
+  "categories": [
+    "action",
+    "crime"
+    "drama"
+  ],
+  "release-date": "2004-07-16",
+  "director": "Alex Proyas",
+  "writer": [
+    "Jeff Vintar"
+  ],
+  "actors": [
+    "Will Smith",
+    "Bridget Moynahan" 
+    "Bruce Greenwood"
+  ],
+  "storyline": "In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity."
+}
