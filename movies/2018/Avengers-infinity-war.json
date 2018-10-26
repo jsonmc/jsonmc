@@ -1,0 +1,39 @@
+{
+    "name": "Avengers:Infinity War",
+  "year": 2018,
+  "runtime": 149,
+  "categories": [
+    "fantasy",
+    "science-fiction",
+    
+  ],
+  "release-date": "2018-04-27",
+  "director": "Anthony Russo", "Joe Russo",
+  "writer": [
+    "Christopher Markus",
+    "Stephen McFeely"
+  ],
+  "actors": [
+    	
+    "Robert Downey Jr.",
+    "Chris Hemsworth",
+    "Mark Ruffalo",
+    "Chris Evans",
+    "Scarlett Johansson",
+    "Benedict Cumberbatch",
+    "Don Cheadle",
+    "Tom Holland",
+    "Chadwick Boseman",
+    "Paul Bettany",
+    "Elizabeth Olsen",
+    "Anthony Mackie",
+    "Sebastian Stan",
+    "Danai Gurira",
+    "Letitia Wright",
+    "Dave Bautista",
+    "Zoe Saldana",
+    "Josh Brolin",
+    "Chris Pratt"
+  ],
+  "storyline": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment."
+  }
