@@ -1,0 +1,21 @@
+{
+  "name": "Werk ohne Autore",
+  "year": 2018,
+  "runtime": 188,
+  "categories": [
+    "action",
+    "adventure",
+    "family"
+  ],
+  "release-date": "1987-07-24",
+  "director": "Florian Henckel von Donnersmarck",
+  "writer": [
+    "Florian Henckel von Donnersmarck"
+  ],
+  "actors": [
+    "Tom Schilling",
+    "Sebastian Koch",
+    "Paula Beer"
+  ],
+  "storyline": "Inspired by the life of Gerhard Richter, the story follows art student Kurt Barnert in post-war East Germany. He falls in love with fellow student Ellie Seeband, but her father, Professor Carl Seeband, opposes their relationship. Complications arise as Carl's role in the Nazi eugenics program becomes known."
+}
