@@ -1,0 +1,25 @@
+{
+  "name": "Captain Marvel",
+  "year": 2019,
+  "runtime": 127,
+  "categories": [
+    "adventure",
+    "action",
+    "sci-fi"
+  ],
+  "release-date": "2019-03-08",
+  "director": [
+    "Anna Boden",
+    "Ryan Fleck"
+  ],
+  "writer": [
+    "Michael Crichton",
+    "David Koepp"
+  ],
+  "actors": [
+   "Mckenna Grace",
+   "Brie Larson",
+   "Gemma Chan"
+  ],
+  "storyline": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races."
+}
