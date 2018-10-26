@@ -1,0 +1,22 @@
+{
+  "name": "Ex Machina",
+  "year": 2014,
+  "runtime": 108,
+  "categories": [
+    "drama",
+    "mystery",
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "2015-04-24",
+  "director": "Alex Garland",
+  "writer": [
+    "Alex Garland"
+  ],
+  "actors": [
+    "Alicia Vikander",
+    "Domhnall Gleeson",
+    "Oscar Isaac"
+  ],
+  "storyline": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I."
+}
