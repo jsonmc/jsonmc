@@ -7,7 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "jshint": "^2.9.3"
-  },
+  {
   "scripts": {
     "test": "node tests/tests.js && ./node_modules/jshint/bin/jshint -e json movies/*/*.json actors/*.json"
   }
