@@ -1,0 +1,23 @@
+{
+  "name": "Aladdin",
+  "year": 1992,
+  "runtime": 90,
+  "categories": [
+    "adventure",
+    "animation",
+    "comedy"
+  ],
+  "release-date": "1992-11-25",
+  "director": "Ron Clements", 
+	      "John Musker"
+  "writer": [
+    "Ron Clements",
+    "John Musker"
+  ],
+  "actors": [
+    "Scott Weinger",
+    "Robin Williams",
+    "Linda Larkin"
+  ],
+  "storyline": "When a street urchin vies for the love of a beautiful princess, he uses a genie's magic power to make himself off as a prince in order to marry her."
+}
