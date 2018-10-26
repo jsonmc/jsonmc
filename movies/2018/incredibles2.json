@@ -1,10 +1,11 @@
 {
   "name": "Incredibles 2",
   "year": 2018,
+  "runtime": 125, 
   "categories": [
-  "Science fiction",
-  "action",
-  "thriller"
+   "adventure",
+    "thriller",
+    "sci-fi"
   ],
   "release-date": "05/06/2018",
   "director": "Brad Bird",
