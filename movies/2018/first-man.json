@@ -1,0 +1,21 @@
+{
+  "name": "First Man",
+  "year": 2018,
+  "runtime": 141, 
+  "categories": [
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "2018-08-29",
+  "director": "Damien Chazelle",
+  "actors": [
+  "Ryan Gosling",
+  "Jason Clarke",
+  "Claire Foy",
+  "Kyle Chandler",
+  "Corey Stoll",
+  "Claran Hinds",
+  "Christopher Abbott"
+  ],
+  "storyline": "This film follows the years leading up to the Apollo 11 mission to the Moon in 1969."
+  }
