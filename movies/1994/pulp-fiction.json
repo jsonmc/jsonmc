@@ -1,0 +1,22 @@
+{
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "runtime": 178,
+    "categories": [
+      "crime",
+      "drama"
+    ],
+    "release-date": "1994-9-10",
+    "director": "Quentin Tarantino",
+    "writer": [
+      "Quentin Tarantino",
+      "Roger Avary",
+    ],
+    "actors": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "storyline": "The lives of two mob hit-men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  }
+  
