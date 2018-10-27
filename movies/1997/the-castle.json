@@ -1,0 +1,33 @@
+{
+  "name": "The Castle",
+  "year": 1997,
+  "runtime": 84,
+  "categories": [
+    "comedy",
+    "drama",
+    "cult-classic"
+  ],
+  "release-date": "1997-04-10",
+  "director": "Rob Sitch",
+  "writer": [
+    "Santo Cilauro",
+    "Tom Gleisner",
+    "Jane Kennedy",
+    "Rob Sitch"
+  ],
+  "actors": [
+    "Michael Caton",
+    "Anne Tenney",
+    "Stephen Curry",
+    "Sophie Lee",
+    "Eric Bana",
+    "Anthony Simcoe",
+    "Wayne Hope",
+    "Tiriel Mora",
+    "Costas Kilias",
+    "Charles 'Bud' Tingwell",
+    "John Flaus",
+    "Tony Martin"
+  ],
+  "storyline": "A working-class family from Melbourne, Australia fights city hall after being told they must vacate their beloved family home to allow for infrastructural expansion."
+}
