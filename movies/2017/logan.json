@@ -1,0 +1,20 @@
+{
+  "name": "Logan",
+  "year": 2017,
+  "runtime": 137, 
+  "categories":[
+    "superhero",
+    "action"
+  ],
+  "release-date": "2017-03-03",
+  "director": "James Mangold",
+  "actors": [
+  "Hugh Jackman",
+  "Patrick Stewart",
+  "Richard E.Grant",
+  "Boyd Holbrook",
+  "Stephen Merchant",
+  "Dafne Keen"
+    ],
+  "storyline": "This film follows an aged Wolvering and an extremely ill Professor X defending a young mutant named Laura from the villaneous Reavers and Alkali-Transigen led by Donald Pierce and Zander Rice."
+  }
