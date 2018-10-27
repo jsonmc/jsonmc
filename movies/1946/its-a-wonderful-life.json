@@ -1,0 +1,26 @@
+{
+    "name" : "It's a Woderful Life" ,
+    "year" : 1946 ,
+    "runtime" : 135 ,
+    "categories" : [
+        "Drama" ,
+        "Fantasy"
+    ],
+    "release-date" : "1946-12-20"   ,
+    "director" : "Frank Capra" ,
+    "writer" : [
+        "Frank Capra" ,
+        "Frances Goodrich" ,
+        "Albert Hackett" ,
+        "Jo Swerling" ,
+        "Micheal Wilson"
+    ] ,
+    "actors" : [
+        "James Stewart" ,
+        "Donna Reed" ,
+        "Karolyn Grimes" ,
+        "Lionel Barrymore" ,
+        "Henry Travers"
+    ] ,
+    "storyline" : "George Bailey has so many problems he is thinking about ending it all - and it's Christmas! As the angels discuss George, we see his life in flashback. As George is about to jump from a bridge, he ends up rescuing his guardian angel, Clarence - who then shows George what his town would have looked like if it hadn't been for all his good deeds over the years."
+}
