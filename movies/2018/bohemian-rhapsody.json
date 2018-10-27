@@ -1,0 +1,19 @@
+{
+  "name": "Bohemian Rhapsody",
+  "year": 2018,
+  "runtime": 134,
+  "categories": [
+    "biographhy",
+    "drama"
+  ],
+  "release-date": "2018-10-23",
+  "director": "Bryan Singer",
+  "writer": 
+    "Anthony McCarten",
+  "actors": [
+    "Rami Malek",
+    "Lucy Boynton",
+    "Joseph Mazzello"
+  ],
+  "storyline": "A chronicle of the years leading up to Queen's legendary appearance at the Live Aid (1985) concert."
+}
