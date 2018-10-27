@@ -1,0 +1,22 @@
+{
+    "name": "12 Angry Men",
+    "year": 1957,
+    "runtime": 96,
+    "categories": [
+        "drama",
+        "crime"
+    ],
+    "release-date": "1957-04-10",
+    "director": "Sidney Lumet",
+    "writer": [
+        "Reginald Rose"
+    ],
+    "actors": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Ed Begley",
+            "E. G. Marshall",
+            "Jack Warden"
+    ],
+    "storyline": "A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court."
+}
