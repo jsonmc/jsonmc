@@ -26,6 +26,8 @@ Year | Movie released year
 Runtime | Runtime in mins
 Storyline | Brief description of the movie
 
+movie name - Harry potter
+
 
 #### Example movie file
 
