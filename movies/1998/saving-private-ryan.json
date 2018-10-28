@@ -1,0 +1,20 @@
+{
+  "name": "Saving Private Ryan",
+  "year": 1998,
+  "runtime": 129,
+  "categories": [
+    "drama",
+    "war"
+  ],
+  "release-date": "1998-07-24",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Robert Rodat"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Matt Damon",
+    "Tom Sizemore"
+  ],
+  "storyline": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+}
