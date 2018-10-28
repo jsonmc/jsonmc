@@ -1,0 +1,21 @@
+{
+  "name": "Speed",
+  "year": 1994,
+  "runtime": 116,
+  "release-date": "1994-06-10",
+  "director": "Jan de Bont",
+  "writer": "Graham Yost",
+  "actors": [
+    "Keanu Reeves",
+    "Sandra Bullock",
+    "Dennis Hopper",
+    "Jeff Daniels",
+    "Alan Ruck"
+  ],
+  "categories": [
+    "action",
+    "adventure",
+    "crime"
+  ],
+  "storyline": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph."
+}
