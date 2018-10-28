@@ -1,14 +1,20 @@
 {
-  "name": "jsonmc",
-  "description": "JSON Movie Collection",
-  "author": "Sergio Moura <sergio@moura.us>",
-  "version": "0.0.1",
-  "repository": "https://github.com/jsonmc/jsonmc.git",
-  "license": "MIT",
-  "devDependencies": {
-    "jshint": "^2.9.3"
-  },
-  "scripts": {
-    "test": "node tests/tests.js && ./node_modules/jshint/bin/jshint -e json movies/*/*.json actors/*.json"
-  }
+  "name": "stree",
+  "year": 2018,
+  "runtime": 129,
+  "categories": [
+    "social”
+  ],
+  "release-date": "2018-08-30",
+  "director": "Amar Kaushik",
+  "writer": [
+    "Sumit  Aroraa"
+  ],
+  "actors": [
+    "Rajkumar Rao",
+    "Shraddha Kapoor"
+  ],
+  "storyline": "It is based on the india urban legend NALe ba , about a sprit who Knocks on people’s doors at night."
 }
+
+
