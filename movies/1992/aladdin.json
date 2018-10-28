@@ -1,0 +1,26 @@
+{
+  "name": "Aladdin",
+  "year": 1992,
+  "runtime": 91,
+  "categories": [
+    "animated",
+    "musical",
+    "fantasy"
+  ],
+  "release-date": "1992-11-08",
+  "director": [
+    "Ron Clements",
+    "John Musker"
+  ],
+  "writer": [
+    "Chris Sanders",
+    "Terry Rossio",
+    "Ted Elliott"
+  ],
+  "actors": [
+    "Robin Williams",
+    "Linda Larkin",
+    "Scott Weinger"
+  ],
+  "storyline": "Aladdin, an urchin, falls in love with Princess Jasmine, but cannot marry her as he is not a prince. He finds a magic lamp that turns him into a prince, but first, he must face the evil Jafar."
+}
