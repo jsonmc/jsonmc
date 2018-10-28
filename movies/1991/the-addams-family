@@ -1,0 +1,21 @@
+{
+  "name": "The Addams Family",
+  "year": 1991,
+  "runtime": 99,
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "release-date": "1991-12-13",
+  "director": "Barry Sonnenfeld",
+  "writer": [
+    " Charles Addams",
+    "Caroline Thompson"
+  ],
+  "actors": [
+    "Anjelica Huston",
+    "Raul Julia",
+    "Christopher Lloyd" 
+  ],
+  "storyline": "Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle."
+}
