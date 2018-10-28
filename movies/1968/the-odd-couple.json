@@ -1,0 +1,20 @@
+{
+  "name": "The Odd Couple",
+  "year": 1968,
+  "runtime": 105,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "1968-05-02",
+  "director": "Gene Saks",
+  "writer": [
+    "Neil Simon"
+  ],
+  "actors": [
+    "Jack Lemmon",
+    "Walter Matthau",
+    "John Fiedler",
+    "Herb Edelman"
+  ],
+  "storyline": "Two friends try sharing an apartment, but their ideas of housekeeping and lifestyles are as different as night and day."
+}

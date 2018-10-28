@@ -1,0 +1,21 @@
+{
+  "name": "2001: A Space Odyssey",
+  "year": 1968,
+  "runtime": 161,
+  "categories": [
+    "sci-fi",
+    "adventure"
+  ],
+  "release-date": "1968-04-02",
+  "director": "Stanley Kubrick",
+  "writer": [
+    "Stanley Kubrick",
+    "Arthur C. Clarke"
+  ],
+  "actors": [
+    "Keir Dullea",
+    "Gary Lockwood",
+    "William Sylvester"
+  ],
+  "storyline": "A space-opera spanning the dawn of man to humanity reaching the stars, 2001: A Space Odyssey tells the story of the Black Monolith, humanity's evolution and the rise of A.I.'s ultimate supercomputer HAL 9000."
+}
