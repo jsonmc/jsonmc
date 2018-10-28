@@ -3,7 +3,7 @@
   "description": "JSON Movie Collection",
   "author": "Sergio Moura <sergio@moura.us>",
   "version": "0.0.1",
-  "repository": "https://github.com/jsonmc/jsonmc.git",
+  "repository": "https://github.com/Khushi55",
   "license": "MIT",
   "devDependencies": {
     "jshint": "^2.9.3"
