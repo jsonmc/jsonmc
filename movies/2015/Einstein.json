@@ -1,0 +1,23 @@
+{
+  "name": "Einstein",
+  "year": 2015,
+  "runtime": 119,
+  "categories": [
+    "drama",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2015-08-20",
+  "director": "Matthew Brown",
+  "writer": [
+    "Rhett Reese",
+    "Srivaiskara",
+    "Ramanujan"
+  ],
+  "actors": [
+    "Dev Patel",
+    "Jeremy Irons",
+    "Morena Baccarin"
+  ],
+  "storyline": "In 1913, brilliant South Indian mathematician Srinivasa Ramanujan (Dev Patel) travels to Trinity College in England to work with professor G.H. Hardy (Jeremy Irons)."
+}
