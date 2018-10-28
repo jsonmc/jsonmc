@@ -1,0 +1,24 @@
+{
+  "name": "Inferno",
+  "year": 2016,
+  "runtime": 121,
+  "release-date": "2016-10-28",
+  "director": "Ron Howard",
+  "writer": [
+    "Dan Brown",
+    "David Koepp"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Felicity Jones",
+    "Omar Sy",
+    "Ben Foster",
+    "Irrfan Khan"
+  ],
+  "categories": [
+    "action",
+    "adventure",
+    "crime"
+  ],
+  "storyline": "When Robert Langdon wakes up in an Italian hospital with amnesia, he teams up with Dr. Sienna Brooks, and together they must race across Europe against the clock to foil a deadly global plot."
+}
