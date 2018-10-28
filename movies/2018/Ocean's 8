@@ -1,0 +1,27 @@
+{
+  "name": "Ocean's 8",
+  "year": 2018,
+  "runtime": 110,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "release-date": "2018-06-5
+  "director": "	Gary Ross",
+  "writer": [
+    "Rhett Reese",
+    "Paul Wernick",
+    "Ryan Reynolds"
+  ],
+  "actors": [
+      "andra Bullock",
+      "ate Blanchett",
+      "Anne Hathaway",
+      "Mindy Kaling",
+      "Sarah Paulson",
+      "Awkwafina",
+      "Rihanna",
+      "Helena Bonham Carter"
+  ],
+  "storyline": " The film follows a group of women led by Debbie Ocean, the sister of Danny Ocean, who plan a sophisticated heist of the annual Met Gala in New York City."
+}
