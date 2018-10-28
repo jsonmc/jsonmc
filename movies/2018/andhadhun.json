@@ -1,0 +1,23 @@
+{
+  "name": "Andhadhun",
+  "year": 2018,
+  "runtime": 150,
+  "categories": [
+    "comedy",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2018-10-08",
+  "director": "Sriram Raghavan",
+  "writer": [
+    "Arijit Biswas",
+    "Yogesh Chandekar",
+    "Hemanth Rao"
+  ],
+  "actors": [
+    "Ayushmann Khurrana",
+    "Tabu",
+    "Radhika Apte"
+  ],
+  "storyline": "A series of mysterious events take place in the life of a blind pianist (Ayushmann Khurrana). Now, he must report a crime that he never actually witnessed."
+}
