@@ -1,0 +1,32 @@
+{
+  "name": "The Aristocats",
+  "year": 1970,
+  "runtime": 78,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "1970-12-11",
+  "director": "Wolfgang Reitherman",
+  "writer": [
+    "Ken Anderson",
+    "Larry Clemmons",
+    "Eric Cleworth",
+    "Vance Garry",
+    "Julius Svendsen",
+    "Frank Thomas",
+    "Ralph Wright"
+  ],
+  "actors": [
+    "Phil Harris",
+    "Eva Gabor",
+    "Hermione Baddeley",
+    "Gary Dubin",
+    "Dean Clark",
+    "Sterling Holloway",
+    "Roddy Maude-Roxby",
+    "Liz English"
+  ],
+  "storyline": "With the help of a smooth talking tomcat, a family of Parisian felines set to inherit a fortune from their owner try to make it back home after a jealous butler kidnaps them and leaves them in the country."
+}
