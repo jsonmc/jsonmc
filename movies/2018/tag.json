@@ -1,0 +1,27 @@
+{
+    "name": "Tag",
+    "year": 2018,
+    "runtime": 101,
+    "categories": [
+      "comedy"
+    ],
+    "release-date": "2018-06-15",
+    "director": "Jeff Tomsic",
+    "writer": [
+      "Rob McKittrick",
+      "Mark Steilen"
+    ],
+    "actors": [     	
+      "Ed Helms",
+      "Jake Johnson",
+      "Annabelle Wallis",
+      "Hannibal Buress",
+      "Isla Fisher",
+      "Rashida Jones",
+      "Leslie Bibb",
+      "Jon Hamm",
+      "Jeremy Renner"
+    ],
+    "storyline": "A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country."
+  }
+  
