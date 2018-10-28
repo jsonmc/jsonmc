@@ -1,0 +1,23 @@
+{
+  "name": "Ice Station Zebra",
+  "year": 1968,
+  "runtime": 148,
+  "categories": [
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "1968-10-23",
+  "director": "John Sturges",
+  "writer": [
+    "Douglas Heyes",
+    "Harry Julian Fink",
+    "W. R. Burnett"
+  ],
+  "actors": [
+    "Rock Hudson",
+    "Ernest Borgnine",
+    "Patrick McGoohan",
+    "Jim Brown"
+  ],
+  "storyline": "USN nuclear sub USS Tigerfish must rush to the North Pole to rescue the staff of Drift Ice Station Zebra weather station."
+}
