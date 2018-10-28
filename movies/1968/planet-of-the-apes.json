@@ -1,0 +1,25 @@
+{
+  "name": "Planet of the Apes",
+  "year": 1968,
+  "runtime": 112,
+  "categories": [
+    "sci-fi",
+    "adventure"
+  ],
+  "release-date": "1968-04-03",
+  "director": "Franklin J. Schaffner",
+  "writer": [
+    "Michael Wilson",
+    "Rod Sterling"
+  ],
+  "actors": [
+    "Charlton Heston",
+    "Roddy McDowall",
+    "Maurice Evans",
+    "Kim Hunter",
+    "James Whitmore",
+    "James Daly",
+    "Linda Harrison"
+  ],
+  "storyline": "An astronaut crew crash-lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved."
+}

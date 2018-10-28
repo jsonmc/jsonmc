@@ -1,0 +1,25 @@
+{
+  "name": "MASH",
+  "year": 1970,
+  "runtime": 116,
+  "categories": [
+    "comedy",
+    "drama",
+    "war"
+  ],
+  "release-date": "1970-01-25",
+  "director": "Robert Altman",
+  "writer": [
+    "Ring Lardner Jr."
+  ],
+  "actors": [
+    "Donald Sutherland",
+    "Elliott Gould",
+    "Tom Skerritt",
+    "Sally Kellerman",
+    "Robert Duvall",
+    "Roger Bowen",
+    "René Auberjonois"
+  ],
+  "storyline": "The staff of a Korean War field hospital use humor and high jinks to keep their sanity in the face of the horror of war."
+}
