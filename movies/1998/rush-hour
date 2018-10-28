@@ -1,0 +1,22 @@
+{
+  "name": "Rush Hour",
+  "year": 1998,
+  "runtime": 98,
+  "categories": [
+     "action", 
+     "comedy", 
+     "crime" 
+  ],
+  "release-date": "1998-12-04",
+  "director": "Brett Ratner",
+  "writer": [
+    " Ross LaManna",
+    "Jim Kouf"
+  ],
+  "actors": [
+    "Jackie Chan", 
+    "Chris Tucker", 
+    "Ken Leung "
+  ],
+  "storyline": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way."
+}
