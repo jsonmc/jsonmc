@@ -1,0 +1,25 @@
+{
+  "name": "The Rock",
+  "year": 1996,
+  "runtime": 136,
+  "release-date": "1996-06-07",
+  "director": "Michael Bay",
+  "writer": [
+    "David Weisberg",
+    "Douglas Cook",
+    "Mark Rosner"
+  ],
+  "actors": [
+    "Sean Connery",
+    "Nicolas Cage",
+    "Ed Harris",
+    "David Morse",
+    "John Spencer"
+  ],
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "storyline": "A mild-mannered chemist and an ex-con must lead the counterstrike when a rogue group of military men, led by a renegade general, threaten a nerve gas attack from Alcatraz against San Francisco."
+}
