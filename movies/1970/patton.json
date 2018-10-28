@@ -1,0 +1,21 @@
+{
+  "name": "Patton",
+  "year": 1970,
+  "runtime": 170,
+  "categories": [
+    "biography",
+    "drama",
+    "war"
+  ],
+  "release-date": "1970-04-02",
+  "director": "Franklin J. Schaffner",
+  "writer": [
+    "Francis Ford Coppola",
+    "Edmund H. North"
+  ],
+  "actors": [
+    "George C. Scott",
+    "Karl Malden"
+  ],
+  "storyline": "The World War II phase of the career of the controversial American general, George S. Patton."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Love Story",
+  "year": 1970,
+  "runtime": 100,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "1970-12-16",
+  "director": "Arthur Hiller",
+  "writer": [
+    "Erich Segal"
+  ],
+  "actors": [
+    "Ali MacGraw",
+    "Ryan O'Neal"
+  ],
+  "storyline": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Airport",
+  "year": 1970,
+  "runtime": 137,
+  "categories": [
+    "action",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "1970-03-05",
+  "director": "George Seaton",
+  "writer": [
+    "George Seaton"
+  ],
+  "actors": [
+    "Burt Lancaster",
+    "Dean Martin",
+    "Jean Seberg",
+    "Jacqueline Bisset",
+    "George Kennedy",
+    "Helen Hayes",
+    "Van Heflin"
+  ],
+  "storyline": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved."
+}

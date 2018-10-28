@@ -1,0 +1,21 @@
+{
+  "name": "Woodstock",
+  "year": 1970,
+  "runtime": 185,
+  "categories": [
+    "documentary",
+    "history",
+    "music"
+  ],
+  "release-date": "1970-03-26",
+  "director": "Michael Wadleigh",
+  "writer": [
+    "Martin Scorsese"
+  ],
+  "actors": [
+    "Joan Baez",
+    "Richie Havens",
+    "Roger Daltrey"
+  ],
+  "storyline": "The film chronicle of the legendary 1969 music festival."
+}
