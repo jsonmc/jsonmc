@@ -1,0 +1,30 @@
+{
+  "name": "My Fair Lady",
+  "year": 1964,
+  "runtime": 170,
+  "categories": [
+    "drama",
+    "family",
+    "musical"
+  ],
+  "release-date": "1964-12-25",
+  "director": "George Cukor",
+  "writer": [
+    "Alan Jay Lerner",
+    "George Bernard Shaw",
+    "Alan Jay Lerner"
+  ],
+  "actors": [
+    "Audrey Hepburn",
+    "Rex Harrison",
+    "Stanley Holloway",
+    "Wilfrid Hyde-White",
+    "Gladys Cooper",
+    "Theodore Bikel",
+    "Jeremy Brett",
+    "Mona Washbourne",
+    "Isobel Elsom",
+    "John Holland"
+  ],
+  "storyline": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society."
+}
