@@ -21,7 +21,7 @@ Release date | YYYY-MM-DD release date
 Categories | Action, adventure, comedy, animation, family, fantasy, sci-fi
 Director | Directors of the movie
 Writers | Screenplay and story writers
-Actors | Main casts of the movie
+Actors | Main artist of the movie
 Year | Movie released year
 Runtime | Runtime in mins
 Storyline | Brief description of the movie
