@@ -1,0 +1,22 @@
+{
+  "name": "Coco",
+  "year": 2017,
+  "runtime": 105,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2017-11-22",
+  "director": "Lee Unkrich",
+  "writer": [
+    "Lee Unkrich",
+    "Jason Katz"
+  ],
+  "actors": [
+    "Anthony Gonzalez",
+    "Gael García Bernal",
+    "Benjamin Bratt"
+  ],
+  "storyline": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+}
