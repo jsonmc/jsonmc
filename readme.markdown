@@ -38,6 +38,7 @@ Storyline | Brief description of the movie
     "adventure",
     "thriller",
     "sci-fi"
+    "action"
   ],
   "release-date": "1993-06-11",
   "director": "Steven Spielberg",
