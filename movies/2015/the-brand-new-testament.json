@@ -1,1 +1,23 @@
-
+{
+	  "name": "The Brand New Testament",
+	  "year": 2015,
+	  "runtime": 114,
+	  "categories": [
+	    "fantasy",
+	    "dark-comedy"
+	  ],
+	  "release-date": "2015-09-01",
+	  "director": "Jaco Van Dormael",
+	  "writer": [
+	    "Jaco Van Dormael",
+	    "Thomas Gunzig"
+	  ],
+	  "actors": [
+	    "Benoît Poelvoorde",
+	    "Catherine Deneuve",
+	    "François Damiens",
+	    "Yolande Moreau",
+      "Pili Groyne"
+	  ],
+	  "storyline": "The new adventures of God, who lives in Brussels with his teenage daughter and falls foul of her hacking skills."
+	}
