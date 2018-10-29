@@ -1,0 +1,29 @@
+{
+  "name": "Frozen",
+  "year": 2013,
+  "runtime": 102,
+  "categories": [
+    "adventure",
+    "comedy",
+    "animation"
+  ],
+  "release-date": "2013-11-27",
+  "director": [
+    "Chris Buck",
+    "Jennifer Lee"
+  ],
+  "writer": [
+    "Jennifer Lee",
+    "Hans Christian Andersen",
+    "Chris Buck",
+    "Shane Morris"
+  ],
+  "actors": [
+    "Kristen Bell",
+    "Idina Menzel",
+    "Jonathan Groff",
+    "Josh Gad",
+    "Santino Fontana"
+  ],
+  "storyline": "When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition."
+}
