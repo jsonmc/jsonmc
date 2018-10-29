@@ -1,0 +1,30 @@
+{
+  "name": "The Road to El Dorado",
+  "year": 2000,
+  "runtime": 89,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2000-03-31",
+  "director": [
+	"Bibo Bergeron",
+	"Don Paul",
+	"Jeffrey Katzenberg"
+  ],
+  "writer": [
+    "Terry Rossio",
+    "Ted Elliott",
+    "Karey Kirkpatrick"
+  ],
+  "actors": [
+    "Kevin Kline",
+    "Kenneth Branagh",
+    "Rosie Perez",
+	"Armand Assante",
+	"Edward James Olmos",
+	"Jim Cummings"
+  ],
+  "storyline": "Two swindlers get their hands on a map to the fabled city of gold, El Dorado."
+}
