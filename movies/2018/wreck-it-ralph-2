@@ -1,0 +1,27 @@
+{
+  "name": "Ralph Breaks the Internet",
+  "year": 2018,
+  "runtime": 112,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2018-11-21",
+  "director": "Phil Johnston",
+  "writer": [
+    "Phil Johnston",
+    "Rich Moore",
+    "Jim Reardon",
+    "Pamela Ribon"
+  ],
+  "actors": [
+    "Gal Gadot",
+    "Kristen Bell",
+    "Mandy Moore",
+    "Sarah Silverman",
+    "Kelly Macdonald",
+    "John C. Reilly"
+  ],
+  "storyline": "Six years after the events of 'Wreck-It Ralph', Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure."
+}
