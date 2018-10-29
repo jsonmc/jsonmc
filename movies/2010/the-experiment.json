@@ -1,0 +1,21 @@
+{
+  "name": "The Experiment",
+  "year": 2010,
+  "runtime": 96,
+  "categories": [
+    "mystery",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2010-09-21",
+  "director": "Paul T. Scheuring",
+  "writer": [
+    "Paul T. Scheuring"
+  ],
+  "actors": [
+    "Adrien Brody",
+    "Forest Whitaker",
+    "Cam Gigandet"
+  ],
+  "description": "26 men are chosen to participate in the roles of guards and prisoners in a psychological study that ultimately spirals out of control."
+}
