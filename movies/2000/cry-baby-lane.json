@@ -1,0 +1,22 @@
+{
+  "name": "Cry Baby Lane",
+  "year": 2000,
+  "runtime": 96,
+  "categories": [
+    "comedy",
+    "drama",
+    "family"
+  ],
+  "release-date": "2000-10-28",
+  "director": "Peter Lauer",
+  "writer": [
+    "Peter Lauer",
+    "Robert Mittenthal"
+  ],
+  "actors": [
+    "Jase Blankfort",
+    "Trey Rogers",
+    "Frank Langella"
+  ],
+  "storyline": "A youngster must save his brother from the evil spirit they accidentally unleashed on their small town."
+}
