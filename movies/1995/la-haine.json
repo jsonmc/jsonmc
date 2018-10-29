@@ -1,0 +1,20 @@
+{
+  "name": "La Haine",
+  "year": 1995,
+  "runtime": 98,
+  "categories": [
+    "crime",
+    "drama"
+  ],
+  "release-date": "1995-02-23",
+  "director": "Mathieu Kassovitz",
+  "writer": [
+    "Mathieu Kassovitz"
+  ],
+  "actors": [
+    "Vincent Cassel",
+    "Hubert Koundé",
+    "Saïd Taghmaoui"
+  ],
+  "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot."
+}
