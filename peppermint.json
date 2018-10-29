@@ -1,0 +1,21 @@
+{
+  "name": "Peppermint",
+  "year": 2018,
+  "runtime": 101,
+  "categories": [
+     "action",
+     "drama",
+     "thriller"
+  ],
+  "release-date": "2018-09-07",
+  "director": "Pierre Morel",
+  "writer": [
+    "Chad St John"
+  ],
+  "actors": [
+     "Jennifer Garner",
+     "John Gallagher Jr",
+     "John Ortiz"
+  ],
+  "storyline": "Five years after her husband and daughter are killed in a senseless act of violence, a woman comes back from self-imposed exile to seek revenge against those responsible and the system that let them go free."
+}
