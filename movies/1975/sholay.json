@@ -1,0 +1,19 @@
+{
+  "name": "Jurassic Park",
+  "year": 1975,
+  "runtime": 160,
+  "categories": [
+    "adventure",
+    "thriller",
+  ],
+  "release-date": "1975-06-15",
+  "director": "Ramesh Sippy",
+  "writer": [
+    "Javed Akthar",
+  ],
+  "actors": [
+    "Amitabh Bachhan",
+
+  ],
+  "storyline": "They fight dinos and hunt evil planet for vengenance.."
+}
