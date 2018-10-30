@@ -1,0 +1,18 @@
+{
+  "name": "Titanic",
+  "year": 1997,
+  "runtime": 195,
+  "categories": [
+    "drama",
+    "romantic",
+    "tragedy"
+  ],
+  "release-date": "1993-12-19",
+  "director": "James Cameron",
+  "writer":"James Cameron",
+  "actors": [
+    "Leonardo DiCaprio",
+    "Kate Winslet"
+  ],
+  "storyline": "itanic is a 1997 American epic romance and disaster film directed, written, co-produced and co-edited by James Cameron. A fictionalized account of the sinking of the RMS Titanic, it stars Leonardo DiCaprio and Kate Winslet as members of different social classes who fall in love aboard the ship during its ill-fated maiden voyage."
+}
