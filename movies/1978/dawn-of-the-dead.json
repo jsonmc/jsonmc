@@ -1,0 +1,20 @@
+{
+  "name": "Dawn of the Dead",
+  "year": 1978,
+  "runtime": 127,
+  "categories": [
+    "horror",
+    "thriller"
+  ],
+  "release-date": "1978-9-1",
+  "director": "George A. Romero",
+  "writer": [
+    "George A. Romero"
+  ],
+  "actors": [
+    "David Emge",
+    "Ken Foree",
+    "Scott H. Reiniger"
+  ],
+  "storyline": "Following an ever-growing epidemix of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffice reporter, and his television executive girlfriend seek refuge in a secluded shopping mall."
+}
