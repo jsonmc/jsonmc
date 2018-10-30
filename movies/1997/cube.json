@@ -1,0 +1,23 @@
+{
+    "name": "Cube",
+    "year": 1997,
+    "runtime": 90,
+    "categories": [
+        "drama",
+        "mystery",
+        "sci-fi"
+    ],
+    "release-date": "1997-09-19",
+    "director": "Vincenzo Natali",
+    "writer": [
+        "André Bijelic",
+        "Graeme Manson",
+        "Vincenzo Natali"
+    ],
+    "actors": [
+        "Nicole de Boer",
+        "Maurice Dean Wint",
+        "David Hewlett"
+    ],
+    "storyline": "6 complete strangers of widely varying personality characteristics are involuntarily placed in an endless maze containing deadly traps."
+}
