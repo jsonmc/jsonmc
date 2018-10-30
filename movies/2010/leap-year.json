@@ -1,0 +1,21 @@
+{
+  "name": "Leap Year",
+  "year": 2010,
+  "runtime": 100,
+  "categories": [
+    "Comedy",
+    "Romance"
+  ],
+  "release-date": "2010-01-08",
+  "director": "Anand Tucker",
+  "writer": [ 
+  "Deborah Kaplan",
+  "Harry Elfont"
+  ],
+  "actors": [
+    "Amy Adams",
+    "Matthew Goode",
+    "Adam Scott"
+  ],
+  "description": "Anna Brady plans to travel to Dublin, Ireland to propose marriage to her boyfriend Jeremy on Leap Day, because, according to Irish tradition, a man who receives a marriage proposal on a leap day must accept it."
+}
