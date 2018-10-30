@@ -2,11 +2,12 @@
   "name": "A Star is Born",
   "year": 1937,
   "runtime": 111,
-  "categories": [
-    "drama"
-  ],
+  "categories": "drama",
   "release-date": "1937-04-27",
-  "director": "William A. Wellman, Jack Conway",
+  "director": [
+    "William A. Wellman",
+    "Jack Conway"
+  ],
   "writer": [
     "Dorothy Parker",
     "Alan Campbell",
