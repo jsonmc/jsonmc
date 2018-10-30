@@ -1,0 +1,25 @@
+{
+    "name": "Hook",
+    "year": 1991,
+    "runtime": 142,
+    "categories": [
+      "adventure",
+      "comedy",
+      "family"
+    ],
+    "release-date": "1991-12-11",
+    "director": "Steven Spielberg",
+    "writer": [
+      "J.M. Barrie",
+      "James V. Hart",
+      "Nick Castle",
+    ],
+    "actors": [
+      "Dustin Hoffman",
+      "Robin Williams",
+      "Julia Roberts",
+      "Bob Hoskins",
+      "Maggie Smith"
+    ],
+    "storyline": "When Captain Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy."
+  }
