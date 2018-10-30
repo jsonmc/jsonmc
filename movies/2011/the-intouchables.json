@@ -1,0 +1,26 @@
+{
+  "name": "The Intouchables",
+  "year": 2011,
+  "runtime": 112,
+  "categories": [
+    "comedy",
+	"drama"
+  ],
+  "release-date": "2011-11-02",
+  "director": [
+	"Eric Toledano",
+	"Olivier Nakache"
+	],
+  "writer": [
+    "Olivier Nakache",
+    "Phillipe Pozzo di Borgo",
+	"Eric Toledano"
+  ],
+  "actors": [
+    "Francois Cluzet",
+    "Omar Sy",
+    "Anne Le Ny",
+	"Audrey Fleurot"
+  ],
+  "storyline": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+}
