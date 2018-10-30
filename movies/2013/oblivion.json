@@ -1,0 +1,22 @@
+{
+    "name": "Oblivion",
+    "year": 2013,
+    "runtime": 124,
+    "categories": [
+        "action",
+        "adventure",
+        "mystery"
+    ],
+    "release-date": "2013-03-26",
+    "director": "Joseph Kosinski",
+    "writer": [
+        "Karl Gajdusek",
+        "Michael deBruyn"
+    ],
+    "actors": [
+        "Tom Cruise",
+        "Morgan Freeman",
+        "Olga Kurylenko"
+    ],
+    "storyline": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself."
+}
