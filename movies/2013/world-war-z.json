@@ -1,0 +1,24 @@
+{
+    "name": "World War Z",
+    "year": 2013,
+    "runtime": 116,
+    "categories": [
+        "adventure",
+        "action",
+        "horror"
+    ],
+    "release-date": "2013-06-02",
+    "director": "Marc Foster",
+    "writer": [
+        "Matthew Michael Carnahan",
+        "Drew Goddard",
+        "Damon Lindelof"
+    ],
+    "actors": [
+        "Brad Pitt",
+        "Mireille Enos",
+        "James Badge Dale",
+        "Matthew Fox"
+    ],
+    "storyline": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself."
+}
