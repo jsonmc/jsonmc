@@ -1,0 +1,32 @@
+{
+  "name": "A Star is Born",
+  "year": 1937,
+  "runtime": 111,
+  "categories": "drama",
+  "release-date": "1937-04-27",
+  "director": [
+    "William A. Wellman",
+    "Jack Conway"
+  ],
+  "writer": [
+    "Dorothy Parker",
+    "Alan Campbell",
+    "Robert Carson",
+    "William A. Wellman"
+  ],
+  "actors": [
+    "Janet Gaynor",
+    "Fredric March",
+    "Adolphe Menjou",
+    "May Robson",
+    "Andy Devine",
+    "Lionel Stander",
+    "Owen Moore",
+    "Peggy Wood",
+    "Elizabeth Jenns",
+    "Edgar Kennedy",
+    "J.C. Nugent",
+    "Guinn 'Big Boy' Williams"
+  ],
+  "storyline": "A young woman comes to Hollywood with dreams of stardom, but achieves them only with the help of an alcoholic leading man whose best days are behind him."
+}
