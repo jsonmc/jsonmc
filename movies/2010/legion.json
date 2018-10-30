@@ -1,0 +1,25 @@
+{
+  "name": "Legion",
+  "year": 2010,
+  "runtime": 100,
+  "categories": [
+    "action",
+    "fantasy",
+    "horror"
+  ],
+  "release-date": "2010-01-22",
+  "director": "Scott Stewart",
+  "writer": [
+    "Peter Schink",
+    "Scott Stewart"
+  ],
+  "actors": [
+    "Paul Bettany",
+    "Dennis Quaid",
+    "Charles S. Dutton",
+    "Tyrese Gibson",
+    "Lucas Black",
+    "Adrianne Palicki"
+  ],
+  "storyline": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last hope."
+}
