@@ -1,0 +1,25 @@
+{
+  "name": "9",
+  "year": 2009,
+  "runtime": 79,
+  "categories": [
+    "adventure",
+    "animation",
+    "fantasy",
+    "sci-fi"
+  ],
+  "release-date": "2009-09-09",
+  "director": "Shane Acker",
+  "writer": [
+    "Pamela Pettler"
+  ],
+  "actors": [
+    "Elijah Wood",
+    "John C. Reilly",
+    "Jennifer Connelly",
+	"Christopher Plummer",
+	"Crispin Glover",
+	"Martin Landau",
+	"Fred Tatasciore"
+  ]
+ }
