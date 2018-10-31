@@ -1,0 +1,18 @@
+{
+  "name": "The Shining",
+  "year": 1980,
+  "runtime": 146,
+  "categories": [
+    "drama",
+    "horror
+  ],
+  "release-date": "1980-06-13",
+  "director": "Stanley Kubrick",
+  "writer": "Stephen King",
+  "actors": [
+    "Jack Nicholson",
+    "Shelley Duvall",
+    "Danny Lloyd",
+    "Scatman Crothers"
+  ]
+}
