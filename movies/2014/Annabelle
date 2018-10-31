@@ -1,0 +1,21 @@
+{
+  "name": "Annabelle",
+  "year": 2014,
+  "runtime": 99,
+  "categories": [
+    "Mystery",
+    "Horror",
+    "thriller"
+  ],
+  "release-date": "2014-10-03",
+  "director": "John R. Leonetti",
+  "writer": [
+    "Gary Dauberman"
+  ],
+  "actors": [
+  "Ward Horton", 
+  "Annabelle Wallis", 
+  "Alfre Woodard" 
+  ],
+  "storyline": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists."
+}
