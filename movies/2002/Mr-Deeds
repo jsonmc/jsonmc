@@ -1,0 +1,20 @@
+{
+  "name": "Mr. Deeds",
+  "year": 2002,
+  "runtime": 96,
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "release-date": "2002-06-28",
+  "director": "Steven Brill",
+  "writer": [
+    "David Koepp",
+    "Scott RosenBerg"
+  ],
+  "actors": [
+     "Clarence Budington Kelland",
+     "Robert Riskin"
+  ],
+  "storyline": "A sweet-natured, small-town guy inherits a controlling stake in a media conglomerate and begins to do business his way."
+}
