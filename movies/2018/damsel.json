@@ -1,0 +1,26 @@
+{
+  "name": "Damsel",
+  "year": 2018,
+  "runtime": 112,
+  "categories": [
+    "drama",
+    "comedy",
+    "western"
+  ],
+  "release-date": "2018-01-22",
+  "director": [
+    "David Zellner",
+    "Nathan Zellner"
+  ],
+  "writer": [
+    "David Zellner",
+    "Nathan Zellner"
+  ],
+  "actors": [
+    "Robert Pattinson",
+    "Bradley Cooper",
+    "Mia Wasikowska",
+    "David Zellner"
+  ],
+  "storyline": "It's the Wild West, circa 1870. Samuel Alabaster, an affluent pioneer, ventures across the American frontier to marry the love of his life, Penelope. As his group traverses the west, the once-simple journey grows treacherous, blurring the lines between hero, villain and damsel."
+}
