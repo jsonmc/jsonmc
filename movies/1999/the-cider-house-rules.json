@@ -1,0 +1,23 @@
+
+{
+  "name": "The Cider House Rules",
+  "year": 1999,
+  "runtime": 130,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "1999-12-10",
+  "director": "Lasse Hallström",
+  "writer": [
+    "John Irving"
+   ],
+  "actors": [
+    "Tobey Maguire",
+    "Charlize Theron",
+    "Paul Rudd",
+    "Delroy Lindo",
+    "Michael Caine"
+  ],
+  "storyline": "A young man is taught medicine by the doctor at the orphanage where he was brought up. However, when he clashes with his mentor over the issue of abortion, he leaves the home and finds work on a cider farm."
+}
