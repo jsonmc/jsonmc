@@ -1,0 +1,21 @@
+
+{
+  "name": "Siegfried",
+  "year": 2005,
+  "runtime": 89,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "2005-07-28",
+  "director": "Sven Unterwaldt",
+  "writer": [
+    "Tom Gerhardt",
+    "Herman Weigel"
+  ],
+  "actors": [
+    "Tom Gerhardt",
+    "Dorkas Kiefer",
+    "Volker Büdts"
+  ],
+  "storyline": "As a young man, Siegfried, with heroic deeds and witty cunning, ensures that the country can rise again."
+}
