@@ -1,0 +1,24 @@
+{
+  "name": "The NeverEnding Story",
+  "year": 1984,
+  "runtime": 102,
+  "categories": [
+    "adventure",
+    "action",
+    "fantasy"
+  ],
+  "release-date": "1984-07-22",
+  "director": "Wolfgang Petersen",
+  "writer": [
+    "Wolfgang Petersen",
+    "Herman Weigel",
+    "Michael Ende",
+    "Robert Easton"
+  ],
+  "actors": [
+    "Barret Oliver",
+    "Noah Hathaway",
+    "Tami Stronach"
+  ],
+  "storyline": "A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.."
+}
