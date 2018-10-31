@@ -1,0 +1,23 @@
+{
+  "name": "Batman",
+  "year": 1989,
+  "runtime": 126,
+  "categories": [
+    "adventure",
+    "action",
+    "fantasy"
+  ],
+  "release-date": "1989-06-23",
+  "director": "Tim Burton",
+  "writer": [
+    "Bob Kane",
+    "Sam Hamm",
+    "Warren Skaaren"
+  ],
+  "actors": [
+    "Michael Keaton",
+    "Jack Nicholson",
+    "Kim Basinger"
+  ],
+  "storyline": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker."
+}
