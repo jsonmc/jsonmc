@@ -1,0 +1,21 @@
+{
+  "name": "Bohemian Rhapsody",
+  "year": 2018,
+  "runtime": 134,
+  "categories": [
+    "biography",
+    "thriller",
+    "adventure"
+  ],
+  "release-date": "2018-11-02",
+  "director": "Bryan Singer",
+  "writer": [
+    "Anthony McCarten",
+    "Peter Morgan"
+  ],
+  "actors": [
+    "Ramy Malek",
+    "Lucy Brownton"
+  ],
+  "storyline": "A chronicle of the years leading up to Queen's legendary appearance at the Live Aid (1985) concert."
+}
