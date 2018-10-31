@@ -1,0 +1,27 @@
+{
+  "name": "Casablanca",
+  "year": 1942,
+  "runtime": 103,
+  "categories": [
+    "drama",
+    "romance",
+    "war"
+  ],
+  "release-date": "1942-11-26",
+  "director": "Michael Curtiz",
+  "writer": [
+    "Julius J. Epstein",
+    "Philip G. Epstein",
+    "Howard Koch"
+  ],
+  "actors": [
+    "Humphrey Bogart",
+    "Ingrid Bergman",
+    "Paul Henreid",
+    "Claude Rains",
+    "Conrad Veidt",
+    "Sydney Greenstreet",
+    "Peter Lorre"
+  ],
+  "storyline": "A cynical nightclub owner protects an old flame and her husband from Nazis in Morocco."
+}
