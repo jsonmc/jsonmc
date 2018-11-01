@@ -1,0 +1,23 @@
+{
+  "name": "The Conjuring",
+  "year": 2013,
+  "runtime": 112,
+  "categories": [
+    "horror",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2018-07-19",
+  "director": "James Wan",
+  "writer": [
+    "Chad Haye",
+    "Carey W. Hayes"
+  ],
+  "actors": [
+    "Vera Farmigas",
+    "Patrick Wilson",
+    "Lili Taylor",
+    "Ron Livingston"
+  ],
+  "storyline": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+}
