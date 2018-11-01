@@ -1,0 +1,21 @@
+{
+  "name": "The Martian",
+  "year": 2017,
+  "runtime": 151,
+  "categories": [
+    "scifi",
+    "drama",
+    "mystery"
+  ],
+  "release-date": "2017-07-21",
+  "director": "Christopher Nolan",
+  "writer": [
+    "Andy Weir"
+  ],
+  "actors": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Chiwetel Ejiofor"
+  ],
+  "storyline": "The sotry of an astronaut abandoned on Mars after a mission and his fight to survive and make back to Earth alive. "
+}
