@@ -1,0 +1,26 @@
+{
+  "name": "Jurassic World: Fallen Kingdom",
+  "year": 2018,
+  "runtime": 128,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+
+  "release-date": "2018-06-22",
+  "director": "J.A. Bayona",
+  "writer": [
+    "Derek Connolly",
+    "Colin Trevorrow",
+    "Michael Crichton"
+  ],
+
+  "actors": [
+    "Chris Pratt",
+    "Bryce Dallas Howard",
+    "Rafe Spall"
+  ],
+  
+  "storyline": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event."
+}
