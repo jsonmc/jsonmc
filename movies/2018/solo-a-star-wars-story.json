@@ -1,0 +1,24 @@
+{
+  "name": "Solo: A Star Wars Story",
+  "year": 2018,
+  "runtime": 135,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2018-05-24",
+  "director": "Ron Howard",
+  "writer": [
+    "Jonathan Kasdan",
+    "Lawrence Kasdan"
+  ],
+  "actors": [
+    "Alden Ehrenreich",
+    "Joonas Suotamo",
+    "Woody Harrelson",
+    "Emilia Clarke",
+    "Donald Glover"
+  ],
+  "storyline": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion."
+}

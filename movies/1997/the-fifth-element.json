@@ -1,0 +1,33 @@
+{
+  "name": "The Fifth Element",
+  "year": 1997,
+  "runtime": 127,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1997-05-09",
+  "director": "Luc Besson",
+  "writer": [
+    "Luc Besson",
+    "Robert Mark Kamen"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Milla Jovovich",
+    "Gary Oldman",
+    "Chris Tucker",
+    "Ian Holm",
+    "Luke Perry",
+    "Brion James",
+    "Tommy Lister",
+    "Lee Evans",
+    "Charlie Creed-Miles",
+    "John Neville",
+    "John Bluthal",
+    "Mathieu Kassovitz",
+    "Christpher Fairbank"
+  ],
+  "storyline": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay."
+} 

@@ -1,0 +1,22 @@
+{
+  "name": "Armageddon",
+  "year": 1998,
+  "runtime": 151,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1998-07-01",
+  "director": "Michael Bay",
+  "writer": [
+    "Jonathan Hensleigh",
+    "J.J. Abrams"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Ben Affleck",
+    "Owen Wilson"
+  ],
+  "storyline": "After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, N.A.S.A. recruits a misfit team of deep core drillers to save the planet."
+}

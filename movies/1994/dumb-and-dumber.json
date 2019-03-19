@@ -1,0 +1,23 @@
+{
+    "name": "Dumb and Dumber",
+    "year": 1994,
+    "runtime": 107,
+    "categories": [
+      "adventure",
+      "comedy",
+      "romance"
+    ],
+    "release-date": "1994-12-16",
+    "director": "Peter Farrelly",
+    "writer": [
+      "Peter Farrelly",
+      "Bobby Farrelly",
+      "Bennett Yellin"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Jeff Daniels",
+      "Lauren Holly"
+    ],
+    "storyline": "The cross-country adventures of 2 good-hearted but incredibly stupid friends."
+  }

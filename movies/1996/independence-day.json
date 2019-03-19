@@ -1,0 +1,24 @@
+{
+  "name": "Independence Day",
+  "year": 1996,
+  "runtime": 145,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1996-06-25",
+  "director": "Roland Emmerich",
+  "writer": [
+    "Dean Devlin",
+    "Roland Emmerich"
+  ],
+  "actors": [
+    "Will Smith",
+    "Bill Pullman",
+    "Jeff Goldblum",
+    "Mary McDonnell",
+    "Judd Hirsch"
+  ],
+  "storyline": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive."
+}
