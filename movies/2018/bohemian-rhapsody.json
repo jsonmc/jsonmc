@@ -1,0 +1,23 @@
+{
+  "name": "Bohemian Rhapsody",
+  "year": 2018,
+  "runtime": 134,
+  "categories": [
+    "biography",
+    "drama",
+    "music"
+  ],
+  "release-date": "2018-11-02",
+  "future": "true",
+  "director": "Bryan Singer",
+  "writer": [
+    "Anthony McCarten",
+    "Peter Morgan"
+  ],
+  "actors": [
+    "Rami Malek",
+    "Ben Hardy",
+    "Gwilym Lee"
+  ],
+  "storyline": "A chronicle of the years leading up to Queen's legendary appearance at the Live Aid (1985) concert."
+}
