@@ -2,10 +2,17 @@
   "name": "The Greatest Showman",
   "year": 2017,
   "runtime": 105,
-  "categories": ["Biography", "Drama", "Musical"],
+  "categories": [
+    "Biography",
+    "Drama",
+    "Musical"
+  ],
   "release-date": "2017-12-08",
   "director": "Michael Gracey",
-  "writer": ["Jenny Bicks", "Bill Condon"],
+  "writer": [
+    "Jenny Bicks",
+    "Bill Condon"
+  ],
   "actors": [
     "Hugh Jackman",
     "Michelle Williams",

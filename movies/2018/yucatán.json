@@ -1,0 +1,23 @@
+{
+    "name": "Yucatán",
+    "year": 2018,
+    "director": "Daniel Monzón",
+    "writer": [
+      "Jorge Guerricaechevarría",
+      "Daniel Monzón"
+    ],
+    "actors": [
+      "Luis Tosar",
+      "Rodrigo De la Serna",
+      "Joan Pera",
+      "Stephanie Cayo"
+    ],
+    "plot": "Two white collar thieves compete fiercely against the other trying to steal to an old baker the millions he won on the lotto.",
+    "future": false,
+    "runtime": 129,
+    "released": "2018-08-31",
+    "genre": [
+      "adventure",
+      "comedy"
+    ]
+  } 

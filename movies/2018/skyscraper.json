@@ -1,0 +1,26 @@
+{
+    "name": "Skyscraper",
+    "year": 2018,
+    "runtime": 102,
+    "categories": [
+      "horror",
+      "action",
+	  "adventure",
+	  "disaster",
+	  "criminal"
+    ],
+    "release-date": "2018-07-01",
+    "director": [
+	  "Rawson Marshall",
+	  "Thurber"
+	],
+    "writer": [
+	  "Rawson Marshall",
+	  "Thurber"
+    ],
+    "actors": [
+	  "Dwayne Douglas Johnson",
+	  "Neve Adrianne Compbell"
+    ],
+    "storyline":"A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family are trapped inside by criminals. "
+  }

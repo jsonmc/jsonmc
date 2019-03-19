@@ -1,0 +1,27 @@
+{
+  "name": "Tomb Raider",
+  "year": 2018,
+  "runtime": 118,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2018-03-16",
+  "director": "Roar Uthaug",
+  "writer": [
+    "Geneva Robertson-Dworet", 
+	"Evan Daugherty"
+  ],
+  "actors": [
+    "Alicia Vikander",
+    "Dominic West",
+    "Walton Goggins",
+    "Daniel Wu",
+    "Derek Jacobi",
+    "Alexandre Willaume ",
+    "Tamer Burjaq ",
+	"Kristin Scott Thomas"
+  ],
+  "storyline":"Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father disappeared."
+}

@@ -1,26 +1,31 @@
 {
-    "name": "Johnny English Strikes Again",
-    "year": 2018,
-    "runtime": 88,
-    "categories": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "release-date": "2018-09-13",
-    "director": "David Kerr",
-    "writer": [
-      "William Davies"
-    ],
-    "actors": [
-      "Rowan Atkinson",
-      "Olga Kurylenko",
-      "Jake Lacy",
-      "Charles Dance",
-      "Ben Miller",
-      "Miranda Hennessy",
-      "Adam James",
-      "Irena Tyshyna"
-    ],
-    "storyline":"JOHNNY ENGLISH STRIKES AGAIN is the third installment of the Johnny English comedy series, with Rowan Atkinson returning as the much loved accidental secret agent. The new adventure begins when a cyber-attack reveals the identity of all active undercover agents in Britain, leaving Johnny English as the Secret Service's last hope. Called out of retirement, English dives head first into action with the mission to find the mastermind hacker. As a man with few skills and analog methods, Johnny English must overcome the challenges of modern technology to make this mission a success."
-  }
+  "name": "Johnny English Strikes Again",
+  "year": 2018,
+  "runtime": 88,
+  "categories": [
+    "action",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2018-10-26",
+  "director": "David Kerr",
+  "writer": "William Davies",
+  "actors": [
+    "Olga Kurylenko",
+    "Emma Thompson",
+    "Rowan Atkinson",
+    "Jake Lacy",
+    "Charles Dance",
+    "Ben Miller",
+    "Miranda Hennessy",
+    "Adam James",
+    "Irena Tyshyna",
+    "Pippa Bennett-Warner",
+    "Adam Greaves-Neal",
+    "James Eeles",
+    "David Mumeni",
+    "Tuncay Gunes",
+    "Pino Maiello"
+  ],
+  "storyline": "JOHNNY ENGLISH STRIKES AGAIN is the third installment of the Johnny English comedy series, with Rowan Atkinson returning as the much loved accidental secret agent."
+}

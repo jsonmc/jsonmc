@@ -1,0 +1,21 @@
+{
+  "name": "Petta",
+  "year": 2018,
+  "runtime": 120,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "release-date": "2018-12-12",
+  "director": "Karthik Subbaraj",
+  "writer": [
+    "Karthik Subbaraj"
+  ],
+  "actors": [
+    "Rajinikanth",
+    "Vijay Sethupathi",
+    "Trisha"
+  ],
+  "storyline":"Bashaa Returns",
+  "future": "true"
+}

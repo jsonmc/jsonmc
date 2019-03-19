@@ -8,16 +8,17 @@
   "release-date": "1979-11-08",
   "director": "Terry Jones",
   "writer": [
-       "Graham Chapman",
-       "John Cleese",
-       "Eric Idle",
-       "Terry Gilliam",
-       "Terry Jones",
-       "Michael Palin"
+    "Graham Chapman",
+    "John Cleese",
+    "Eric Idle",
+    "Terry Gilliam",
+    "Terry Jones",
+    "Michael Palin"
   ],
   "actors": [
      "Graham Chapman",
      "John Cleese",
      "Michael Palin"
-  ]
+  ],
+  "storyline": "Born on the original Christmas in the stable next door to Jesus, Brian of Nazareth spends his life being mistaken for a messiah."
 }

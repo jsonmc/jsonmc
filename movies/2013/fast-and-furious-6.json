@@ -1,29 +1,29 @@
 {
-    "name": "Fast & Furious 6",
-    "year": 2013,
-    "runtime":130,
-    "categories":[
-        "action",
-        "crime",
-        "thriller"
-    ],
-    "release-date":"2013-05-24",
-    "director":"Justin Lin",
-    "writer":[
-        "Chris Morgan"
-    ],
-    "actors":[
-        "Vin Diesel",
-        "Paul Walker",
-        "Dwayne Johnson",
-        "Michelle Rodriguez",
-        "Jordana Brewster",
-        "Tyrese Gibson",
-        "Chris Ludacris Bridges",
-        "Sung Kang",
-        "Luke Evans",
-        "Gina Carano",
-        "John Ortiz"
-    ],
-    "storyline":"Agent Hobbs cuts a deal with Dominic to clear his crew's all criminal records and in return catch a team of mercenaries. During the journey, Dominic unexpectedly meets his presumed-dead lover Letty who is a part of the group."
+  "name": "Fast & Furious 6",
+  "year": 2013,
+  "runtime": 130,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2013-05-24",
+  "director": "Justin Lin",
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Dwayne Johnson",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "Tyrese Gibson",
+    "Chris Ludacris Bridges",
+    "Sung Kang",
+    "Luke Evans",
+    "Gina Carano",
+    "John Ortiz"
+  ],
+  "storyline": "Agent Hobbs cuts a deal with Dominic to clear his crew's all criminal records and in return catch a team of mercenaries. During the journey, Dominic unexpectedly meets his presumed-dead lover Letty who is a part of the group."
 }
