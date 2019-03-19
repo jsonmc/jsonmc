@@ -1,33 +1,33 @@
 {
-    "name": "Spiderman Homecoming",
-    "year": 2017,
-    "runtime": 133,
-    "categories": [
-      "action",
-      "sci-fi",
-      "comedy",
-      "adventure"
-    ],
-    "release-date": "2017-07-05",
-    "director": "Jon Watts",
-    "writer": [
-      "Jon Watts",
-      "Erik Sommers",
-      "Jonathan M. Goldstein",
-      "Christopher D. Ford",
-      "Chris McKenna",
-      "John Francis Daley"
-    ],
-    "actors": [
-        "Tom Holland",
-        "Michael Keaton",
-        "Robert Downey Jr.",
-        "Marisa Tomei",
-        "Jon Favreau",
-        "Zendaya",
-        "Jacob Batalon",
-        "Laura Harrier",
-        "Donald Glover"
-    ],
-    "storyline":"Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges."
-  }
+  "name": "Spiderman Homecoming",
+  "year": 2017,
+  "runtime": 133,
+  "categories": [
+    "action",
+    "sci-fi",
+    "comedy",
+    "adventure"
+  ],
+  "release-date": "2017-07-05",
+  "director": "Jon Watts",
+  "writer": [
+    "Jon Watts",
+    "Erik Sommers",
+    "Jonathan M. Goldstein",
+    "Christopher D. Ford",
+    "Chris McKenna",
+    "John Francis Daley"
+  ],
+  "actors": [
+    "Tom Holland",
+    "Michael Keaton",
+    "Robert Downey Jr.",
+    "Marisa Tomei",
+    "Jon Favreau",
+    "Zendaya",
+    "Jacob Batalon",
+    "Laura Harrier",
+    "Donald Glover"
+  ],
+  "storyline": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges."
+}

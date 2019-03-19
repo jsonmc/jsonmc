@@ -8,7 +8,10 @@
     "Fantasy"
   ],
   "release-date": "2018-04-27",
-  "director": ["Anthony Russo", "Joe Russo" ],
+  "director": [
+    "Anthony Russo",
+    "Joe Russo"
+  ],
   "writer": [
     "Christopher Markus",
     "Stephen McFeely"
@@ -21,5 +24,5 @@
     "Scarlett Johansson",
     "Benedict Cumberbatch"
   ],
-  "storyline":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+  "storyline": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
 }
