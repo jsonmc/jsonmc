@@ -1,0 +1,20 @@
+{
+    "name": "John Wick",
+    "year": 2014,
+    "runtime": 101,
+    "categories": [
+      "action",
+      "thriller"
+    ],
+    "release-date": "2014-09-19",
+    "director": "Chad Stahelski",
+    "writer": "Derek Kolstad",
+    "actors": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen",
+      "Willem Dafoe",
+      "Ian McShane"
+    ],
+    "storyline": "An ex-hitman comes out of retirement to track down the gangsters that killed his dog and took everything from him."
+  }
