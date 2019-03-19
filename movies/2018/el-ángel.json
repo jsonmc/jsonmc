@@ -1,0 +1,27 @@
+{
+    "name": "El Ángel",
+    "year": 2018,
+    "runtime": 126,
+    "categories": [
+      "drama",
+      "crime"
+    ],
+    "release-date": "2018-11-9",
+    "future": "true",
+    "director": "Luis Ortega",
+    "writer": [
+      "Luis Ortega",
+      "Rodolfo Palacios"
+    ],
+    "actors": [
+      "Chino Darín",
+      "Mercedes Morán",
+      "Melena Villa",
+      "Juan Pedro Lanzani",
+      "Cecilia Roth",
+      "Luis Gnecco",
+      "Daniel Fanego",
+      "Lorenzo Ferro"
+    ],
+    "storyline": "The pretty face of Carlos (a 17-year-old teenager) hides a dark side of robbers, lies and murders."
+  }
