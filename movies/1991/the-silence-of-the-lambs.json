@@ -1,0 +1,26 @@
+{
+  "name": "The Silence of the Lambs",
+  "year": 1991,
+  "runtime": 118,
+  "categories": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "release-date": "1991-02-14",
+  "director": [
+    "Jonathan Demme"
+  ],
+  "writer": [
+    "Ted Tally"
+  ],
+  "actors": [
+    "Jodie Foster",
+    "Anthony Hopkins",
+    "Scott Glenn",
+    "Ted Levine",
+    "Anthony Heald"
+  ],
+  "storyline": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+}
+
