@@ -18,7 +18,7 @@ Make sure to always reference your pull requests with the respective issue by ad
 Movie attribute | Details
 ----------------|--------------
 Release date | YYYY-MM-DD release date
-Categories | Action, adventure, comedy, animation, family, fantasy, sci-fi
+Categories | Action, adventure, comedy, animation, family, fantasy, sci-fi, sport
 Director | Directors of the movie
 Writers | Screenplay and story writers
 Actors | Main casts of the movie
