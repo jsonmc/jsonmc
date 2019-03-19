@@ -1,0 +1,23 @@
+{
+  "name": "Death Becomes Her",
+  "year": 1992,
+  "runtime": 104,
+  "categories": [
+    "comedy",
+    "horror",
+    "fantasy"
+  ],
+  "release-date": "1992-12-04",
+  "director": "Robert Zemeckis",
+  "writer": [
+    "Martin Donovan",
+    "David Koepp"
+  ],
+  "actors": [
+     "Meryl Streep",
+     "Goldie Hawn",
+     "Bruce Willis",
+     "Isabella Rossellini"
+  ],
+  "storyline": "When a woman learns of an immortality treatment, she sees it as a way to outdo her long-time rival."
+}
