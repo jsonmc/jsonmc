@@ -1,0 +1,22 @@
+{
+  "name": "The Breakfast Club",
+  "year": 1985,
+  "runtime": 97,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "1985-02-15",
+  "director": "John Hughes",
+  "writer": [
+    "John Hughes"
+  ],
+  "actors": [
+    "Emilio Estevez",
+    "Judd Nelson",
+    "Molly Ringwald",
+	"Paul Gleeson",
+	"Ally Sheedy"
+  ],
+  "storyline": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought."
+}
