@@ -1,0 +1,31 @@
+{
+  "name": "High Fidelity",
+  "year": 2000,
+  "runtime": 113,
+  "categories": [
+    "comedy",
+    "drama",
+    "romantic"
+  ],
+  "release-date": "2000-03-11",
+  "director": "Stephen Frears",
+  "writer": [
+    "D.V. DeVincentis",
+    "Steve Pink",
+    "John Cusack",
+    "Scott Rosenberg"
+  ],
+  "actors": [
+    "John Cusack",
+    "Jack Black",
+    "Lisa Bonet",
+    "Joelle Carter",
+    "Joan Cusack",
+    "Sara Gilbert",
+    "Iben Hjejle",
+    "Todd Louiso",
+    "Lili Taylor",
+    "Natasha Gregson Wagner"
+  ],
+  "storyline": "Rob, a record store owner and compulsive list maker, recounts his top five breakups, including the one in progress."
+}

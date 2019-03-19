@@ -1,22 +1,22 @@
 {
-    "name": "Ghost in the Shell",
-    "year": 1995,
-    "runtime": 85,
-    "categories": [
-        "animation",
-        "drama",
-        "fantasy"
-    ],
-    "release-date": "1995-11-18",
-    "director": "Mamoru Oshii",
-    "writer": [
-        "Shirow Masamune",
-        "Kazunori Itô"
-    ],
-    "actors": [
-        "Atsuko Tanaka",
-        "Iemasa Kayumi",
-        "Akio Ôtsuka"
-    ],
-    "storyline": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master."
+  "name": "Ghost in the Shell",
+  "year": 1995,
+  "runtime": 85,
+  "categories": [
+    "animation",
+    "drama",
+    "fantasy"
+  ],
+  "release-date": "1995-11-18",
+  "director": "Mamoru Oshii",
+  "writer": [
+    "Shirow Masamune",
+    "Kazunori Itô"
+  ],
+  "actors": [
+    "Atsuko Tanaka",
+    "Iemasa Kayumi",
+    "Akio Ôtsuka"
+  ],
+  "storyline": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master."
 }

@@ -10,12 +10,13 @@
   "release-date": "1989-05-24",
   "director": "Steven Spielberg",
   "writer": [
-       "Jeffrey Boam",
-       "George Lucas"
+    "Jeffrey Boam",
+    "George Lucas"
   ],
   "actors": [
      "Harrison Ford",
      "Sean Connery",
      "Alison Doody"
-  ]
+  ],
+  "storyline": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against Adolf Hitler's Nazis again to stop them obtaining its powers."
 }
