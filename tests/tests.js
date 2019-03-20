@@ -1,12 +1,17 @@
 const fs = require('fs');
 const assert = require('assert');
 const path = require('path');
+const Ajv = require('ajv');
+
+const ajv = new Ajv();
+const movieSchema = require('../schemas/movie.json');
+const validateMovieSchema = ajv.compile(movieSchema);
+const personSchema = require('../schemas/person.json');
+const validatePersonSchema = ajv.compile(personSchema);
 
 const moviesFolder = './movies';
 const actorsFolder = './actors';
 const directorsFolder = './directors';
-
-const requiredProp = ['name', 'year', ['runtime', 'future']];
 
 const years = fs.readdirSync(moviesFolder);
 const actors = fs.readdirSync(actorsFolder);
@@ -40,23 +45,9 @@ years.sort().forEach(year => {
       .replace(/\s+/g, '-')
       .toLowerCase();
 
-    for (let i = 0; i < requiredProp.length; i++) {
-      const currentProp = requiredProp[i];
-      if (Array.isArray(currentProp)) {
-        let any = false;
-        currentProp.forEach(key => {
-          if (movie[key]) any = true;
-        });
-
-        if (!any) {
-          errorsFound = true;
-          movie_errors.push(fileName + ' missing one of the props: ' + currentProp.join(','));
-        }
-      } else if (!movie.hasOwnProperty(currentProp)){
-        errorsFound = true;
-        console.warn(fileName + ' doesn\'t contain ' + requiredProp[i]);
-        movie_errors.push(fileName + ' doesn\'t contain ' + requiredProp[i]);
-      }
+    const valid = validateMovieSchema(movie);
+    if (!valid) {
+      movie_errors.push(fileName + ' movie does not match JSON schema: ' + JSON.stringify(validateMovieSchema.errors, null, 2));
     }
 
     if (movie.year !== parseInt(year)) {
@@ -98,21 +89,10 @@ function validatePerson(file, folder) {
     throw new Error('Invalid JSON file: ' + fileName);
   }
 
-  const requiredProperties = [
-    'name',
-    'birthdate',
-    'birthplace'
-  ];
-
-  const checkProperties = requiredProperties.map(prop => person.hasOwnProperty(prop));
-
-  if (checkProperties.includes(false)) {
+  const valid = validatePersonSchema(person);
+  if (!valid) {
     errorsFound = true;
-    const missingProps = checkProperties
-      .filter(prop => prop === false)
-      .map((prop, index) => requiredProperties[index])
-      .join(', ');
-    console.warn(`${fileName} is missing the required properties: ${missingProps}`);
+    console.warn(`${fileName} person does not match JSON schema:`, validatePersonSchema.errors);
   }
 
   // Expect filename to be slug of person name

@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "definitions": {
+    "person": {
+      "type": "string"
+    },
+    "personArray": {
+      "type": "array",
+      "minItems": 2,
+      "uniqueItems": true,
+      "items": {
+        "$ref": "#/definitions/person"
+      }
+    },
+    "personOrPersonArray": {
+      "oneOf": [
+        { "$ref": "#/definitions/person" },
+        { "$ref": "#/definitions/personArray" }
+      ]
+    }
+  },
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer"
+    },
+    "runtime": {
+      "type": "number"
+    },
+    "future": {
+      "enum": [true]
+    },
+    "categories": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "action",
+          "adventure",
+          "animation",
+          "biography",
+          "comedy",
+          "comedy-drama",
+          "crime",
+          "drama",
+          "dystopian",
+          "family",
+          "fantasy",
+          "film-noir",
+          "history",
+          "horror",
+          "music",
+          "musical",
+          "mystery",
+          "romance",
+          "sci-fi",
+          "short",
+          "sport",
+          "spy",
+          "superhero",
+          "teen",
+          "thriller",
+          "western"
+        ]
+      }
+    },
+    "release-date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "director": {
+      "$ref": "#/definitions/personOrPersonArray"
+    },
+    "writer": {
+      "$ref": "#/definitions/personOrPersonArray"
+    },
+    "actors": {
+      "$ref": "#/definitions/personOrPersonArray"
+    },
+    "storyline": {
+      "type": "string"
+    }
+  },
+  "required": ["name", "year"],
+  "anyOf": [
+    { "required": ["runtime"] },
+    { "required": ["future"] }
+  ]
+}
