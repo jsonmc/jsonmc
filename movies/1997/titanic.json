@@ -1,0 +1,22 @@
+{
+    "name": "Titanic",
+    "year": 1997,
+    "runtime": 194,
+    "categories": [
+      "drama",
+      "romantic"
+    ],
+    "release-date": "1997-12-19",
+    "director": "James Francis Cameron",
+    "writer": [
+      "James Francis Cameron"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Gloria Stuart",
+      "Kathy Bates"
+    ],
+    "storyline": "A fictionalized account of the sinking of the RMS Titanic, it stars Leonardo DiCaprio and Kate Winslet as members of different social classes who fall in love aboard the ship during its ill-fated maiden voyage"
+  }
