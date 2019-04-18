@@ -1,0 +1,20 @@
+{
+  "name": "Hellraiser",
+  "year": 1987,
+  "runtime": 94,
+  "categories": [
+    "horror",
+    "thriller"
+  ],
+  "release-date": "1987-09-18",
+  "director": "Clive Barker",
+  "writer": "Clive Barker",
+  "actors": [
+    "Andrew Robinson",
+    "Clare Higgins",
+    "Ashley Laurence",
+    "Sean Chapman",
+    "Oliver Smith",  
+  ],
+  "storyline": "An unfaithful wife encounters the zombie of her dead lover; the demonic cenobites are pursuing him after he escaped their sadomasochistic underworld."
+}
