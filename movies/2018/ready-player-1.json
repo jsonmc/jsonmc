@@ -1,0 +1,24 @@
+{
+  "name": "Ready Player One",
+  "year": 2018,
+  "runtime": 140,
+  "categories": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "release-date": "2018-03-11",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Ernest Cline",
+    "Zak Penn",
+  ],
+  "actors": [
+    "Tye Sheridan",
+    "Olivia Cooke",
+    "Mark Rylance",
+    "Ben Mendelsohn",
+    "T. J. Miller"
+  ],
+  "storyline": "
+In a dystopian future, in 2044, Wade Watts (Tye Sheridan), like the rest of humanity, prefers the virtual reality of the OASIS game to the real world. When the creator of the game, eccentric James Halliday (Mark Rylance) dies, players must uncover the key to a diabolical puzzle to conquer their priceless fortune. To win, however, Watts will have to abandon virtual existence and give in to a life of love and reality from which he has always tried to escape."
+}
