@@ -1,0 +1,27 @@
+{
+  "name": "Die Hard",
+  "year": 1988,
+  "runtime": 132,
+  "categories": [
+    "action",
+    "thriller"
+  ],
+  "release-date": "1988-07-15",
+  "director": "John McTiernan",
+  "writer": [
+    "Roderick Thorp (novel)",
+    "Jeb Stuart",
+    "Steven E. de Souza"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Bonnie Bedelia",
+    "Reginald VelJohnson",
+    "Paul Gleason",
+    "William Atherton",
+    "Hart Bochner",
+    "James Shigeta",
+    "Alan Rickman"
+  ],
+  "storyline": "John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles."
+}
