@@ -1,0 +1,19 @@
+{
+  "name": "Toy Story 3",
+  "year": 2010,
+  "runtime": 103,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2010-06-17",
+  "director": "Lee Unkrich",
+  "writer": "John Lasseter",
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+  ],
+  "storyline": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+}
