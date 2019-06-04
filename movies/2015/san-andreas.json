@@ -1,0 +1,21 @@
+{
+  "name": "San Andreas",
+  "year": 2015,
+  "runtime": 109,
+  "categories": [
+    "horror",
+    "thriller"
+  ],
+  "release-date": "2018-05-29",
+  "director": "Brad Peyton",
+  "writer": [
+    "Carlton Cuse",
+    "Jeremy Passmore",
+    "Andre Fabrizio"
+  ],
+  "actors": [
+    "Dwyane Kohnson",
+    "Carla Gugino"
+  ],
+  "storyline": "Dr. Lawrence Hayes and his colleague Dr. Kim Park are at Hoover Dam doing research for a new earthquake predicting model when a nearby and previously unknown fault ruptures."
+}
