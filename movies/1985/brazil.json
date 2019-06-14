@@ -1,0 +1,23 @@
+{
+  "name": "Brazil",
+  "year": 1985,
+  "runtime": 132,
+  "categories": [
+    "darama",
+    "sci-fi"
+  ],
+  "release-date": "1985-12-18",
+  "director": "Terry Gilliam",
+  "writer": [
+    "Terry Gilliam",
+    "Tom Stoppard",
+    "Charles McKeown"
+  ],
+  "actors": [
+    "Jonathan Pryce",
+    "Robert De Niro",
+    "Katherine Helmond"
+  ],
+  "storyline": "A bureaucrat, in a retro-future world, tries to correct an administrative error and becomes an enemy of the state."
+}
+
