@@ -1,0 +1,29 @@
+{
+  "name": "Despicable Me",
+  "year": 2010,
+  "runtime": 95,
+  "categories": [
+    "animation",
+    "comedy",
+    "family"
+  ],
+  "release-date": "2010-10-15",
+  "director": [
+    "Pierre Coffin",
+    "Chris Renaud"
+  ],
+  "writer": [
+    "Cinco Paul",
+    "Ken Daurio",
+    "Sergio Pablos"
+  ],
+  "actors": [
+    "Steve Carell",
+    "Jason Segel",
+    "Russell Brand",
+    "Miranda Cosgrove",
+    "Dana Gaier",
+    "Elsie Fisher"
+  ],
+  "storyline": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better."
+}
