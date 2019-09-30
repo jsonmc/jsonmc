@@ -1,0 +1,31 @@
+{
+  "name": "Toy Story 4",
+  "year": 2019,
+  "runtime": 100,
+  "categories": [
+    "fantasy",
+    "adventure"
+  ],
+  "release-date": "2019-06-20",
+  "director": "Josh Cooley",
+  "writer": [
+    "Andrew Stanton",
+    "Stephany Folsom"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Annie Potts",
+    "Tony Hale",
+    "Keegan-Michael Key",
+    "Jordan Peele",
+    "Madeleine McGraw",
+    "Christina Hendricks",
+    "Keanu Reeves",
+    "Ally Maki",
+    "Jay Hernandez",
+    "Lori Alan",
+    "Joan Cusack"
+  ],
+  "storyline": "Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody's slight detour leads him to his long-lost friend Bo Peep."
+}
