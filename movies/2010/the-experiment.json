@@ -1,0 +1,35 @@
+{
+  "name": "The Experiment",
+  "year": 2010,
+  "runtime": 96,
+  "categories": [
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2010-08-12",
+  "director": [
+    "Paul Scheuring"
+  ],
+  "writer": [
+    "Paul Scheuring",
+    "Mario Giordano",
+    "Christoph Darnstädt",
+    "Don Bohlinger",
+    "Oliver Hirschbiegel"
+  ],
+  "actors": [
+    "Adrien Brody",
+    "Forest Whitaker",
+    "Cam Gigandet",
+    "Clifton Collins Jr.",
+    "Ethan Cohn",
+    "Fisher Stevens",
+    "Travis Fimmel",
+    "David Banner",
+    "Jason Lew"
+  ],
+  "storyline": "26 men are chosen to participate in the roles of guards and prisoners in a psychological study that ultimately spirals out of control."
+}
+
+
+
