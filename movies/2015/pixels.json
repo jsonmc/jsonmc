@@ -1,0 +1,37 @@
+{
+  "name": "Pixels",
+  "year": 2015,
+  "runtime": 106,
+  "categories": [
+    "animation",
+    "action",
+    "sci-fi",
+    "comedy"
+  ],
+  "release-date": "2015-07-24",
+  "director": "Chris Columbus",
+  "writer": [
+    "Tim Herlihy",
+    "Timothy Dowling",
+    "Patrick Jean"
+  ],
+  "actors": [
+    "Adam Sandler",
+    "Anthony Ippolito",
+    "Kevin James",
+    "Jared Riley",
+    "Michelle Monaghan",
+    "Peter Dinklage",
+    "Andrew Bambridge",
+    "Josh Gad",
+    "Jacob Shinder",
+    "Matt Lintz",
+    "Brian Cox",
+    "Sean Bean",
+    "Jane Krakowski",
+    "Affion Crockett",
+    "Ashley Benson",
+    "Lainie Kazan"
+  ],
+  "storyline": "When aliens misinterpret video-feeds of classic arcade games as a declaration of war against them, they attack the Earth, using the games like PAC-MAN, Donkey Kong, Galaga, Centipede and Space Invaders as models for their various assaults."
+}
