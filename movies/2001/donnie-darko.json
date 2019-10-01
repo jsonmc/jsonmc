@@ -1,0 +1,27 @@
+
+{
+    "name": "Donnie Darko",
+    "year": 2001,
+    "runtime": 133,
+    "categories": [
+      "drama",
+      "thriller",
+      "sci-fi"
+    ],
+    "release-date": "2001-10-26",
+    "director": "Richard Kelly",
+    "writer": [
+      "Richard Kelly"
+    ],
+    "actors": [
+      "Jake Gyllenhaal",
+      "Jena Malone",
+      "Patrick Swayze",
+      "Drew Barrymore",
+      "Maggie Gyllenhaal",
+      "Noah Wyle"
+    ],
+    "storyline": "Exploring notions of time travel and parallel universes, a teenage boy's visions set off a sequence of disturbing events in small-town Virginia, against the backdrop of the 1988 election."
+  }
+
+  
