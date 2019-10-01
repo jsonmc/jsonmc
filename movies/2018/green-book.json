@@ -1,0 +1,21 @@
+{
+  "name": "Green Book",
+  "year": 2008,
+  "runtime": 130,
+  "categories": [
+    "drama",
+    "english"
+  ],
+  "release-date": "2018-09-11",
+  "director": "Peter Farrelly",
+  "writer": [
+    "Michael Crichton",
+    "David Koepp"
+  ],
+  "actors": [
+    "Viggo Mortensen",
+    "Mahershala Ali",
+    "Linda Cardellini"
+  ],
+  "storyline": "Dr Don Shirley is a world-class African-American pianist, who is about to embark on a concert tour in the Deep South in 1962. In need of a driver and protection, Shirley recruits Tony Lip, a tough-talking bouncer from an Italian-American neighbourhood in the Bronx."
+}
