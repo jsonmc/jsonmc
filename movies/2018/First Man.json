@@ -1,0 +1,22 @@
+{
+  "name": "First Man",
+  "year": 2018,
+  "runtime": 141,
+  "categories": [
+    "biographical",
+    "drama",
+  ],
+  "release-date": "2018-09-07",
+  "director": "Damien Chazelle",
+  "writer": [
+    "Josh Singer",
+  ],
+  "actors": [
+    "Ryan Gosling",
+    "Jason Clarke",
+    "Claire Foy",
+    "Kyle Chandler",
+    "Corey Stoll"
+  ],
+  "storyline": "the film stars Ryan Gosling as Neil Armstrong, alongside Claire Foy, Jason Clarke, Kyle Chandler, Corey Stoll, Ciarán Hinds, Christopher Abbott, Patrick Fugit, and Lukas Haas, and follows the years leading up to the Apollo 11 mission to the Moon in 1969. Steven Spielberg serves as an executive producer."
+}
