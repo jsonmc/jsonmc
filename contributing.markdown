@@ -60,4 +60,4 @@ This information will be used to check if the movie release date has passed and 
 
 Your commit must pass the tests to be considered.
 
-If you believe that your commit is right and the test is wrong, leave a comment on your commit so I can check it out. Commits with tests errors without comments will not be addressed.
+If you believe that your commit is right and the test is wrong, leave a comment on your commit so that I can check it out. Commits with tests errors without comments will not be addressed.
