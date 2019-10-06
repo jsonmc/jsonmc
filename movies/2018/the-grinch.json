@@ -1,0 +1,23 @@
+{
+  "name": "The Grinch",
+  "year": 2018,
+  "runtime": 86,
+  "categories": [
+    "comedy",
+    "family",
+  ],
+  "release-date": "2018-10-22",
+  "director": "Scott Mosier",
+  "writer": [
+    "Michael LeSieur",
+    "Tommy Swerdlow",
+  ],
+  "actors": [
+    "Benedict Cumberbatch",
+    "Rashida Jones",
+    "Kenan Thompson",
+    "Cameron Seely",
+    "Angela Lansbury"
+  ],
+  "storyline": "The Grinch and his loyal dog, Max, live a solitary existence inside a cave on Mount Crumpet. His main source of aggravation comes during Christmastime when his neighbours in Whoville celebrate the holidays with a bang. When the Whos decide to make Christmas bigger and brighter, the disgruntled Grinch realises there is one way to gain peace and quiet. With help from Max, the green grump hatches a scheme to pose as Santa Claus, steal Christmas and silence the Whos' holiday cheer once and for all."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Logan",
+  "year": 2017,
+  "runtime": 137,
+  "categories": [
+    "superhero",
+    "action",
+    "drama",
+    "science-fiction"
+  ],
+  "release-date": "2017-02-17",
+  "director": "James Mangold",
+  "writers": [
+    "James Mangold",
+    "Michael Green",
+    "Scott Frank",
+  ],
+  "actors": [
+    "Hugh Jackman",
+    "Patrick Stewart",
+    "Richard E. Grant",
+    "Boyd Holbrook",
+    "Stephen Merchant",
+    "Dafne Keen"
+  ],
+  "storyline": "In the near future, a weary Logan (Hugh Jackman) cares for an ailing Professor X (Patrick Stewart) at a remote outpost on the Mexican border. His plan to hide from the outside world gets upended when he meets a young mutant (Dafne Keen) who is very much like him. Logan must now protect the girl and battle the dark forces that want to capture her."
+}
