@@ -1,6 +1,7 @@
 {
   "name": "The Martian",
   "year": 2015,
+<<<<<<< HEAD
   "runtime": 144,
   "categories": [
     "drama",
@@ -23,4 +24,30 @@
     "Kate Mara", 
     "Sebastian Stan"
   ]
+=======
+  "runtime": 151,
+  "categories": [
+    "sci-fi",
+    "adventure",
+    "drama"
+  ],
+  "release-date": "2015-10-02",
+  "director": "Ridley Scott",
+  "writer": "Drew Goddard",
+  "actors": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Kristen Wiig",
+    "Jeff Daniels",
+    "Sean Bean",
+    "Michael Peña",
+    "Kate Mara",
+    "Sebastian Stan",
+    "Aksel Hennie",
+    "Chiwetel Ejiofor",
+    "Donald Glover",
+    "Benedict Wong"
+  ],
+  "storyline": "An astronaut is left behind on Mars after his team assumes he has died and must rely on his own creativity and ingenuity to escape"
+>>>>>>> 52442449f8b812c6430649dbedc1a27968fe35fa
 }

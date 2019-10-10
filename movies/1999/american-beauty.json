@@ -1,0 +1,19 @@
+{
+        "name": "American Beauty",
+        "year": 1999,
+        "runtime": 122,
+        "categories": [
+          "drama"
+        ],
+        "release-date": "1999-01-10",
+        "director": "Sam Mendes",
+        "writer": [
+          "Alan Ball"
+        ],
+        "actors": [
+                "Kevin Spacey",
+                "Annette Bening",
+                "Thora Birch"
+        ],
+        "storyline": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+      }

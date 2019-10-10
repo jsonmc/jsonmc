@@ -1,0 +1,23 @@
+{
+    "name": "Mary Poppins Returns",
+    "year": 2018,
+    "director": "Rob Marshall",
+    "writer": [
+      "David Magee",
+      "P.L. Travers"
+    ],
+    "actors": [
+      "Emily Blunt",
+      "Meryl Streep",
+      "Ben Whishaw"
+    ],
+    "plot": "In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.",
+    "future": true,
+    "runtime": 145,
+    "released": "2018-12-25",
+    "categories": [
+      "family",
+      "fantasy",
+      "musical"
+    ]
+  }

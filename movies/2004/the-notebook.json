@@ -1,0 +1,22 @@
+{
+  "name": "The Notebook",
+  "year": 2004,
+  "runtime": 124,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "2004-06-25",
+  "director": "Nick Cassavetes",
+  "writer": [
+    "Jeremy Leven",
+    "Jan Sardi",
+    "Nicholas Sparks"
+  ],
+  "actors": [
+    "Gena Rowlands",
+    "James Garner",
+    "Rachel McAdams"
+  ],
+  "storyline":"A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences."
+}

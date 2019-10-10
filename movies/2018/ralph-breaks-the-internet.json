@@ -1,0 +1,23 @@
+{
+    "name": "Ralph Breaks the Internet",
+    "year": 2018,
+    "release-date": "2018-11-21",
+    "categories": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Phil Johnston",
+    "writer": [
+      "Phil Johnston",
+      "Pamela Ribon"
+    ],
+    "actors": [
+      "Sarah Silverman",
+      "Alan Tudyk",
+      "James Corden"
+    ],
+    "plot": "Wreck-It Ralph wrecks the internet.",
+    "future": true,
+    "runtime": 142
+  }

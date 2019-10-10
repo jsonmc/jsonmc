@@ -1,0 +1,22 @@
+{
+  "name": "The Disaster Artist",
+  "year": 2017,
+  "runtime": 104,
+  "categories": [
+    "biography",
+    "comedy",
+    "drama"
+  ],
+  "release-date": "2017-12-08",
+  "director": "James Franco",
+  "writer": [
+    "Scott Neustadter",
+    "Michael H. Weber"
+  ],
+  "actors": [
+    "James Franco",
+    "Dave Franco",
+    "Ari Graynor"
+  ],
+  "storyline": "When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true."
+}

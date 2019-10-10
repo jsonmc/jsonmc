@@ -1,0 +1,23 @@
+{
+  "name": "The Social Network",
+  "year": 2010,
+  "runtime": 120,
+  "categories": [
+    "biography",
+	"drama"
+  ],
+  "release-date": "2010-10-01",
+  "director": "David Fincher",
+  "writer": [
+    "Aaron Sorkin",
+    "Ben Mezrich"
+  ],
+  "actors": [
+    "Jesse Eisenberg",
+    "Justin Timberlake",
+    "Rooney Mara",
+	"Joseph Mazzello",
+	"Andrew Garfield"
+  ],
+  "storyline":"Harvard student Mark Zuckerberg creates a social networking site that would become Facebook and is later sued by two brothers who claimed that Zuckerberg stole their idea and the co-founder who was pushed out of the business"
+}

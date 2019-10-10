@@ -1,0 +1,31 @@
+{
+    "name": "Dragon: The Bruce Lee Story",
+    "year": 1993,
+    "runtime": 1120,
+    "categories": [
+      "biography",
+      "drama"
+    ],
+    "release-date": "2093-05-07",
+    "director": "Rob Cohen",
+    "writer": [
+      "Rob Cohen",
+      "John Raffo",
+      "Edward Khmara"
+    ],
+    "actors": [
+      "Jason Scott Lee",
+      "Lauren Holly",
+      "Michael Learned",
+      "Nancy Kwan",
+      "Kay Tong Lim",
+      "Sterling Macer",
+      "Sven-Ole Thorsen",
+      "Ric Young",
+      "Luoyong Wang",
+      "Eric Bruskotter",
+      "Aki Aleong",
+      "Robert Wagner"
+    ],
+    "storyline":"The film tells the story of actor and martial artist Bruce Lee."
+  }

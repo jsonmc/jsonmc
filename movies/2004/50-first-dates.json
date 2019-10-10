@@ -1,0 +1,24 @@
+{
+  "name": "50 First Dates",
+  "year": 2004,
+  "runtime": 99,
+  "categories": [
+    "comedy",
+    "drama",
+    "romance"
+  ],
+  "release-date": "2004-02-13",
+  "director": "Peter Segal",
+  "writer": [
+    "George Wing"
+  ],
+  "actors": [
+    "Adam Sandler",
+    "Drew Barrymore",
+    "Rob Schneider",
+    "Sean Astin",
+    "Blake Clark",
+    "Dan Aykroyd"
+  ],
+  "description": "Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day."
+}

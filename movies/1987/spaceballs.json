@@ -1,0 +1,35 @@
+{
+  "name": "Spaceballs",
+  "year": 1987,
+  "runtime": 96,
+  "categories": [
+    "adventure",
+    "comedy",
+    "sci-fi"
+  ],
+  "release-date": "1987-06-24",
+  "director": "Mel Brooks",
+  "writer": [
+    "Mel Brooks",
+    "Thomas Meehan",
+    "Ronny Graham"
+  ],
+  "actors": [
+    "Mel Brooks",
+    "John Candy",
+    "Rick Moranis",
+    "Bill Pullman",
+    "Daphne Zuniga",
+    "Dick Van Patten",
+    "George Wyner",
+    "Michael Winslow",
+    "Joan Rivers",
+    "Lorene Yarnell Jansson",
+    "John Hurt",
+    "Sal Viscuso",
+    "Ronny Graham",
+    "Jim J. Bullock",
+    "Leslie Bevis"
+  ],
+  "storyline": "Planet Spaceballs' President Skroob sends Lord Dark Helmet to steal planet Druidia's abundant supply of air to replenish their own, and only Lone Starr can stop them."
+}

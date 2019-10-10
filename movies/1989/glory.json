@@ -1,0 +1,25 @@
+{
+  "name": "Glory",
+  "year": 1989,
+  "runtime": 122,
+  "categories": [
+    "biography",
+    "drama",
+    "history"
+  ],
+  "release-date": "1990-01-16",
+  "director": "Edward Zwick",
+  "writer": [
+    "Kevin Jarre",
+    "Lincoln Kirstein",
+    "Peter Burchard",
+    "Robert Gould Shaw"
+  ],
+  "actors": [
+    "Matthew Broderick",
+    "Denzel Washington",
+    "Cary Elwes",
+    "Morgan Freeman"
+  ],
+  "storyline": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates."
+}

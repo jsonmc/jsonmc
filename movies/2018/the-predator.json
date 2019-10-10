@@ -1,0 +1,11 @@
+{
+  "name": "The Predator",
+  "year": 2018,
+  "runtime": 107,
+  "categories": ["horror", "action", "adventure"],
+  "release-date": "2018-09-14",
+  "director": "Shane Black",
+  "writer": ["Fred Dekker", "Shane Black", "Jim Thomas", "John Thomas"],
+  "actors": ["Boyd Holbrook", "Trevante Rhodes", "Jacob Tremblay"],
+  "storyline": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race."
+}

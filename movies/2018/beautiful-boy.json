@@ -1,0 +1,21 @@
+{
+    "name": "Beautiful Boy",
+    "year": 2018,
+    "runtime": 120,
+    "categories": [
+      "biography",
+      "drama"
+    ],
+    "release-date": "2018-10-12",
+    "director": "Felix Van Groeningen",
+    "writer": [
+        "Luke Davies",
+        "Felix Van Groeningen"
+    ],
+    "actors": [
+      "Steve Carell",
+      "Timothée Chalamet",
+      "Maura Tierney"
+    ],
+    "storyline":"Based on the best-selling pair of memoirs from father and son David and Nic Sheff, Beautiful Boy chronicles the heartbreaking and inspiring experience of survival, relapse, and recovery in a family coping with addiction over many years."
+}
