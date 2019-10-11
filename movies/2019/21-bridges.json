@@ -1,23 +1,25 @@
 {
-    "name": "",
-    "year": ,
-    "runtime": ,
+    "name": "21 Bridges",
+    "year": 2019,
+    "runtime": 99,
     "categories": [
-        "",
-        ""
+        "Action",
+        "Crime",
+        "Drama"
       ],
-    "release-date": "",
-    "director": "",
+    "release-date": "2019-11-22",
+    "director": "Brian Kirk",
     "writer": [
-      "",
-      ""
+      "Adam Mervis",
+      "Matthew Michael Carnahan"
     ],
     "actors": [
-      "",
-      "",
-      "",
-      ""
+      "Sienna Miller",
+      "Taylor Kitsch",
+      "J.K. Simmons",
+      "Keith David",
+      "Chadwick Boseman"
     ],
-    "storyline": ""
+    "storyline": "A disgraced detective in the NYPD is given a shot at redemption"
     
   } 
