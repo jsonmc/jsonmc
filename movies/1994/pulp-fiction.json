@@ -1,0 +1,33 @@
+{
+	"name": "Pulp Fiction",
+	"year": 1994,
+	"runtime": 194,
+	"categories": [
+		"drama",
+		"crime"
+	],
+	"release-date": "1994-05-21",
+	"director": "Quentin Tarantino",
+	"writer": [
+		"Quentin Tarantino",
+		"Roger Avery"
+	],
+	"actors": [
+		"Tim Roth",
+		"Amanda Plummer",
+		"Laura Lovelace",
+		"John Travolta",
+		"Samuel L. Jackson",
+		"Phil LaMarr",
+		"Frank Whaley",
+		"Burr Steers",
+		"Bruce Willis",
+		"Ving Rhames",
+		"Paul Calderon",
+		"Bronagh Gallagher",
+		"Rosanna Arquette",
+		"Eric Stolz",
+		"Uma Thurman"
+	],
+	"storyline": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+}
