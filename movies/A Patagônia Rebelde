@@ -1,0 +1,45 @@
+{
+  "name": "A Patagônia Rebelde",
+  "year": 1974,
+  "runtime": 50,
+  "categories": [
+    "Science Fiction",
+    "drama"
+  ],
+  "release-date": "1974-07-13",
+  "director": "Héctor Olivera",
+  "writer": [
+    "Fernando Ayala",	
+    "Osvaldo Bayer",
+    "Héctor Olivera"
+  ],
+  "actors": [
+    "Pedro Aleandro",
+    "Héctor Alterio	Héctor Alterio",
+    "Luis Brandoni	Luis Brandoni",
+    "Franklin Caicedo	Franklin Caicedo",
+    "Horacio Dener	Horacio Dener",
+    "Coco Fossati	Coco Fossati",
+    "José María Gutiérrez	José María Gutiérrez",
+    "Fernando Iglesias",
+    "Alfredo Iglesias	Alfredo Iglesias",
+    "Maurice Jouvet	Maurice Jouvet",
+    "Néstor Kirchner	Néstor Kirchner",
+    "Carlos Lasarte	Carlos Lasarte",
+    "Claudio Lucero	Claudio Lucero",
+    "Mario Luciani	Mario Luciani",
+    "Federico Luppi	Federico Luppi",
+    "Carlos Muñoz	Carlos Muñoz",
+    "Eduardo Muñoz	Eduardo Muñoz",
+    "Ernesto Nogués	Ernesto Nogués",
+    "Héctor Pellegrini	Héctor Pellegrini",
+    "Jorge Rivera López	Jorge Rivera López",
+    "Walter Santa Ana	Walter Santa Ana",
+    "Pepe Soriano	Pepe Soriano",
+    "Walter Soubrie	Walter Soubrie",
+    "Alfredo Suárez	Alfredo Suárez",
+    "Osvaldo Terranova	Osvaldo Terranova",
+    "Jorge Villalba	Jorge Villalba"    
+  ],
+  "storyline" : "In 1920, some workers of Patagonia, grouped in anarchist and socialist societies, decide to make a strike demanding better working conditions. The situation becomes unsustainable and the government sends the order is restored."
+}
