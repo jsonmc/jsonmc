@@ -1,0 +1,27 @@
+{
+  "name": "A Quiet Place",
+  "year": 2018,
+  "runtime": 90,
+  "categories": [
+    "horror",
+    "drama",
+    "suspence",
+    "mystery"
+  ],
+  "release-date": "2018-04-06",
+  "director": "John Krasinski",
+  "writer": [
+    "Bryan Woods",
+    "Scott Beck",
+    "John Krasinski"
+  ],
+  "actors": [
+    "John Krasinski",
+    "Emily Blunt",
+    "Cade Woodward",
+    "Noah Jupe",
+    "Millicent Simmonds",
+    "Leon Russom"
+  ],
+  "storyline": "The Abbott family has to live in quite manner in order to avoid being hunted by creatures that are sensitive to sound. Although they lose some of the family members along the way, they manage to find the weakness of the monster and kill them."
+}
