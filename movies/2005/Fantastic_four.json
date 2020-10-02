@@ -1,0 +1,22 @@
+{
+  "name": "Fantastic Four",
+  "year": 2005,
+  "runtime": 106,
+  "categories": [
+    "adventure",
+    "science and fiction",
+  ],
+  "release-date": "July 8, 2005",
+  "director": "Tim Story",
+  "writer": [
+    "Michael France",
+    "Mark Frost",
+  ],
+  "actors": [
+    "Jessica Alba",
+    "Chris Evans",
+    "Michael Chiklis"
+    "Ioan Gruffdd"
+  ],
+"description":"Transported to an alternate universe, four young outsiders gain superhuman powers as they alter their physical form in shocking ways. Reed Richards becomes Mr. Fantastic, able to stretch and twist his body at will, while pal Ben Grimm gains immense strength as the Thing. Johnny Storm becomes the Human Torch, able to control and project fire, while his sister Sue becomes the Invisible Woman. Together, the team must harness their new abilities to prevent Doctor Doom from destroying the Earth."
+}
