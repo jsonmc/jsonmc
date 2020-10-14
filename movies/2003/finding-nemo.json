@@ -1,0 +1,26 @@
+{
+  "name": "Finding Nemo",
+  "year": 2003,
+  "runtime": 100,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2003-05-30",
+  "director": [
+    "Andrew Stanton",
+    "Lee Unkrich"
+  ],
+  "writer": [
+    "Andrew Stanton",
+    "Bob Peterson",
+    "David Reynolds"
+  ],
+  "actors": [
+    "Albert Brooks",
+    "Ellen DeGeneres",
+    "Alexander Gould"
+  ],
+  "storyline": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home."
+}

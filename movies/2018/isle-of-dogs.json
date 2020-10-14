@@ -1,0 +1,27 @@
+{
+  "name": "Isle of Dogs",
+  "year": 2018,
+  "runtime": 101,
+  "categories": [
+    "animation",
+    "adventure"
+  ],
+  "release-date": "2018-02-15",
+  "director": "Wes Anderson",
+  "writer": [
+    "Wes Anderon",
+    "Roman Coppola",
+    "Jason Schwartzman",
+    "Kunichi Nomura"
+  ],
+  "actors": [
+    "Bryan Cranston",
+    "Edward Norton",
+    "Bill Murray",
+    "Jeff Goldblum",
+    "Bob Balaban",
+    "Kunichi Nomura",
+    "Ken Watanabe"
+  ],
+  "storyline": "Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog."
+}

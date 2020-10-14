@@ -1,0 +1,22 @@
+{
+  "name": "The Hateful Eight",
+  "year": 2015,
+  "runtime": 187,
+  "categories": [
+    "crime",
+    "drama",
+    "thriller",
+    "western"
+  ],
+  "release-date": "2015-12-30",
+  "director": "Quentin Tarantino",
+  "writer": [
+    "Quentin Tarantino"
+  ],
+  "actors": [
+    "Samuel L. Jackson",
+    "Kurt Russel",
+    "Jennifer Jason Leigh"
+  ],
+  "storyline": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters."
+}

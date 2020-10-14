@@ -1,0 +1,22 @@
+{
+  "name": "Forrest Gump",
+  "year": 1994,
+  "runtime": 142,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "1994-07-06",
+  "director": "Robert Zemeckis", 
+  "writer": [
+    "Winston Groom",
+    "Eric Roth"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ],
+  "storyline": "The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75."
+}
+  

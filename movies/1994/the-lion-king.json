@@ -1,0 +1,40 @@
+{
+  "name": "The Lion King",
+  "year": 1994,
+  "runtime": 88,
+  "categories": [
+    "animated",
+    "musical"
+  ],
+  "release-date": "1994-06-15",
+  "director": 
+    [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+  "writer":
+  [
+    "Linda Woolverton",
+    "Irene Mecchi",
+    "Jonathan Roberts",
+    "Joe Ranft"
+  ],
+  "actors": [
+    "Matthew Broderick",
+    "James Earl Jones",
+    "Jeremy Irons",
+    "Rowan Atkinson",
+    "Moira Kelly",
+    "Nathan Lane",
+    "Ernie Sabella",
+    "Robert Guillaume",
+    "Jonathan Taylor Thomas",
+    "Niketa Calame",
+    "Whoopi Goldberg",
+    "Cheech Marin",
+    "Jim Cummings",
+    "Madge Sinclair"
+  ],
+  "storyline": "The Lion King tells the story of Simba, a young lion who is to succeed his father, Mufasa, as King of the Pride Lands; however, after Simba's uncle Scar (Mufasa's jealous younger brother), murders Mufasa, Simba is manipulated into thinking he was responsible and flees into exile. Upon maturation living with two wastrels, Simba is given some valuable perspective from his childhood friend, Nala, and his shaman, Rafiki, before returning to challenge Scar to end his tyranny and take his place in the Circle of Life as the rightful King."
+}
+

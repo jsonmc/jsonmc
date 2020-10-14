@@ -1,0 +1,21 @@
+{
+    "name": "Vice",
+    "year": 2018,
+    "runtime": 124,
+    "release-date": "2018-12-21",
+    "categories": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "Adam McKay",
+    "writer": [
+      "Adam McKay"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Amy Adams",
+      "Steve Carell"
+    ],
+    "plot": "The story of former U.S. Vice President Dick Cheney who avoided military service during the 1960s Vietnam War, but became a stout advocate to invade Iraq in 2003 over false claims that it was developing nuclear weapons.",
+    "future": true
+  }

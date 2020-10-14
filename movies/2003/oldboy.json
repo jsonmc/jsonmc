@@ -1,0 +1,19 @@
+{
+  "name": "Oldboy",
+  "year": 2003,
+  "runtime": 101,
+  "categories": [
+    "action",
+    "drama",
+    "mystery"
+  ],
+  "release-date": "2003-10-15",
+  "director": "Chan-wook Park",
+  "writer": "Garon Tsuchiya",
+  "actors": [
+    "Min-sik Choi",
+    "Ji-tae Yu",
+    "Hye-jeong Kang"
+  ],
+  "storyline": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days."
+}
