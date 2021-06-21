@@ -1,0 +1,65 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @tausifshahbaz Sign out
+1
+0 1,259 tausifshahbaz/jsonmc
+forked from jsonmc/jsonmc
+ Code  Pull requests 0  Projects 0  Wiki  Insights  Settings
+jsonmc/movies/1972/the-godfather.json
+01639f9  27 days ago
+@jackwilsdon jackwilsdon Fix formatting
+@RCMainak @jackwilsdon
+    
+46 lines (45 sloc)  1.14 KB
+{
+  "name": "Beverly Hills Cop",
+  "year": 1984,
+  "Box Office": 31.64 crores USD,
+  "categories": [
+    "thriller",
+    "drama"
+  ],
+  "release-date": "1972-03-15",
+  "director": "Martin Brest",
+  "writer": [
+    "Daniel Petrie Jr.",
+    "Danilo Bach
+  ],
+  "actors": [
+    "Eddie Murphy",
+    "Judge Reinhold",
+    "John Ashton",
+    "Lisa Eilbacher",
+    "Ronny Cox",
+    "Steven Berkoff",
+    "James Russo",
+    "Jonathan Banks",
+    "Stephen Elliott",
+    "Gilbert R. Hill",
+    "Art Kimbro",
+    "Joel Bailey",
+    "Bronson Pinchot",
+    "Paul Reiser",
+    "Michael Champion"
+  ],
+  "storyline": "Detroit cop Axel Foley is delighted when he receives a surprise visit from his best friend Mikey Tandino, who lives in California. Not long after Mikey arrives in Detroit, Mikey is killed, right in front of Axel, by a man named Zack. Axel follows Zack to Beverly Hills, California, where Beverly Hills police department Lieutenant Andrew Bogomil assigns Detective Billy Rosewood and Rosewood's partner, Sergeant John Taggart, to keep an eye on Axel. Axel visits his friend Jenny Summers, who works in an art gallery. With Jenny's help, Axel discovers that Zack works for Jenny's boss, Victor Maitland, the man who owns the art gallery. Maitland is a drug kingpin who is using the gallery as a front, and Maitland had Zack kill Mikey after Maitland accused Mikey of stealing some of Maitland's bonds. With the help of Jenny, Billy, and Taggart, Axel does what he can to make sure Maitland and Zack won't kill any more people."
+}
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
