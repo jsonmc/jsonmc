@@ -1,0 +1,31 @@
+{
+  "name": "The Travelling Players",
+  "year": 1975,
+  "runtime": 230,
+  "categories": [
+    "drama",
+    "history",
+    "music",
+    "war"
+  ],
+  "release-date": "1976-09-06",
+  "director": "Theodoros Angelopoulos",
+  "writer": [
+    "Theodoros Angelopoulos"
+  ],
+  "actors": [
+    "Eva Kotamanidou",
+    "Aliki Georgouli",
+    "Stratos Pahis",
+    "Maria Vassiliou",
+    "Vangelis Kazan",
+    "Petros Zarkadis",
+    "Kiriakos Katrivanos",
+    "Giannis Fyrios",
+    "Nina Papazaphiropoulou",
+    "Alekos Boubis",
+    "Grigoris Evangelatos",
+    "Kosta Stiliaris"
+  ],
+  "storyline": "Greece 1939 - 1952 Fascist, Nazi, Communist conflict as seen through a family of travelling provincial players."
+}
