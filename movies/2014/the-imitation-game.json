@@ -1,0 +1,23 @@
+{
+  "name": "The Imitation game",
+  "year": 2014,
+  "runtime": 114,
+  "categories": [
+    "Drama",
+    "thriller"
+  ],
+  "release-date": "2014-11-28",
+  "director": "Mortem Tyldum",
+  "writer": [
+    "Graham Moore"
+  ],
+  "actors": [
+    "Benedict Cumberbatch",
+    "Keira Knightley",
+    "Matthew Goode",
+    "Rory Kinnear",
+    "Charles Dance",
+    "Mark Strong"
+  ],
+  "storyline": "In 1940, the mathematician Alain Turing was given by the Britannic government an impossible mission: break the Enigma, the well-known German encryption machine. With his works, Alain Turing will change the course of the World War II and of the History."
+}
