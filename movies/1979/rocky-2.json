@@ -1,0 +1,17 @@
+{
+  "name": "Rocky II",
+  "year": 1979,
+  "runtime": 120,
+  "categories": ["sports", "drama", "action"],
+  "release-date": "1979-07-15",
+  "director": "Sylvester Stallone",
+  "writer": ["Sylvester Stallone"],
+  "actors": [
+    "Sylvester Stallone",
+    "Talia Shire",
+    "Burt Young",
+    "Carl Weathers",
+    "Burgess Meredith"
+  ],
+  "storyline": "Although working-class Philadelphia boxer Rocky Balboa lost his high-profile bout with the cocky world champion Apollo Creed, his Cinderella story has caught the national sports media's attention, and he now has the opportunity to capitalize on his sudden fame. Meanwhile, Creed is still smarting from nearly losing to some palooka no one has ever heard of, and arrogantly prods his newfound nemesis into getting back into the ring."
+}
