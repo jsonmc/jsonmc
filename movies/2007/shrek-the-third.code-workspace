@@ -1,0 +1,28 @@
+{
+  "name": "Shrek the Third",
+  "year": 2007,
+  "runtime": 99,
+  "categories": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "2007-05-15",
+  "director": "Chris Miller",
+  "writer": [
+    "Jeffrey Price",
+    "Peter S. Seaman",
+    "Chris Miller",
+    "Aron Warner",
+    "Andrew Adamson",
+    "William Steig"
+  ],
+  "actors": [
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz",
+    "Antonio Banderas",
+    "Julie Andrews"
+  ],
+  "storyline": "When his new father-in-law, King Harold falls ill, Shrek is looked at as the heir to the land of Far, Far Away. Not one to give up his beloved swamp, Shrek recruits his friends Donkey and Puss in Boots to install the rebellious Artie as the new king. Princess Fiona, however, rallies a band of royal girlfriends to fend off a coup d'etat by the jilted Prince Charming."
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Pirates of the Caribbean: At World's End",
+  "year": 2007,
+  "runtime": 168,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2007-05-25",
+  "director": "Gore Verbinski",
+  "writer": [
+      
+    "Ted Elliott",
+    "Terry Rossio",
+    "Ted Elliott",
+    "Terry Rossio",
+    "Stuart Beattie",
+    "Jay Wolpert"
+  ],
+  "actors": [
+    "Johnny Depp",
+    "Geoffrey Rush",
+    "Orlando Bloom",
+    "Keira Knightley",
+    "Jack Davenport"
+  ],
+  "storyline": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle."
+}
