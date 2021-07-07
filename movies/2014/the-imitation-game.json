@@ -1,0 +1,27 @@
+{
+  "name": "The Imitation Game",
+  "year": 2014,
+  "runtime": 114,
+  "categories": [
+    "Action",
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller",
+    "War"
+  ],
+  "release-date": "2014-08-29",
+  "director": "Morten Tyldum",
+  "writer": [
+    "Graham Moore"
+  ],
+  "actors": [
+    "Benedict Cumberbatch",
+    "Keira Knightley",
+    "Matthew Goode",
+    "Rory Kinnear",
+    "Charles Dance",
+    "Mark Strong"
+  ],
+  "storyline": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II."
+}
