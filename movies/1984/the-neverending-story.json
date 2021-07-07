@@ -1,0 +1,27 @@
+{
+    "name": "The NeverEnding Story",
+    "year": 1984,
+    "runtime": 94,
+    "categories": [
+      "epic",
+      "fantasy"
+    ],
+    "description": "Bastian Balthazar Bux is a bibliophile kid with a widowed father and a passion for fantasy books. On his way to school, he steals from Mr. Corander, a grumpy bookseller, a mysterious book called 'The NeverEnding Story'. Soon, Bastian discovers that the book is not what it seems.",
+    "release-date": "1984-04-06",
+    "director": "Wolfgang Petersen",
+    "writer": [
+        "Wolfgang Petersen",
+        "Herman Weigel",
+        "Robert Easton"
+    ],
+    "actors": [
+        "Noah Hathaway",
+        "Barret Oliver",
+        "Tami Stronach",
+        "Patricia Hayes",
+        "Sydney Bromley",
+        "Gerald McRaney",
+        "Moses Gunn"
+    ]
+  }
+  
