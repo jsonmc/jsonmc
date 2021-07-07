@@ -1,0 +1,24 @@
+{
+  "name": "Reservoir Dogs",
+  "year": 1992,
+  "runtime": 99,
+  "categories": [
+    "heist",
+    "crime",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "1992-01-21",
+  "director": "Quentin Tarantino",
+  "writer": [
+    "Quentin Tarantino"
+  ],
+  "actors": [
+    "Harvey Keitel",
+    "Tim Roth",
+    "Steve Buscemi",
+    "Lawrence Tierney",
+    "Michael Madsen"
+  ],
+  "storyline": "They were perfect strangers, assembled to pull off the perfect crime. THen their simple robbery explodes into a bloody ambush, and the ruthless killers realize one of them is a police informer. But which one?"
+}
