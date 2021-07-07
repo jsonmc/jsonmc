@@ -1,0 +1,15 @@
+{
+  "name": "Meet the Spartans",
+  "year": 2008,
+  "runtime": 86,
+  "categories": [
+    "adventure",
+    "action",
+    "comedy"
+  ],
+  "release-date": "2008-01-25",
+  "director": ["Jason Friedberg", "Aaron Seltzer"],
+  "writer": ["Jason Friedberg", "Aaron Seltzer"],
+  "actors": ["Sean Maguire", "Kevin Sorbo", "Carmen Electra"],
+  "storyline": "The heroic Spartan king Leonidas, armed with nothing but leather underwear and a cape, leads a ragtag bunch of 13 Spartan misfit warriors to defend their homeland against thousands of invading Persians whom include the Ghost Rider, Rocky Balboa, the Autobots, and an ugly hunchbacked Paris Hilton and a shaved-head Brittany Spears."
+}
