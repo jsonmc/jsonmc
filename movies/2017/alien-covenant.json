@@ -1,0 +1,22 @@
+{
+	"name": "Alien: Covenant",
+	"year": 2017,
+	"runtime": 122,
+	"categories": [
+		"sci-fi",
+		"horror"
+	],
+	"release-date": "1993-06-11",
+	"director": "Ridley Scott",
+	"writer": [
+		"John Logan",
+		"Dante Harper"
+	],
+	"actors": [
+		"Michael Fassbender",
+		"Katherine Waterston ",
+		"Billy Crudup",
+		"Danny McBride"
+	],
+	"storyline": "The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape."
+}
