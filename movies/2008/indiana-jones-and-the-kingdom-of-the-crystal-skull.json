@@ -1,0 +1,28 @@
+{
+  "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+  "year": 2008,
+  "runtime": 119,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "2008-05-22",
+  "director": "Steven Spielberg",
+  "writer": [
+    "David Koepp",
+    "George Lucas",
+    "Jeff Nathanson",
+    "Philip Kaufman"
+  ],
+  "actors": [
+    "Harrison Ford",
+    "Cate Blanchett",
+    "Karen Allen",
+    "Ray Winstone",
+    "John Hurt",
+    "Jim Broadbent",
+    "Shia LaBeouf"
+  ],
+  "storyline": "In 1957, archaeologist and adventurer Dr. Henry 'Indiana' Jones, Jr. is called back into action and becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls."
+}
