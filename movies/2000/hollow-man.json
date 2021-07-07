@@ -1,0 +1,28 @@
+
+{
+  "name": "Hollow Man",
+  "year": 2000,
+  "runtime": 112,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2000-08-04",
+  "director": "Paul Verhoeven",
+  "writer": [
+    "Gary Scott Thompson",
+    "Andrew W. Marlowe"
+  ],
+  "actors": [
+    "Elisabeth Shue",
+    "Kevin Bacon",
+    "Josh Brolin",
+    "Kim Dickens",
+    "Greg Grunberg",
+    "William Devane",
+    "Mary Randle",
+    "Joey Slotnic"
+  ],
+  "storyline": "Sebastian Caine develops a serum that allows the user to become completely invisible. He experiments with the serum on himself, but is unable to return from his invisible state."
+}
