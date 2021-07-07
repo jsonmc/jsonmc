@@ -1,0 +1,21 @@
+{
+  "name": "Catch Me If You Can",
+  "year": 2002,
+  "runtime": 141,
+  "categories": [
+    "crime",
+    "drama",
+  ],
+  "release-date": "2002-12-25",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Jeff Nathanson",
+    "Frank Abagnale Jr."
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Tom Hanks",
+    "Christopher Walken"
+  ],
+  "storyline": "A seasoned FBI agent pursues Frank Abagnale Jr. who, before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and a legal prosecutor."
+}
