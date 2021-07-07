@@ -1,0 +1,23 @@
+{
+  "name": "Billy Madison",
+  "year": 1995,
+  "runtime": 89,
+  "categories": [
+    "comedy"
+  ],
+  "release-date": "1995-2-10",
+  "director": "Tamra Davis",
+  "writer": [
+    "Adam Sandler",
+    "Tim Herlihy"
+  ],
+  "actors": [
+    "Adam Sandler"
+    "Bradley Whitford"
+    "Josh Mostel"
+    "Bridgette Wilson"
+    "Norm Macdonald"
+    "Darren McGavin"
+  ],
+  "storyline": "A 27-year-old slacker is forced to reattend grades one to twelve to prove to his rich father that he is eligible to inherit his fortune."
+}
