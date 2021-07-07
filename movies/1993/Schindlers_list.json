@@ -1,0 +1,22 @@
+{
+  "name": "Schindlers-list"
+  "year": 1993,
+  "runtime": 127,
+  "categories": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "release-date": "1993-04-02",
+  "director": "Steven Spielberg",
+  "writer": [
+    "Thomsan Keneally",
+    "Steven Zaillian"
+  ],
+  "actors": [
+    "Liam Neeson",
+    "Ralph Fienees",
+    "Ben Kingsley"
+  ],
+  "storyline": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans. "
+}
