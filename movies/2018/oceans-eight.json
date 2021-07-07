@@ -1,0 +1,23 @@
+{
+  "name": "Ocean's Eight",
+  "year": 2018,
+  "runtime": 110,
+  "categories": [
+    "comedy",
+    "action"
+  ],
+  "release-date": "2018-06-05",
+  "director": "Gary Ross",
+  "writer": [
+    "Gary Ross",
+    "Olivia Mitch",
+    "George Clayton Johnson",
+    "Jack Golden Russell"
+  ],
+  "actors": [
+    "Sandra Bullock",
+    "Cate Blanchett",
+    "Rihanna"
+  ],
+  "storyline": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala."
+}
