@@ -1,0 +1,20 @@
+{
+  "name": "The Blues Brothers",
+  "year": 1980,
+  "runtime": 133,
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "release-date": "1980-06-20",
+  "director": "John Landis",
+  "writer": [
+    "Dan Aykroyd",
+    "John Landis"
+  ],
+  "actors": [
+    "John Belushi",
+    "Dan Aykroyd"
+  ],
+  "storyline": "Jake Blues, just out from prison, puts together his old band to save the Catholic home where he and brother Elwood were raised."
+}
