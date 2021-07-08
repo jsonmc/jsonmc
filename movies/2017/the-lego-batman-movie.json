@@ -1,0 +1,29 @@
+{
+  "name": "The Lego Batman Movie",
+  "year": 2017,
+  "runtime": 104,
+  "categories": [
+    "animation",
+    "action",
+    "adventure",
+    "comedy",
+    "family",
+    "fantasy",
+    "sci-fi"
+  ],
+  "release-date": "2017-02-10",
+  "director": "Chris McKay",
+  "writer": [
+    "Seth Grahame-Smith",
+    "Chris McKenna",
+    "Erik Sommers",
+    "Jared Stern",
+    "John Whittington"
+  ],
+  "actors": [
+    "Will Arnett",
+    "Zach Galifianakis",
+    "Michael Cera"
+  ],
+  "storyline": "In the irreverent spirit of fun that made The LEGO® Movie a worldwide phenomenon, the self-described leading man of that ensemble - LEGO® Batman - stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from the Joker's hostile takeover, Batman may have to drop the lone-vigilante thing, try to work with others and maybe, just maybe, learn to lighten up."
+}
