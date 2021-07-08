@@ -1,0 +1,22 @@
+{
+  "name": "John Wick: Chapter 2",
+  "year": 2017,
+  "runtime": 122,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2017-02-10",
+  "director": "Chad Stahelski",
+  "writer": [
+    "Derek Kolstad"
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Claudia Gerini",
+    "Laurence Fishburne",
+    "Ruby Rose"
+  ],
+  "storyline": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life."
+}
