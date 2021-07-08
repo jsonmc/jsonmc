@@ -1,0 +1,23 @@
+{
+    "name": "The Shining",
+    "year": 1980,
+    "runtime": 146,
+    "categories": [
+      "drama",
+      "horror"
+    ],
+    "release-date": "1980-06-13",
+    "director": "Stanley Kubrick",
+    "writer": [
+      "Stephen King",
+      "Stanley Kubrick",
+      "Diane Johnson"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Barry Nelson"
+    ],
+    "storyline": "A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future."
+}
