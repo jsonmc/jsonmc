@@ -1,0 +1,28 @@
+{
+  "name": "Birdman",
+  "year": 2014,
+  "runtime": 119,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "2014-11-14",
+  "director": "Alejandro G. Iñárritu",
+  "writer": [
+    "Alejandro G. Iñárritu",
+    "Nicolás Giacobone",
+    "Alexander Dinelaris",
+    "Armando Bo",
+    "Raymond Carver"
+  ],
+  "actors": [
+    "Michael Keaton",
+    "Zach Galifianakis",
+    "Edward Norton",
+    "Emma Stone",
+    "Naomi Watts",
+    "Jeremy Shamos",
+    "Andrea Risenborough"
+  ],
+  "storyline": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production."
+}
