@@ -1,0 +1,21 @@
+{
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "runtime": 95,
+    "categories": [
+      "comedy"
+    ],
+    "release-date": "1964-01-29",
+    "director": "Stanley Kubrick",
+    "writer": [
+        "Stanley Kubrick",
+        "Terry Southern",
+        "Peter George"
+    ],
+    "actors": [
+        "Peter Sellers", 
+        "George C. Scott",
+        "Sterling Hayden" 
+    ],
+    "storyline": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop."
+  }
