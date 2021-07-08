@@ -1,0 +1,22 @@
+{
+    "name": "Insidious",
+    "year": 2011,
+    "runtime": 103,
+    "categories": [
+        "Horror", 
+        "Mystery",
+        "Thriller"
+    ],
+    "release-date": "2011-03-31",
+    "director": "James Wan",
+    "writer": [
+        "Leigh Whannell"
+    ],
+    "actors": [
+        "Patrick Wilson",
+        "Rose Byrne", 
+        "Ty Simpkins"
+    ],
+    "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further."
+  }
+  
