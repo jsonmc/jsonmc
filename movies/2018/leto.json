@@ -1,0 +1,22 @@
+{
+  "name": "Leto",
+  "year": 2018,
+  "runtime": 126,
+  "categories": [
+    "biography",
+    "romance",
+    "music"
+  ],
+  "release-date": "2018-08-31",
+  "director": "Kirill Serebrennikov",
+  "writer": [
+    "Mikhail Idov",
+    "Lili Idova"
+  ],
+  "actors": [
+    "Tee Yoo",
+    "Irina Starshenbaum",
+    "Roman Bilyk"
+  ],
+  "storyline": "A love triangle emerges around a rock and roll musician, his protege, and his wife in 1980s Russia."
+}
