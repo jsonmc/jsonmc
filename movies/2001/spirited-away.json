@@ -1,0 +1,28 @@
+{
+  "name": "Spirited Away",
+  "year": 2001,
+  "runtime": 125,
+  "categories": [
+     "animation",
+     "adventure",
+     "family",
+     "fantasy",
+     "mystery"
+  ],
+  "release-date": "2001-07-20",
+  "director": "Hayao Miyazaki",
+  "writer": [
+    "Hayao Miyazaki"
+  ],
+  "actors": [
+    "Rumi Hiiragi",
+    "Miyu Irino",
+    "Mari Natsuki",
+    "Takeshi Naito",
+    "Yasuko Sawaguchi",
+    "Tsunehiko Kamijō",
+    "Takehiko Ono",
+    "Bunta Sugawara"
+  ],
+  "storyline": "10-year-old Chihiro (Rumi Hiiragi) and her parents (Takashi Naitô, Yasuko Sawaguchi) stumble upon a seemingly abandoned amusement park. After her mother and father are turned into giant pigs, Chihiro meets the mysterious Haku (Miyu Irino), who explains that the park is a resort for supernatural beings who need a break from their time spent in the earthly realm, and that she must work there to free herself and her parents."
+}
