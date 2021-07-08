@@ -1,0 +1,17 @@
+{
+  "name": "Incredibles 2",
+  "year": 2018,
+  "runtime": 127,
+  "categories": ["action", "sci-fi"],
+  "release-date": "2018-06-14",
+  "director": "Brad Bird",
+  "writer": ["Brad Bird"],
+  "actors": [
+    "Craig T. Nelson",
+    "Holly Hunter",
+    "Sarah Vowell",
+    "Huckleberry Milner",
+    "Samuel L. Jackson"
+  ],
+  "storyline": "The story follows the Parr family as they try to restore public's trust in superheroes while balancing their family life, only to combat a new foe who seeks to turn the populace against all superheroes."
+}
