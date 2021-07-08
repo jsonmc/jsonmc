@@ -1,0 +1,21 @@
+{
+  "name": "Halloween",
+  "year": 1978,
+  "runtime": 91,
+  "categories": [
+    "horror",
+    "thriller"
+  ],
+  "release-date": "1978-10-27",
+  "director": "John Carpenter",
+  "writer": [
+    "John Carpenter",
+    "Debra Hill"
+  ],
+  "actors": [
+    "Donald Pleasence",
+    "Jamie Lee Curtis",
+    "Tony Moran"
+  ],
+  "storyline": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again."
+}
