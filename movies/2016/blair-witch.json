@@ -1,0 +1,23 @@
+{
+  "name": "Blair Witch",
+  "year": 2016,
+  "runtime": 89,
+  "categories": [
+    "found-footage",
+    "horror",
+    "thriller"
+  ],
+  "release-date": "2016-09-16",
+  "director": [
+    "Adam Wingard"
+  ],
+  "writer": [
+    "Simon Barrett"
+  ],
+  "actors": [
+    "James Allen McCune",
+    "Callie Hernandez",
+    "Corbin Reid"
+  ],
+  "storyline": "After discovering a video showing what he believes to be his vanished sister Heather, James and a group of friends head to the forest believed to be inhabited by the Blair Witch."
+}
