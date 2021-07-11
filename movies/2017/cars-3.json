@@ -1,0 +1,23 @@
+{
+  "name": "Cars 3",
+  "year": 2017,
+  "runtime": 102,
+  "categories": [
+    "animation",
+    "comedy",
+    "sport"
+  ],
+  "release-date": "2017-06-16",
+  "director": "Brian Fee",
+  "writer": [
+    "Bob Peterson",
+    "Mike Rich",
+    "Kiel Murray"
+  ],
+  "actors": [
+    "Owen Wilson",
+    "Cristela Alonzo",
+    "Armie Hammer"
+  ],
+  "storyline": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world."
+}
